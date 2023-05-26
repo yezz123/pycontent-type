@@ -1,0 +1,28 @@
+{
+    "font": [
+        {
+            "Name": "collection",
+            "Template": "font/collection"
+        },
+        {
+            "Name": "otf",
+            "Template": "font/otf"
+        },
+        {
+            "Name": "sfnt",
+            "Template": "font/sfnt"
+        },
+        {
+            "Name": "ttf",
+            "Template": "font/ttf"
+        },
+        {
+            "Name": "woff",
+            "Template": "font/woff"
+        },
+        {
+            "Name": "woff2",
+            "Template": "font/woff2"
+        }
+    ]
+}

@@ -1,0 +1,6208 @@
+{
+    "application": [
+        {
+            "Name": "1d-interleaved-parityfec",
+            "Template": "application/1d-interleaved-parityfec"
+        },
+        {
+            "Name": "3gpdash-qoe-report+xml",
+            "Template": "application/3gpdash-qoe-report+xml"
+        },
+        {
+            "Name": "3gppHal+json",
+            "Template": "application/3gppHal+json"
+        },
+        {
+            "Name": "3gppHalForms+json",
+            "Template": "application/3gppHalForms+json"
+        },
+        {
+            "Name": "3gpp-ims+xml",
+            "Template": "application/3gpp-ims+xml"
+        },
+        {
+            "Name": "A2L",
+            "Template": "application/A2L"
+        },
+        {
+            "Name": "ace+cbor",
+            "Template": "application/ace+cbor"
+        },
+        {
+            "Name": "ace+json",
+            "Template": "application/ace+json"
+        },
+        {
+            "Name": "activemessage",
+            "Template": "application/activemessage"
+        },
+        {
+            "Name": "activity+json",
+            "Template": "application/activity+json"
+        },
+        {
+            "Name": "aif+cbor",
+            "Template": "application/aif+cbor"
+        },
+        {
+            "Name": "aif+json",
+            "Template": "application/aif+json"
+        },
+        {
+            "Name": "alto-cdni+json",
+            "Template": "application/alto-cdni+json"
+        },
+        {
+            "Name": "alto-cdnifilter+json",
+            "Template": "application/alto-cdnifilter+json"
+        },
+        {
+            "Name": "alto-costmap+json",
+            "Template": "application/alto-costmap+json"
+        },
+        {
+            "Name": "alto-costmapfilter+json",
+            "Template": "application/alto-costmapfilter+json"
+        },
+        {
+            "Name": "alto-directory+json",
+            "Template": "application/alto-directory+json"
+        },
+        {
+            "Name": "alto-endpointprop+json",
+            "Template": "application/alto-endpointprop+json"
+        },
+        {
+            "Name": "alto-endpointpropparams+json",
+            "Template": "application/alto-endpointpropparams+json"
+        },
+        {
+            "Name": "alto-endpointcost+json",
+            "Template": "application/alto-endpointcost+json"
+        },
+        {
+            "Name": "alto-endpointcostparams+json",
+            "Template": "application/alto-endpointcostparams+json"
+        },
+        {
+            "Name": "alto-error+json",
+            "Template": "application/alto-error+json"
+        },
+        {
+            "Name": "alto-networkmapfilter+json",
+            "Template": "application/alto-networkmapfilter+json"
+        },
+        {
+            "Name": "alto-networkmap+json",
+            "Template": "application/alto-networkmap+json"
+        },
+        {
+            "Name": "alto-propmap+json",
+            "Template": "application/alto-propmap+json"
+        },
+        {
+            "Name": "alto-propmapparams+json",
+            "Template": "application/alto-propmapparams+json"
+        },
+        {
+            "Name": "alto-updatestreamcontrol+json",
+            "Template": "application/alto-updatestreamcontrol+json"
+        },
+        {
+            "Name": "alto-updatestreamparams+json",
+            "Template": "application/alto-updatestreamparams+json"
+        },
+        {
+            "Name": "AML",
+            "Template": "application/AML"
+        },
+        {
+            "Name": "andrew-inset",
+            "Template": "application/andrew-inset"
+        },
+        {
+            "Name": "applefile",
+            "Template": "application/applefile"
+        },
+        {
+            "Name": "at+jwt",
+            "Template": "application/at+jwt"
+        },
+        {
+            "Name": "ATF",
+            "Template": "application/ATF"
+        },
+        {
+            "Name": "ATFX",
+            "Template": "application/ATFX"
+        },
+        {
+            "Name": "atom+xml",
+            "Template": "application/atom+xml"
+        },
+        {
+            "Name": "atomcat+xml",
+            "Template": "application/atomcat+xml"
+        },
+        {
+            "Name": "atomdeleted+xml",
+            "Template": "application/atomdeleted+xml"
+        },
+        {
+            "Name": "atomicmail",
+            "Template": "application/atomicmail"
+        },
+        {
+            "Name": "atomsvc+xml",
+            "Template": "application/atomsvc+xml"
+        },
+        {
+            "Name": "atsc-dwd+xml",
+            "Template": "application/atsc-dwd+xml"
+        },
+        {
+            "Name": "atsc-dynamic-event-message",
+            "Template": "application/atsc-dynamic-event-message"
+        },
+        {
+            "Name": "atsc-held+xml",
+            "Template": "application/atsc-held+xml"
+        },
+        {
+            "Name": "atsc-rdt+json",
+            "Template": "application/atsc-rdt+json"
+        },
+        {
+            "Name": "atsc-rsat+xml",
+            "Template": "application/atsc-rsat+xml"
+        },
+        {
+            "Name": "ATXML",
+            "Template": "application/ATXML"
+        },
+        {
+            "Name": "auth-policy+xml",
+            "Template": "application/auth-policy+xml"
+        },
+        {
+            "Name": "automationml-aml+xml",
+            "Template": "application/automationml-aml+xml"
+        },
+        {
+            "Name": "automationml-amlx+zip",
+            "Template": "application/automationml-amlx+zip"
+        },
+        {
+            "Name": "bacnet-xdd+zip",
+            "Template": "application/bacnet-xdd+zip"
+        },
+        {
+            "Name": "batch-SMTP",
+            "Template": "application/batch-SMTP"
+        },
+        {
+            "Name": "beep+xml",
+            "Template": "application/beep+xml"
+        },
+        {
+            "Name": "calendar+json",
+            "Template": "application/calendar+json"
+        },
+        {
+            "Name": "calendar+xml",
+            "Template": "application/calendar+xml"
+        },
+        {
+            "Name": "call-completion",
+            "Template": "application/call-completion"
+        },
+        {
+            "Name": "CALS-1840",
+            "Template": "application/CALS-1840"
+        },
+        {
+            "Name": "captive+json",
+            "Template": "application/captive+json"
+        },
+        {
+            "Name": "cbor",
+            "Template": "application/cbor"
+        },
+        {
+            "Name": "cbor-seq",
+            "Template": "application/cbor-seq"
+        },
+        {
+            "Name": "cccex",
+            "Template": "application/cccex"
+        },
+        {
+            "Name": "ccmp+xml",
+            "Template": "application/ccmp+xml"
+        },
+        {
+            "Name": "ccxml+xml",
+            "Template": "application/ccxml+xml"
+        },
+        {
+            "Name": "cda+xml",
+            "Template": "application/cda+xml"
+        },
+        {
+            "Name": "CDFX+XML",
+            "Template": "application/CDFX+XML"
+        },
+        {
+            "Name": "cdmi-capability",
+            "Template": "application/cdmi-capability"
+        },
+        {
+            "Name": "cdmi-container",
+            "Template": "application/cdmi-container"
+        },
+        {
+            "Name": "cdmi-domain",
+            "Template": "application/cdmi-domain"
+        },
+        {
+            "Name": "cdmi-object",
+            "Template": "application/cdmi-object"
+        },
+        {
+            "Name": "cdmi-queue",
+            "Template": "application/cdmi-queue"
+        },
+        {
+            "Name": "cdni",
+            "Template": "application/cdni"
+        },
+        {
+            "Name": "CEA",
+            "Template": "application/CEA"
+        },
+        {
+            "Name": "cea-2018+xml",
+            "Template": "application/cea-2018+xml"
+        },
+        {
+            "Name": "cellml+xml",
+            "Template": "application/cellml+xml"
+        },
+        {
+            "Name": "cfw",
+            "Template": "application/cfw"
+        },
+        {
+            "Name": "city+json",
+            "Template": "application/city+json"
+        },
+        {
+            "Name": "clr",
+            "Template": "application/clr"
+        },
+        {
+            "Name": "clue_info+xml",
+            "Template": "application/clue_info+xml"
+        },
+        {
+            "Name": "clue+xml",
+            "Template": "application/clue+xml"
+        },
+        {
+            "Name": "cms",
+            "Template": "application/cms"
+        },
+        {
+            "Name": "cnrp+xml",
+            "Template": "application/cnrp+xml"
+        },
+        {
+            "Name": "coap-group+json",
+            "Template": "application/coap-group+json"
+        },
+        {
+            "Name": "coap-payload",
+            "Template": "application/coap-payload"
+        },
+        {
+            "Name": "commonground",
+            "Template": "application/commonground"
+        },
+        {
+            "Name": "concise-problem-details+cbor",
+            "Template": "application/concise-problem-details+cbor"
+        },
+        {
+            "Name": "conference-info+xml",
+            "Template": "application/conference-info+xml"
+        },
+        {
+            "Name": "cpl+xml",
+            "Template": "application/cpl+xml"
+        },
+        {
+            "Name": "cose",
+            "Template": "application/cose"
+        },
+        {
+            "Name": "cose-key",
+            "Template": "application/cose-key"
+        },
+        {
+            "Name": "cose-key-set",
+            "Template": "application/cose-key-set"
+        },
+        {
+            "Name": "cose-x509",
+            "Template": "application/cose-x509"
+        },
+        {
+            "Name": "csrattrs",
+            "Template": "application/csrattrs"
+        },
+        {
+            "Name": "csta+xml",
+            "Template": "application/csta+xml"
+        },
+        {
+            "Name": "CSTAdata+xml",
+            "Template": "application/CSTAdata+xml"
+        },
+        {
+            "Name": "csvm+json",
+            "Template": "application/csvm+json"
+        },
+        {
+            "Name": "cwl",
+            "Template": "application/cwl"
+        },
+        {
+            "Name": "cwl+json",
+            "Template": "application/cwl+json"
+        },
+        {
+            "Name": "cwt",
+            "Template": "application/cwt"
+        },
+        {
+            "Name": "cybercash",
+            "Template": "application/cybercash"
+        },
+        {
+            "Name": "dash+xml",
+            "Template": "application/dash+xml"
+        },
+        {
+            "Name": "dash-patch+xml",
+            "Template": "application/dash-patch+xml"
+        },
+        {
+            "Name": "dashdelta",
+            "Template": "application/dashdelta"
+        },
+        {
+            "Name": "davmount+xml",
+            "Template": "application/davmount+xml"
+        },
+        {
+            "Name": "dca-rft",
+            "Template": "application/dca-rft"
+        },
+        {
+            "Name": "DCD",
+            "Template": "application/DCD"
+        },
+        {
+            "Name": "dec-dx",
+            "Template": "application/dec-dx"
+        },
+        {
+            "Name": "dialog-info+xml",
+            "Template": "application/dialog-info+xml"
+        },
+        {
+            "Name": "dicom",
+            "Template": "application/dicom"
+        },
+        {
+            "Name": "dicom+json",
+            "Template": "application/dicom+json"
+        },
+        {
+            "Name": "dicom+xml",
+            "Template": "application/dicom+xml"
+        },
+        {
+            "Name": "DII",
+            "Template": "application/DII"
+        },
+        {
+            "Name": "DIT",
+            "Template": "application/DIT"
+        },
+        {
+            "Name": "dns",
+            "Template": "application/dns"
+        },
+        {
+            "Name": "dns+json",
+            "Template": "application/dns+json"
+        },
+        {
+            "Name": "dns-message",
+            "Template": "application/dns-message"
+        },
+        {
+            "Name": "dots+cbor",
+            "Template": "application/dots+cbor"
+        },
+        {
+            "Name": "dpop+jwt",
+            "Template": "application/dpop+jwt"
+        },
+        {
+            "Name": "dskpp+xml",
+            "Template": "application/dskpp+xml"
+        },
+        {
+            "Name": "dssc+der",
+            "Template": "application/dssc+der"
+        },
+        {
+            "Name": "dssc+xml",
+            "Template": "application/dssc+xml"
+        },
+        {
+            "Name": "dvcs",
+            "Template": "application/dvcs"
+        },
+        {
+            "Name": "ecmascript (OBSOLETED in favor of text/javascript)",
+            "Template": "application/ecmascript"
+        },
+        {
+            "Name": "EDI-consent",
+            "Template": "application/EDI-consent"
+        },
+        {
+            "Name": "EDIFACT",
+            "Template": "application/EDIFACT"
+        },
+        {
+            "Name": "EDI-X12",
+            "Template": "application/EDI-X12"
+        },
+        {
+            "Name": "efi",
+            "Template": "application/efi"
+        },
+        {
+            "Name": "elm+json",
+            "Template": "application/elm+json"
+        },
+        {
+            "Name": "elm+xml",
+            "Template": "application/elm+xml"
+        },
+        {
+            "Name": "EmergencyCallData.cap+xml",
+            "Template": "application/EmergencyCallData.cap+xml"
+        },
+        {
+            "Name": "EmergencyCallData.Comment+xml",
+            "Template": "application/EmergencyCallData.Comment+xml"
+        },
+        {
+            "Name": "EmergencyCallData.Control+xml",
+            "Template": "application/EmergencyCallData.Control+xml"
+        },
+        {
+            "Name": "EmergencyCallData.DeviceInfo+xml",
+            "Template": "application/EmergencyCallData.DeviceInfo+xml"
+        },
+        {
+            "Name": "EmergencyCallData.eCall.MSD",
+            "Template": "application/EmergencyCallData.eCall.MSD"
+        },
+        {
+            "Name": "EmergencyCallData.LegacyESN+json",
+            "Template": "application/EmergencyCallData.LegacyESN+json"
+        },
+        {
+            "Name": "EmergencyCallData.ProviderInfo+xml",
+            "Template": "application/EmergencyCallData.ProviderInfo+xml"
+        },
+        {
+            "Name": "EmergencyCallData.ServiceInfo+xml",
+            "Template": "application/EmergencyCallData.ServiceInfo+xml"
+        },
+        {
+            "Name": "EmergencyCallData.SubscriberInfo+xml",
+            "Template": "application/EmergencyCallData.SubscriberInfo+xml"
+        },
+        {
+            "Name": "EmergencyCallData.VEDS+xml",
+            "Template": "application/EmergencyCallData.VEDS+xml"
+        },
+        {
+            "Name": "emma+xml",
+            "Template": "application/emma+xml"
+        },
+        {
+            "Name": "emotionml+xml",
+            "Template": "application/emotionml+xml"
+        },
+        {
+            "Name": "encaprtp",
+            "Template": "application/encaprtp"
+        },
+        {
+            "Name": "epp+xml",
+            "Template": "application/epp+xml"
+        },
+        {
+            "Name": "epub+zip",
+            "Template": "application/epub+zip"
+        },
+        {
+            "Name": "eshop",
+            "Template": "application/eshop"
+        },
+        {
+            "Name": "example",
+            "Template": "application/example"
+        },
+        {
+            "Name": "exi",
+            "Template": "application/exi"
+        },
+        {
+            "Name": "expect-ct-report+json",
+            "Template": "application/expect-ct-report+json"
+        },
+        {
+            "Name": "express",
+            "Template": "application/express"
+        },
+        {
+            "Name": "fastinfoset",
+            "Template": "application/fastinfoset"
+        },
+        {
+            "Name": "fastsoap",
+            "Template": "application/fastsoap"
+        },
+        {
+            "Name": "fdf",
+            "Template": "application/fdf"
+        },
+        {
+            "Name": "fdt+xml",
+            "Template": "application/fdt+xml"
+        },
+        {
+            "Name": "fhir+json",
+            "Template": "application/fhir+json"
+        },
+        {
+            "Name": "fhir+xml",
+            "Template": "application/fhir+xml"
+        },
+        {
+            "Name": "fits",
+            "Template": "application/fits"
+        },
+        {
+            "Name": "flexfec",
+            "Template": "application/flexfec"
+        },
+        {
+            "Name": "font-sfnt - DEPRECATED in favor of font/sfnt",
+            "Template": "application/font-sfnt"
+        },
+        {
+            "Name": "font-tdpfr",
+            "Template": "application/font-tdpfr"
+        },
+        {
+            "Name": "font-woff - DEPRECATED in favor of font/woff",
+            "Template": "application/font-woff"
+        },
+        {
+            "Name": "framework-attributes+xml",
+            "Template": "application/framework-attributes+xml"
+        },
+        {
+            "Name": "geo+json",
+            "Template": "application/geo+json"
+        },
+        {
+            "Name": "geo+json-seq",
+            "Template": "application/geo+json-seq"
+        },
+        {
+            "Name": "geopackage+sqlite3",
+            "Template": "application/geopackage+sqlite3"
+        },
+        {
+            "Name": "geoxacml+xml",
+            "Template": "application/geoxacml+xml"
+        },
+        {
+            "Name": "gltf-buffer",
+            "Template": "application/gltf-buffer"
+        },
+        {
+            "Name": "gml+xml",
+            "Template": "application/gml+xml"
+        },
+        {
+            "Name": "gzip",
+            "Template": "application/gzip"
+        },
+        {
+            "Name": "H224",
+            "Template": "application/H224"
+        },
+        {
+            "Name": "held+xml",
+            "Template": "application/held+xml"
+        },
+        {
+            "Name": "hl7v2+xml",
+            "Template": "application/hl7v2+xml"
+        },
+        {
+            "Name": "http",
+            "Template": "application/http"
+        },
+        {
+            "Name": "hyperstudio",
+            "Template": "application/hyperstudio"
+        },
+        {
+            "Name": "ibe-key-request+xml",
+            "Template": "application/ibe-key-request+xml"
+        },
+        {
+            "Name": "ibe-pkg-reply+xml",
+            "Template": "application/ibe-pkg-reply+xml"
+        },
+        {
+            "Name": "ibe-pp-data",
+            "Template": "application/ibe-pp-data"
+        },
+        {
+            "Name": "iges",
+            "Template": "application/iges"
+        },
+        {
+            "Name": "im-iscomposing+xml",
+            "Template": "application/im-iscomposing+xml"
+        },
+        {
+            "Name": "index",
+            "Template": "application/index"
+        },
+        {
+            "Name": "index.cmd",
+            "Template": "application/index.cmd"
+        },
+        {
+            "Name": "index.obj",
+            "Template": "application/index.obj"
+        },
+        {
+            "Name": "index.response",
+            "Template": "application/index.response"
+        },
+        {
+            "Name": "index.vnd",
+            "Template": "application/index.vnd"
+        },
+        {
+            "Name": "inkml+xml",
+            "Template": "application/inkml+xml"
+        },
+        {
+            "Name": "IOTP",
+            "Template": "application/IOTP"
+        },
+        {
+            "Name": "ipfix",
+            "Template": "application/ipfix"
+        },
+        {
+            "Name": "ipp",
+            "Template": "application/ipp"
+        },
+        {
+            "Name": "ISUP",
+            "Template": "application/ISUP"
+        },
+        {
+            "Name": "its+xml",
+            "Template": "application/its+xml"
+        },
+        {
+            "Name": "java-archive",
+            "Template": "application/java-archive"
+        },
+        {
+            "Name": "javascript (OBSOLETED in favor of text/javascript)",
+            "Template": "application/javascript"
+        },
+        {
+            "Name": "jf2feed+json",
+            "Template": "application/jf2feed+json"
+        },
+        {
+            "Name": "jose",
+            "Template": "application/jose"
+        },
+        {
+            "Name": "jose+json",
+            "Template": "application/jose+json"
+        },
+        {
+            "Name": "jrd+json",
+            "Template": "application/jrd+json"
+        },
+        {
+            "Name": "jscalendar+json",
+            "Template": "application/jscalendar+json"
+        },
+        {
+            "Name": "json",
+            "Template": "application/json"
+        },
+        {
+            "Name": "json-patch+json",
+            "Template": "application/json-patch+json"
+        },
+        {
+            "Name": "json-seq",
+            "Template": "application/json-seq"
+        },
+        {
+            "Name": "jwk+json",
+            "Template": "application/jwk+json"
+        },
+        {
+            "Name": "jwk-set+json",
+            "Template": "application/jwk-set+json"
+        },
+        {
+            "Name": "jwt",
+            "Template": "application/jwt"
+        },
+        {
+            "Name": "kpml-request+xml",
+            "Template": "application/kpml-request+xml"
+        },
+        {
+            "Name": "kpml-response+xml",
+            "Template": "application/kpml-response+xml"
+        },
+        {
+            "Name": "ld+json",
+            "Template": "application/ld+json"
+        },
+        {
+            "Name": "lgr+xml",
+            "Template": "application/lgr+xml"
+        },
+        {
+            "Name": "link-format",
+            "Template": "application/link-format"
+        },
+        {
+            "Name": "linkset",
+            "Template": "application/linkset"
+        },
+        {
+            "Name": "linkset+json",
+            "Template": "application/linkset+json"
+        },
+        {
+            "Name": "load-control+xml",
+            "Template": "application/load-control+xml"
+        },
+        {
+            "Name": "logout+jwt",
+            "Template": "application/logout+jwt"
+        },
+        {
+            "Name": "lost+xml",
+            "Template": "application/lost+xml"
+        },
+        {
+            "Name": "lostsync+xml",
+            "Template": "application/lostsync+xml"
+        },
+        {
+            "Name": "lpf+zip",
+            "Template": "application/lpf+zip"
+        },
+        {
+            "Name": "LXF",
+            "Template": "application/LXF"
+        },
+        {
+            "Name": "mac-binhex40",
+            "Template": "application/mac-binhex40"
+        },
+        {
+            "Name": "macwriteii",
+            "Template": "application/macwriteii"
+        },
+        {
+            "Name": "mads+xml",
+            "Template": "application/mads+xml"
+        },
+        {
+            "Name": "manifest+json",
+            "Template": "application/manifest+json"
+        },
+        {
+            "Name": "marc",
+            "Template": "application/marc"
+        },
+        {
+            "Name": "marcxml+xml",
+            "Template": "application/marcxml+xml"
+        },
+        {
+            "Name": "mathematica",
+            "Template": "application/mathematica"
+        },
+        {
+            "Name": "mathml+xml",
+            "Template": "application/mathml+xml"
+        },
+        {
+            "Name": "mathml-content+xml",
+            "Template": "application/mathml-content+xml"
+        },
+        {
+            "Name": "mathml-presentation+xml",
+            "Template": "application/mathml-presentation+xml"
+        },
+        {
+            "Name": "mbms-associated-procedure-description+xml",
+            "Template": "application/mbms-associated-procedure-description+xml"
+        },
+        {
+            "Name": "mbms-deregister+xml",
+            "Template": "application/mbms-deregister+xml"
+        },
+        {
+            "Name": "mbms-envelope+xml",
+            "Template": "application/mbms-envelope+xml"
+        },
+        {
+            "Name": "mbms-msk-response+xml",
+            "Template": "application/mbms-msk-response+xml"
+        },
+        {
+            "Name": "mbms-msk+xml",
+            "Template": "application/mbms-msk+xml"
+        },
+        {
+            "Name": "mbms-protection-description+xml",
+            "Template": "application/mbms-protection-description+xml"
+        },
+        {
+            "Name": "mbms-reception-report+xml",
+            "Template": "application/mbms-reception-report+xml"
+        },
+        {
+            "Name": "mbms-register-response+xml",
+            "Template": "application/mbms-register-response+xml"
+        },
+        {
+            "Name": "mbms-register+xml",
+            "Template": "application/mbms-register+xml"
+        },
+        {
+            "Name": "mbms-schedule+xml",
+            "Template": "application/mbms-schedule+xml"
+        },
+        {
+            "Name": "mbms-user-service-description+xml",
+            "Template": "application/mbms-user-service-description+xml"
+        },
+        {
+            "Name": "mbox",
+            "Template": "application/mbox"
+        },
+        {
+            "Name": "media_control+xml",
+            "Template": "application/media_control+xml"
+        },
+        {
+            "Name": "media-policy-dataset+xml",
+            "Template": "application/media-policy-dataset+xml"
+        },
+        {
+            "Name": "mediaservercontrol+xml",
+            "Template": "application/mediaservercontrol+xml"
+        },
+        {
+            "Name": "merge-patch+json",
+            "Template": "application/merge-patch+json"
+        },
+        {
+            "Name": "metalink4+xml",
+            "Template": "application/metalink4+xml"
+        },
+        {
+            "Name": "mets+xml",
+            "Template": "application/mets+xml"
+        },
+        {
+            "Name": "MF4",
+            "Template": "application/MF4"
+        },
+        {
+            "Name": "mikey",
+            "Template": "application/mikey"
+        },
+        {
+            "Name": "mipc",
+            "Template": "application/mipc"
+        },
+        {
+            "Name": "missing-blocks+cbor-seq",
+            "Template": "application/missing-blocks+cbor-seq"
+        },
+        {
+            "Name": "mmt-aei+xml",
+            "Template": "application/mmt-aei+xml"
+        },
+        {
+            "Name": "mmt-usd+xml",
+            "Template": "application/mmt-usd+xml"
+        },
+        {
+            "Name": "mods+xml",
+            "Template": "application/mods+xml"
+        },
+        {
+            "Name": "moss-keys",
+            "Template": "application/moss-keys"
+        },
+        {
+            "Name": "moss-signature",
+            "Template": "application/moss-signature"
+        },
+        {
+            "Name": "mosskey-data",
+            "Template": "application/mosskey-data"
+        },
+        {
+            "Name": "mosskey-request",
+            "Template": "application/mosskey-request"
+        },
+        {
+            "Name": "mp21",
+            "Template": "application/mp21"
+        },
+        {
+            "Name": "mp4",
+            "Template": "application/mp4"
+        },
+        {
+            "Name": "mpeg4-generic",
+            "Template": "application/mpeg4-generic"
+        },
+        {
+            "Name": "mpeg4-iod",
+            "Template": "application/mpeg4-iod"
+        },
+        {
+            "Name": "mpeg4-iod-xmt",
+            "Template": "application/mpeg4-iod-xmt"
+        },
+        {
+            "Name": "mrb-consumer+xml",
+            "Template": "application/mrb-consumer+xml"
+        },
+        {
+            "Name": "mrb-publish+xml",
+            "Template": "application/mrb-publish+xml"
+        },
+        {
+            "Name": "msc-ivr+xml",
+            "Template": "application/msc-ivr+xml"
+        },
+        {
+            "Name": "msc-mixer+xml",
+            "Template": "application/msc-mixer+xml"
+        },
+        {
+            "Name": "msword",
+            "Template": "application/msword"
+        },
+        {
+            "Name": "mud+json",
+            "Template": "application/mud+json"
+        },
+        {
+            "Name": "multipart-core",
+            "Template": "application/multipart-core"
+        },
+        {
+            "Name": "mxf",
+            "Template": "application/mxf"
+        },
+        {
+            "Name": "n-quads",
+            "Template": "application/n-quads"
+        },
+        {
+            "Name": "n-triples",
+            "Template": "application/n-triples"
+        },
+        {
+            "Name": "nasdata",
+            "Template": "application/nasdata"
+        },
+        {
+            "Name": "news-checkgroups",
+            "Template": "application/news-checkgroups"
+        },
+        {
+            "Name": "news-groupinfo",
+            "Template": "application/news-groupinfo"
+        },
+        {
+            "Name": "news-transmission",
+            "Template": "application/news-transmission"
+        },
+        {
+            "Name": "nlsml+xml",
+            "Template": "application/nlsml+xml"
+        },
+        {
+            "Name": "node",
+            "Template": "application/node"
+        },
+        {
+            "Name": "nss",
+            "Template": "application/nss"
+        },
+        {
+            "Name": "oauth-authz-req+jwt",
+            "Template": "application/oauth-authz-req+jwt"
+        },
+        {
+            "Name": "oblivious-dns-message",
+            "Template": "application/oblivious-dns-message"
+        },
+        {
+            "Name": "ocsp-request",
+            "Template": "application/ocsp-request"
+        },
+        {
+            "Name": "ocsp-response",
+            "Template": "application/ocsp-response"
+        },
+        {
+            "Name": "octet-stream",
+            "Template": "application/octet-stream"
+        },
+        {
+            "Name": "ODA",
+            "Template": "application/ODA"
+        },
+        {
+            "Name": "odm+xml",
+            "Template": "application/odm+xml"
+        },
+        {
+            "Name": "ODX",
+            "Template": "application/ODX"
+        },
+        {
+            "Name": "oebps-package+xml",
+            "Template": "application/oebps-package+xml"
+        },
+        {
+            "Name": "ogg",
+            "Template": "application/ogg"
+        },
+        {
+            "Name": "ohttp-keys",
+            "Template": "application/ohttp-keys"
+        },
+        {
+            "Name": "opc-nodeset+xml",
+            "Template": "application/opc-nodeset+xml"
+        },
+        {
+            "Name": "oscore",
+            "Template": "application/oscore"
+        },
+        {
+            "Name": "oxps",
+            "Template": "application/oxps"
+        },
+        {
+            "Name": "p21",
+            "Template": "application/p21"
+        },
+        {
+            "Name": "p21+zip",
+            "Template": "application/p21+zip"
+        },
+        {
+            "Name": "p2p-overlay+xml",
+            "Template": "application/p2p-overlay+xml"
+        },
+        {
+            "Name": "parityfec",
+            "Template": "application/parityfec"
+        },
+        {
+            "Name": "passport",
+            "Template": "application/passport"
+        },
+        {
+            "Name": "patch-ops-error+xml",
+            "Template": "application/patch-ops-error+xml"
+        },
+        {
+            "Name": "pdf",
+            "Template": "application/pdf"
+        },
+        {
+            "Name": "PDX",
+            "Template": "application/PDX"
+        },
+        {
+            "Name": "pem-certificate-chain",
+            "Template": "application/pem-certificate-chain"
+        },
+        {
+            "Name": "pgp-encrypted",
+            "Template": "application/pgp-encrypted"
+        },
+        {
+            "Name": "pgp-keys",
+            "Template": "application/pgp-keys"
+        },
+        {
+            "Name": "pgp-signature",
+            "Template": "application/pgp-signature"
+        },
+        {
+            "Name": "pidf-diff+xml",
+            "Template": "application/pidf-diff+xml"
+        },
+        {
+            "Name": "pidf+xml",
+            "Template": "application/pidf+xml"
+        },
+        {
+            "Name": "pkcs10",
+            "Template": "application/pkcs10"
+        },
+        {
+            "Name": "pkcs7-mime",
+            "Template": "application/pkcs7-mime"
+        },
+        {
+            "Name": "pkcs7-signature",
+            "Template": "application/pkcs7-signature"
+        },
+        {
+            "Name": "pkcs8",
+            "Template": "application/pkcs8"
+        },
+        {
+            "Name": "pkcs8-encrypted",
+            "Template": "application/pkcs8-encrypted"
+        },
+        {
+            "Name": "pkcs12",
+            "Template": "application/pkcs12"
+        },
+        {
+            "Name": "pkix-attr-cert",
+            "Template": "application/pkix-attr-cert"
+        },
+        {
+            "Name": "pkix-cert",
+            "Template": "application/pkix-cert"
+        },
+        {
+            "Name": "pkix-crl",
+            "Template": "application/pkix-crl"
+        },
+        {
+            "Name": "pkix-pkipath",
+            "Template": "application/pkix-pkipath"
+        },
+        {
+            "Name": "pkixcmp",
+            "Template": "application/pkixcmp"
+        },
+        {
+            "Name": "pls+xml",
+            "Template": "application/pls+xml"
+        },
+        {
+            "Name": "poc-settings+xml",
+            "Template": "application/poc-settings+xml"
+        },
+        {
+            "Name": "postscript",
+            "Template": "application/postscript"
+        },
+        {
+            "Name": "ppsp-tracker+json",
+            "Template": "application/ppsp-tracker+json"
+        },
+        {
+            "Name": "problem+json",
+            "Template": "application/problem+json"
+        },
+        {
+            "Name": "problem+xml",
+            "Template": "application/problem+xml"
+        },
+        {
+            "Name": "provenance+xml",
+            "Template": "application/provenance+xml"
+        },
+        {
+            "Name": "prs.alvestrand.titrax-sheet",
+            "Template": "application/prs.alvestrand.titrax-sheet"
+        },
+        {
+            "Name": "prs.cww",
+            "Template": "application/prs.cww"
+        },
+        {
+            "Name": "prs.cyn",
+            "Template": "application/prs.cyn"
+        },
+        {
+            "Name": "prs.hpub+zip",
+            "Template": "application/prs.hpub+zip"
+        },
+        {
+            "Name": "prs.implied-document+xml",
+            "Template": "application/prs.implied-document+xml"
+        },
+        {
+            "Name": "prs.implied-executable",
+            "Template": "application/prs.implied-executable"
+        },
+        {
+            "Name": "prs.implied-structure",
+            "Template": "application/prs.implied-structure"
+        },
+        {
+            "Name": "prs.nprend",
+            "Template": "application/prs.nprend"
+        },
+        {
+            "Name": "prs.plucker",
+            "Template": "application/prs.plucker"
+        },
+        {
+            "Name": "prs.rdf-xml-crypt",
+            "Template": "application/prs.rdf-xml-crypt"
+        },
+        {
+            "Name": "prs.xsf+xml",
+            "Template": "application/prs.xsf+xml"
+        },
+        {
+            "Name": "pskc+xml",
+            "Template": "application/pskc+xml"
+        },
+        {
+            "Name": "pvd+json",
+            "Template": "application/pvd+json"
+        },
+        {
+            "Name": "rdf+xml",
+            "Template": "application/rdf+xml"
+        },
+        {
+            "Name": "route-apd+xml",
+            "Template": "application/route-apd+xml"
+        },
+        {
+            "Name": "route-s-tsid+xml",
+            "Template": "application/route-s-tsid+xml"
+        },
+        {
+            "Name": "route-usd+xml",
+            "Template": "application/route-usd+xml"
+        },
+        {
+            "Name": "QSIG",
+            "Template": "application/QSIG"
+        },
+        {
+            "Name": "raptorfec",
+            "Template": "application/raptorfec"
+        },
+        {
+            "Name": "rdap+json",
+            "Template": "application/rdap+json"
+        },
+        {
+            "Name": "reginfo+xml",
+            "Template": "application/reginfo+xml"
+        },
+        {
+            "Name": "relax-ng-compact-syntax",
+            "Template": "application/relax-ng-compact-syntax"
+        },
+        {
+            "Name": "remote-printing (OBSOLETE)",
+            "Template": "application/remote-printing"
+        },
+        {
+            "Name": "reputon+json",
+            "Template": "application/reputon+json"
+        },
+        {
+            "Name": "resource-lists-diff+xml",
+            "Template": "application/resource-lists-diff+xml"
+        },
+        {
+            "Name": "resource-lists+xml",
+            "Template": "application/resource-lists+xml"
+        },
+        {
+            "Name": "rfc+xml",
+            "Template": "application/rfc+xml"
+        },
+        {
+            "Name": "riscos",
+            "Template": "application/riscos"
+        },
+        {
+            "Name": "rlmi+xml",
+            "Template": "application/rlmi+xml"
+        },
+        {
+            "Name": "rls-services+xml",
+            "Template": "application/rls-services+xml"
+        },
+        {
+            "Name": "rpki-checklist",
+            "Template": "application/rpki-checklist"
+        },
+        {
+            "Name": "rpki-ghostbusters",
+            "Template": "application/rpki-ghostbusters"
+        },
+        {
+            "Name": "rpki-manifest",
+            "Template": "application/rpki-manifest"
+        },
+        {
+            "Name": "rpki-publication",
+            "Template": "application/rpki-publication"
+        },
+        {
+            "Name": "rpki-roa",
+            "Template": "application/rpki-roa"
+        },
+        {
+            "Name": "rpki-updown",
+            "Template": "application/rpki-updown"
+        },
+        {
+            "Name": "rtf",
+            "Template": "application/rtf"
+        },
+        {
+            "Name": "rtploopback",
+            "Template": "application/rtploopback"
+        },
+        {
+            "Name": "rtx",
+            "Template": "application/rtx"
+        },
+        {
+            "Name": "samlassertion+xml",
+            "Template": "application/samlassertion+xml"
+        },
+        {
+            "Name": "samlmetadata+xml",
+            "Template": "application/samlmetadata+xml"
+        },
+        {
+            "Name": "sarif-external-properties+json",
+            "Template": "application/sarif-external-properties+json"
+        },
+        {
+            "Name": "sarif+json",
+            "Template": "application/sarif+json"
+        },
+        {
+            "Name": "sbe",
+            "Template": "application/sbe"
+        },
+        {
+            "Name": "sbml+xml",
+            "Template": "application/sbml+xml"
+        },
+        {
+            "Name": "scaip+xml",
+            "Template": "application/scaip+xml"
+        },
+        {
+            "Name": "scim+json",
+            "Template": "application/scim+json"
+        },
+        {
+            "Name": "scvp-cv-request",
+            "Template": "application/scvp-cv-request"
+        },
+        {
+            "Name": "scvp-cv-response",
+            "Template": "application/scvp-cv-response"
+        },
+        {
+            "Name": "scvp-vp-request",
+            "Template": "application/scvp-vp-request"
+        },
+        {
+            "Name": "scvp-vp-response",
+            "Template": "application/scvp-vp-response"
+        },
+        {
+            "Name": "sdp",
+            "Template": "application/sdp"
+        },
+        {
+            "Name": "secevent+jwt",
+            "Template": "application/secevent+jwt"
+        },
+        {
+            "Name": "senml-etch+cbor",
+            "Template": "application/senml-etch+cbor"
+        },
+        {
+            "Name": "senml-etch+json",
+            "Template": "application/senml-etch+json"
+        },
+        {
+            "Name": "senml-exi",
+            "Template": "application/senml-exi"
+        },
+        {
+            "Name": "senml+cbor",
+            "Template": "application/senml+cbor"
+        },
+        {
+            "Name": "senml+json",
+            "Template": "application/senml+json"
+        },
+        {
+            "Name": "senml+xml",
+            "Template": "application/senml+xml"
+        },
+        {
+            "Name": "sensml-exi",
+            "Template": "application/sensml-exi"
+        },
+        {
+            "Name": "sensml+cbor",
+            "Template": "application/sensml+cbor"
+        },
+        {
+            "Name": "sensml+json",
+            "Template": "application/sensml+json"
+        },
+        {
+            "Name": "sensml+xml",
+            "Template": "application/sensml+xml"
+        },
+        {
+            "Name": "sep-exi",
+            "Template": "application/sep-exi"
+        },
+        {
+            "Name": "sep+xml",
+            "Template": "application/sep+xml"
+        },
+        {
+            "Name": "session-info",
+            "Template": "application/session-info"
+        },
+        {
+            "Name": "set-payment",
+            "Template": "application/set-payment"
+        },
+        {
+            "Name": "set-payment-initiation",
+            "Template": "application/set-payment-initiation"
+        },
+        {
+            "Name": "set-registration",
+            "Template": "application/set-registration"
+        },
+        {
+            "Name": "set-registration-initiation",
+            "Template": "application/set-registration-initiation"
+        },
+        {
+            "Name": "SGML",
+            "Template": "application/SGML"
+        },
+        {
+            "Name": "sgml-open-catalog",
+            "Template": "application/sgml-open-catalog"
+        },
+        {
+            "Name": "shf+xml",
+            "Template": "application/shf+xml"
+        },
+        {
+            "Name": "sieve",
+            "Template": "application/sieve"
+        },
+        {
+            "Name": "simple-filter+xml",
+            "Template": "application/simple-filter+xml"
+        },
+        {
+            "Name": "simple-message-summary",
+            "Template": "application/simple-message-summary"
+        },
+        {
+            "Name": "simpleSymbolContainer",
+            "Template": "application/simpleSymbolContainer"
+        },
+        {
+            "Name": "sipc",
+            "Template": "application/sipc"
+        },
+        {
+            "Name": "slate",
+            "Template": "application/slate"
+        },
+        {
+            "Name": "smil (OBSOLETED in favor of application/smil+xml)",
+            "Template": "application/smil"
+        },
+        {
+            "Name": "smil+xml",
+            "Template": "application/smil+xml"
+        },
+        {
+            "Name": "smpte336m",
+            "Template": "application/smpte336m"
+        },
+        {
+            "Name": "soap+fastinfoset",
+            "Template": "application/soap+fastinfoset"
+        },
+        {
+            "Name": "soap+xml",
+            "Template": "application/soap+xml"
+        },
+        {
+            "Name": "sparql-query",
+            "Template": "application/sparql-query"
+        },
+        {
+            "Name": "spdx+json",
+            "Template": "application/spdx+json"
+        },
+        {
+            "Name": "sparql-results+xml",
+            "Template": "application/sparql-results+xml"
+        },
+        {
+            "Name": "spirits-event+xml",
+            "Template": "application/spirits-event+xml"
+        },
+        {
+            "Name": "sql",
+            "Template": "application/sql"
+        },
+        {
+            "Name": "srgs",
+            "Template": "application/srgs"
+        },
+        {
+            "Name": "srgs+xml",
+            "Template": "application/srgs+xml"
+        },
+        {
+            "Name": "sru+xml",
+            "Template": "application/sru+xml"
+        },
+        {
+            "Name": "ssml+xml",
+            "Template": "application/ssml+xml"
+        },
+        {
+            "Name": "stix+json",
+            "Template": "application/stix+json"
+        },
+        {
+            "Name": "swid+cbor",
+            "Template": "application/swid+cbor"
+        },
+        {
+            "Name": "swid+xml",
+            "Template": "application/swid+xml"
+        },
+        {
+            "Name": "tamp-apex-update",
+            "Template": "application/tamp-apex-update"
+        },
+        {
+            "Name": "tamp-apex-update-confirm",
+            "Template": "application/tamp-apex-update-confirm"
+        },
+        {
+            "Name": "tamp-community-update",
+            "Template": "application/tamp-community-update"
+        },
+        {
+            "Name": "tamp-community-update-confirm",
+            "Template": "application/tamp-community-update-confirm"
+        },
+        {
+            "Name": "tamp-error",
+            "Template": "application/tamp-error"
+        },
+        {
+            "Name": "tamp-sequence-adjust",
+            "Template": "application/tamp-sequence-adjust"
+        },
+        {
+            "Name": "tamp-sequence-adjust-confirm",
+            "Template": "application/tamp-sequence-adjust-confirm"
+        },
+        {
+            "Name": "tamp-status-query",
+            "Template": "application/tamp-status-query"
+        },
+        {
+            "Name": "tamp-status-response",
+            "Template": "application/tamp-status-response"
+        },
+        {
+            "Name": "tamp-update",
+            "Template": "application/tamp-update"
+        },
+        {
+            "Name": "tamp-update-confirm",
+            "Template": "application/tamp-update-confirm"
+        },
+        {
+            "Name": "taxii+json",
+            "Template": "application/taxii+json"
+        },
+        {
+            "Name": "td+json",
+            "Template": "application/td+json"
+        },
+        {
+            "Name": "tei+xml",
+            "Template": "application/tei+xml"
+        },
+        {
+            "Name": "TETRA_ISI",
+            "Template": "application/TETRA_ISI"
+        },
+        {
+            "Name": "thraud+xml",
+            "Template": "application/thraud+xml"
+        },
+        {
+            "Name": "timestamp-query",
+            "Template": "application/timestamp-query"
+        },
+        {
+            "Name": "timestamp-reply",
+            "Template": "application/timestamp-reply"
+        },
+        {
+            "Name": "timestamped-data",
+            "Template": "application/timestamped-data"
+        },
+        {
+            "Name": "tlsrpt+gzip",
+            "Template": "application/tlsrpt+gzip"
+        },
+        {
+            "Name": "tlsrpt+json",
+            "Template": "application/tlsrpt+json"
+        },
+        {
+            "Name": "tm+json",
+            "Template": "application/tm+json"
+        },
+        {
+            "Name": "tnauthlist",
+            "Template": "application/tnauthlist"
+        },
+        {
+            "Name": "token-introspection+jwt",
+            "Template": "application/token-introspection+jwt"
+        },
+        {
+            "Name": "trickle-ice-sdpfrag",
+            "Template": "application/trickle-ice-sdpfrag"
+        },
+        {
+            "Name": "trig",
+            "Template": "application/trig"
+        },
+        {
+            "Name": "ttml+xml",
+            "Template": "application/ttml+xml"
+        },
+        {
+            "Name": "tve-trigger",
+            "Template": "application/tve-trigger"
+        },
+        {
+            "Name": "tzif",
+            "Template": "application/tzif"
+        },
+        {
+            "Name": "tzif-leap",
+            "Template": "application/tzif-leap"
+        },
+        {
+            "Name": "ulpfec",
+            "Template": "application/ulpfec"
+        },
+        {
+            "Name": "urc-grpsheet+xml",
+            "Template": "application/urc-grpsheet+xml"
+        },
+        {
+            "Name": "urc-ressheet+xml",
+            "Template": "application/urc-ressheet+xml"
+        },
+        {
+            "Name": "urc-targetdesc+xml",
+            "Template": "application/urc-targetdesc+xml"
+        },
+        {
+            "Name": "urc-uisocketdesc+xml",
+            "Template": "application/urc-uisocketdesc+xml"
+        },
+        {
+            "Name": "vcard+json",
+            "Template": "application/vcard+json"
+        },
+        {
+            "Name": "vcard+xml",
+            "Template": "application/vcard+xml"
+        },
+        {
+            "Name": "vemmi",
+            "Template": "application/vemmi"
+        },
+        {
+            "Name": "vnd.1000minds.decision-model+xml",
+            "Template": "application/vnd.1000minds.decision-model+xml"
+        },
+        {
+            "Name": "vnd.1ob",
+            "Template": "application/vnd.1ob"
+        },
+        {
+            "Name": "vnd.3gpp.5gnas",
+            "Template": "application/vnd.3gpp.5gnas"
+        },
+        {
+            "Name": "vnd.3gpp.access-transfer-events+xml",
+            "Template": "application/vnd.3gpp.access-transfer-events+xml"
+        },
+        {
+            "Name": "vnd.3gpp.bsf+xml",
+            "Template": "application/vnd.3gpp.bsf+xml"
+        },
+        {
+            "Name": "vnd.3gpp.crs+xml",
+            "Template": "application/vnd.3gpp.crs+xml"
+        },
+        {
+            "Name": "vnd.3gpp.current-location-discovery+xml",
+            "Template": "application/vnd.3gpp.current-location-discovery+xml"
+        },
+        {
+            "Name": "vnd.3gpp.GMOP+xml",
+            "Template": "application/vnd.3gpp.GMOP+xml"
+        },
+        {
+            "Name": "vnd.3gpp.gtpc",
+            "Template": "application/vnd.3gpp.gtpc"
+        },
+        {
+            "Name": "vnd.3gpp.interworking-data",
+            "Template": "application/vnd.3gpp.interworking-data"
+        },
+        {
+            "Name": "vnd.3gpp.lpp",
+            "Template": "application/vnd.3gpp.lpp"
+        },
+        {
+            "Name": "vnd.3gpp.mc-signalling-ear",
+            "Template": "application/vnd.3gpp.mc-signalling-ear"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-affiliation-command+xml",
+            "Template": "application/vnd.3gpp.mcdata-affiliation-command+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-info+xml",
+            "Template": "application/vnd.3gpp.mcdata-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-msgstore-ctrl-request+xml",
+            "Template": "application/vnd.3gpp.mcdata-msgstore-ctrl-request+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-payload",
+            "Template": "application/vnd.3gpp.mcdata-payload"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-regroup+xml",
+            "Template": "application/vnd.3gpp.mcdata-regroup+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-service-config+xml",
+            "Template": "application/vnd.3gpp.mcdata-service-config+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-signalling",
+            "Template": "application/vnd.3gpp.mcdata-signalling"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-ue-config+xml",
+            "Template": "application/vnd.3gpp.mcdata-ue-config+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcdata-user-profile+xml",
+            "Template": "application/vnd.3gpp.mcdata-user-profile+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-affiliation-command+xml",
+            "Template": "application/vnd.3gpp.mcptt-affiliation-command+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-floor-request+xml",
+            "Template": "application/vnd.3gpp.mcptt-floor-request+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-info+xml",
+            "Template": "application/vnd.3gpp.mcptt-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-location-info+xml",
+            "Template": "application/vnd.3gpp.mcptt-location-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-mbms-usage-info+xml",
+            "Template": "application/vnd.3gpp.mcptt-mbms-usage-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-regroup+xml",
+            "Template": "application/vnd.3gpp.mcptt-regroup+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-service-config+xml",
+            "Template": "application/vnd.3gpp.mcptt-service-config+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-signed+xml",
+            "Template": "application/vnd.3gpp.mcptt-signed+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-ue-config+xml",
+            "Template": "application/vnd.3gpp.mcptt-ue-config+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-ue-init-config+xml",
+            "Template": "application/vnd.3gpp.mcptt-ue-init-config+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcptt-user-profile+xml",
+            "Template": "application/vnd.3gpp.mcptt-user-profile+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-affiliation-command+xml",
+            "Template": "application/vnd.3gpp.mcvideo-affiliation-command+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-affiliation-info+xml (OBSOLETED in favor of application/vnd.3gpp.mcvideo-info+xml)",
+            "Template": "application/vnd.3gpp.mcvideo-affiliation-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-info+xml",
+            "Template": "application/vnd.3gpp.mcvideo-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-location-info+xml",
+            "Template": "application/vnd.3gpp.mcvideo-location-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-mbms-usage-info+xml",
+            "Template": "application/vnd.3gpp.mcvideo-mbms-usage-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-regroup+xml",
+            "Template": "application/vnd.3gpp.mcvideo-regroup+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-service-config+xml",
+            "Template": "application/vnd.3gpp.mcvideo-service-config+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-transmission-request+xml",
+            "Template": "application/vnd.3gpp.mcvideo-transmission-request+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-ue-config+xml",
+            "Template": "application/vnd.3gpp.mcvideo-ue-config+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mcvideo-user-profile+xml",
+            "Template": "application/vnd.3gpp.mcvideo-user-profile+xml"
+        },
+        {
+            "Name": "vnd.3gpp.mid-call+xml",
+            "Template": "application/vnd.3gpp.mid-call+xml"
+        },
+        {
+            "Name": "vnd.3gpp.ngap",
+            "Template": "application/vnd.3gpp.ngap"
+        },
+        {
+            "Name": "vnd.3gpp.pfcp",
+            "Template": "application/vnd.3gpp.pfcp"
+        },
+        {
+            "Name": "vnd.3gpp.pic-bw-large",
+            "Template": "application/vnd.3gpp.pic-bw-large"
+        },
+        {
+            "Name": "vnd.3gpp.pic-bw-small",
+            "Template": "application/vnd.3gpp.pic-bw-small"
+        },
+        {
+            "Name": "vnd.3gpp.pic-bw-var",
+            "Template": "application/vnd.3gpp.pic-bw-var"
+        },
+        {
+            "Name": "vnd.3gpp-prose-pc3a+xml",
+            "Template": "application/vnd.3gpp-prose-pc3a+xml"
+        },
+        {
+            "Name": "vnd.3gpp-prose-pc3ach+xml",
+            "Template": "application/vnd.3gpp-prose-pc3ach+xml"
+        },
+        {
+            "Name": "vnd.3gpp-prose-pc3ch+xml",
+            "Template": "application/vnd.3gpp-prose-pc3ch+xml"
+        },
+        {
+            "Name": "vnd.3gpp-prose-pc8+xml",
+            "Template": "application/vnd.3gpp-prose-pc8+xml"
+        },
+        {
+            "Name": "vnd.3gpp-prose+xml",
+            "Template": "application/vnd.3gpp-prose+xml"
+        },
+        {
+            "Name": "vnd.3gpp.s1ap",
+            "Template": "application/vnd.3gpp.s1ap"
+        },
+        {
+            "Name": "vnd.3gpp.seal-group-doc+xml",
+            "Template": "application/vnd.3gpp.seal-group-doc+xml"
+        },
+        {
+            "Name": "vnd.3gpp.seal-info+xml",
+            "Template": "application/vnd.3gpp.seal-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.seal-location-info+xml",
+            "Template": "application/vnd.3gpp.seal-location-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.seal-mbms-usage-info+xml",
+            "Template": "application/vnd.3gpp.seal-mbms-usage-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.seal-network-QoS-management-info+xml",
+            "Template": "application/vnd.3gpp.seal-network-QoS-management-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.seal-ue-config-info+xml",
+            "Template": "application/vnd.3gpp.seal-ue-config-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.seal-unicast-info+xml",
+            "Template": "application/vnd.3gpp.seal-unicast-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.seal-user-profile-info+xml",
+            "Template": "application/vnd.3gpp.seal-user-profile-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.sms",
+            "Template": "application/vnd.3gpp.sms"
+        },
+        {
+            "Name": "vnd.3gpp.sms+xml",
+            "Template": "application/vnd.3gpp.sms+xml"
+        },
+        {
+            "Name": "vnd.3gpp.srvcc-ext+xml",
+            "Template": "application/vnd.3gpp.srvcc-ext+xml"
+        },
+        {
+            "Name": "vnd.3gpp.SRVCC-info+xml",
+            "Template": "application/vnd.3gpp.SRVCC-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.state-and-event-info+xml",
+            "Template": "application/vnd.3gpp.state-and-event-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp.ussd+xml",
+            "Template": "application/vnd.3gpp.ussd+xml"
+        },
+        {
+            "Name": "vnd.3gpp.vae-info+xml",
+            "Template": "application/vnd.3gpp.vae-info+xml"
+        },
+        {
+            "Name": "vnd.3gpp-v2x-local-service-information",
+            "Template": "application/vnd.3gpp-v2x-local-service-information"
+        },
+        {
+            "Name": "vnd.3gpp2.bcmcsinfo+xml",
+            "Template": "application/vnd.3gpp2.bcmcsinfo+xml"
+        },
+        {
+            "Name": "vnd.3gpp2.sms",
+            "Template": "application/vnd.3gpp2.sms"
+        },
+        {
+            "Name": "vnd.3gpp2.tcap",
+            "Template": "application/vnd.3gpp2.tcap"
+        },
+        {
+            "Name": "vnd.3gpp.v2x",
+            "Template": "application/vnd.3gpp.v2x"
+        },
+        {
+            "Name": "vnd.3lightssoftware.imagescal",
+            "Template": "application/vnd.3lightssoftware.imagescal"
+        },
+        {
+            "Name": "vnd.3M.Post-it-Notes",
+            "Template": "application/vnd.3M.Post-it-Notes"
+        },
+        {
+            "Name": "vnd.accpac.simply.aso",
+            "Template": "application/vnd.accpac.simply.aso"
+        },
+        {
+            "Name": "vnd.accpac.simply.imp",
+            "Template": "application/vnd.accpac.simply.imp"
+        },
+        {
+            "Name": "vnd.acm.addressxfer+json",
+            "Template": "application/vnd.acm.addressxfer+json"
+        },
+        {
+            "Name": "vnd.acucobol",
+            "Template": "application/vnd.acucobol"
+        },
+        {
+            "Name": "vnd.acucorp",
+            "Template": "application/vnd.acucorp"
+        },
+        {
+            "Name": "vnd.adobe.flash.movie",
+            "Template": "application/vnd.adobe.flash.movie"
+        },
+        {
+            "Name": "vnd.adobe.formscentral.fcdt",
+            "Template": "application/vnd.adobe.formscentral.fcdt"
+        },
+        {
+            "Name": "vnd.adobe.fxp",
+            "Template": "application/vnd.adobe.fxp"
+        },
+        {
+            "Name": "vnd.adobe.partial-upload",
+            "Template": "application/vnd.adobe.partial-upload"
+        },
+        {
+            "Name": "vnd.adobe.xdp+xml",
+            "Template": "application/vnd.adobe.xdp+xml"
+        },
+        {
+            "Name": "vnd.aether.imp",
+            "Template": "application/vnd.aether.imp"
+        },
+        {
+            "Name": "vnd.afpc.afplinedata",
+            "Template": "application/vnd.afpc.afplinedata"
+        },
+        {
+            "Name": "vnd.afpc.afplinedata-pagedef",
+            "Template": "application/vnd.afpc.afplinedata-pagedef"
+        },
+        {
+            "Name": "vnd.afpc.cmoca-cmresource",
+            "Template": "application/vnd.afpc.cmoca-cmresource"
+        },
+        {
+            "Name": "vnd.afpc.foca-charset",
+            "Template": "application/vnd.afpc.foca-charset"
+        },
+        {
+            "Name": "vnd.afpc.foca-codedfont",
+            "Template": "application/vnd.afpc.foca-codedfont"
+        },
+        {
+            "Name": "vnd.afpc.foca-codepage",
+            "Template": "application/vnd.afpc.foca-codepage"
+        },
+        {
+            "Name": "vnd.afpc.modca",
+            "Template": "application/vnd.afpc.modca"
+        },
+        {
+            "Name": "vnd.afpc.modca-cmtable",
+            "Template": "application/vnd.afpc.modca-cmtable"
+        },
+        {
+            "Name": "vnd.afpc.modca-formdef",
+            "Template": "application/vnd.afpc.modca-formdef"
+        },
+        {
+            "Name": "vnd.afpc.modca-mediummap",
+            "Template": "application/vnd.afpc.modca-mediummap"
+        },
+        {
+            "Name": "vnd.afpc.modca-objectcontainer",
+            "Template": "application/vnd.afpc.modca-objectcontainer"
+        },
+        {
+            "Name": "vnd.afpc.modca-overlay",
+            "Template": "application/vnd.afpc.modca-overlay"
+        },
+        {
+            "Name": "vnd.afpc.modca-pagesegment",
+            "Template": "application/vnd.afpc.modca-pagesegment"
+        },
+        {
+            "Name": "vnd.age",
+            "Template": "application/vnd.age"
+        },
+        {
+            "Name": "vnd.ah-barcode",
+            "Template": "application/vnd.ah-barcode"
+        },
+        {
+            "Name": "vnd.ahead.space",
+            "Template": "application/vnd.ahead.space"
+        },
+        {
+            "Name": "vnd.airzip.filesecure.azf",
+            "Template": "application/vnd.airzip.filesecure.azf"
+        },
+        {
+            "Name": "vnd.airzip.filesecure.azs",
+            "Template": "application/vnd.airzip.filesecure.azs"
+        },
+        {
+            "Name": "vnd.amadeus+json",
+            "Template": "application/vnd.amadeus+json"
+        },
+        {
+            "Name": "vnd.amazon.mobi8-ebook",
+            "Template": "application/vnd.amazon.mobi8-ebook"
+        },
+        {
+            "Name": "vnd.americandynamics.acc",
+            "Template": "application/vnd.americandynamics.acc"
+        },
+        {
+            "Name": "vnd.amiga.ami",
+            "Template": "application/vnd.amiga.ami"
+        },
+        {
+            "Name": "vnd.amundsen.maze+xml",
+            "Template": "application/vnd.amundsen.maze+xml"
+        },
+        {
+            "Name": "vnd.android.ota",
+            "Template": "application/vnd.android.ota"
+        },
+        {
+            "Name": "vnd.anki",
+            "Template": "application/vnd.anki"
+        },
+        {
+            "Name": "vnd.anser-web-certificate-issue-initiation",
+            "Template": "application/vnd.anser-web-certificate-issue-initiation"
+        },
+        {
+            "Name": "vnd.antix.game-component",
+            "Template": "application/vnd.antix.game-component"
+        },
+        {
+            "Name": "vnd.apache.arrow.file",
+            "Template": "application/vnd.apache.arrow.file"
+        },
+        {
+            "Name": "vnd.apache.arrow.stream",
+            "Template": "application/vnd.apache.arrow.stream"
+        },
+        {
+            "Name": "vnd.apache.thrift.binary",
+            "Template": "application/vnd.apache.thrift.binary"
+        },
+        {
+            "Name": "vnd.apache.thrift.compact",
+            "Template": "application/vnd.apache.thrift.compact"
+        },
+        {
+            "Name": "vnd.apache.thrift.json",
+            "Template": "application/vnd.apache.thrift.json"
+        },
+        {
+            "Name": "vnd.apexlang",
+            "Template": "application/vnd.apexlang"
+        },
+        {
+            "Name": "vnd.api+json",
+            "Template": "application/vnd.api+json"
+        },
+        {
+            "Name": "vnd.aplextor.warrp+json",
+            "Template": "application/vnd.aplextor.warrp+json"
+        },
+        {
+            "Name": "vnd.apothekende.reservation+json",
+            "Template": "application/vnd.apothekende.reservation+json"
+        },
+        {
+            "Name": "vnd.apple.installer+xml",
+            "Template": "application/vnd.apple.installer+xml"
+        },
+        {
+            "Name": "vnd.apple.keynote",
+            "Template": "application/vnd.apple.keynote"
+        },
+        {
+            "Name": "vnd.apple.mpegurl",
+            "Template": "application/vnd.apple.mpegurl"
+        },
+        {
+            "Name": "vnd.apple.numbers",
+            "Template": "application/vnd.apple.numbers"
+        },
+        {
+            "Name": "vnd.apple.pages",
+            "Template": "application/vnd.apple.pages"
+        },
+        {
+            "Name": "vnd.arastra.swi (OBSOLETED in favor of application/vnd.aristanetworks.swi)",
+            "Template": "application/vnd.arastra.swi"
+        },
+        {
+            "Name": "vnd.aristanetworks.swi",
+            "Template": "application/vnd.aristanetworks.swi"
+        },
+        {
+            "Name": "vnd.artisan+json",
+            "Template": "application/vnd.artisan+json"
+        },
+        {
+            "Name": "vnd.artsquare",
+            "Template": "application/vnd.artsquare"
+        },
+        {
+            "Name": "vnd.astraea-software.iota",
+            "Template": "application/vnd.astraea-software.iota"
+        },
+        {
+            "Name": "vnd.audiograph",
+            "Template": "application/vnd.audiograph"
+        },
+        {
+            "Name": "vnd.autopackage",
+            "Template": "application/vnd.autopackage"
+        },
+        {
+            "Name": "vnd.avalon+json",
+            "Template": "application/vnd.avalon+json"
+        },
+        {
+            "Name": "vnd.avistar+xml",
+            "Template": "application/vnd.avistar+xml"
+        },
+        {
+            "Name": "vnd.balsamiq.bmml+xml",
+            "Template": "application/vnd.balsamiq.bmml+xml"
+        },
+        {
+            "Name": "vnd.banana-accounting",
+            "Template": "application/vnd.banana-accounting"
+        },
+        {
+            "Name": "vnd.bbf.usp.error",
+            "Template": "application/vnd.bbf.usp.error"
+        },
+        {
+            "Name": "vnd.bbf.usp.msg",
+            "Template": "application/vnd.bbf.usp.msg"
+        },
+        {
+            "Name": "vnd.bbf.usp.msg+json",
+            "Template": "application/vnd.bbf.usp.msg+json"
+        },
+        {
+            "Name": "vnd.balsamiq.bmpr",
+            "Template": "application/vnd.balsamiq.bmpr"
+        },
+        {
+            "Name": "vnd.bekitzur-stech+json",
+            "Template": "application/vnd.bekitzur-stech+json"
+        },
+        {
+            "Name": "vnd.belightsoft.lhzd+zip",
+            "Template": "application/vnd.belightsoft.lhzd+zip"
+        },
+        {
+            "Name": "vnd.belightsoft.lhzl+zip",
+            "Template": "application/vnd.belightsoft.lhzl+zip"
+        },
+        {
+            "Name": "vnd.bint.med-content",
+            "Template": "application/vnd.bint.med-content"
+        },
+        {
+            "Name": "vnd.biopax.rdf+xml",
+            "Template": "application/vnd.biopax.rdf+xml"
+        },
+        {
+            "Name": "vnd.blink-idb-value-wrapper",
+            "Template": "application/vnd.blink-idb-value-wrapper"
+        },
+        {
+            "Name": "vnd.blueice.multipass",
+            "Template": "application/vnd.blueice.multipass"
+        },
+        {
+            "Name": "vnd.bluetooth.ep.oob",
+            "Template": "application/vnd.bluetooth.ep.oob"
+        },
+        {
+            "Name": "vnd.bluetooth.le.oob",
+            "Template": "application/vnd.bluetooth.le.oob"
+        },
+        {
+            "Name": "vnd.bmi",
+            "Template": "application/vnd.bmi"
+        },
+        {
+            "Name": "vnd.bpf",
+            "Template": "application/vnd.bpf"
+        },
+        {
+            "Name": "vnd.bpf3",
+            "Template": "application/vnd.bpf3"
+        },
+        {
+            "Name": "vnd.businessobjects",
+            "Template": "application/vnd.businessobjects"
+        },
+        {
+            "Name": "vnd.byu.uapi+json",
+            "Template": "application/vnd.byu.uapi+json"
+        },
+        {
+            "Name": "vnd.cab-jscript",
+            "Template": "application/vnd.cab-jscript"
+        },
+        {
+            "Name": "vnd.canon-cpdl",
+            "Template": "application/vnd.canon-cpdl"
+        },
+        {
+            "Name": "vnd.canon-lips",
+            "Template": "application/vnd.canon-lips"
+        },
+        {
+            "Name": "vnd.capasystems-pg+json",
+            "Template": "application/vnd.capasystems-pg+json"
+        },
+        {
+            "Name": "vnd.cendio.thinlinc.clientconf",
+            "Template": "application/vnd.cendio.thinlinc.clientconf"
+        },
+        {
+            "Name": "vnd.century-systems.tcp_stream",
+            "Template": "application/vnd.century-systems.tcp_stream"
+        },
+        {
+            "Name": "vnd.chemdraw+xml",
+            "Template": "application/vnd.chemdraw+xml"
+        },
+        {
+            "Name": "vnd.chess-pgn",
+            "Template": "application/vnd.chess-pgn"
+        },
+        {
+            "Name": "vnd.chipnuts.karaoke-mmd",
+            "Template": "application/vnd.chipnuts.karaoke-mmd"
+        },
+        {
+            "Name": "vnd.ciedi",
+            "Template": "application/vnd.ciedi"
+        },
+        {
+            "Name": "vnd.cinderella",
+            "Template": "application/vnd.cinderella"
+        },
+        {
+            "Name": "vnd.cirpack.isdn-ext",
+            "Template": "application/vnd.cirpack.isdn-ext"
+        },
+        {
+            "Name": "vnd.citationstyles.style+xml",
+            "Template": "application/vnd.citationstyles.style+xml"
+        },
+        {
+            "Name": "vnd.claymore",
+            "Template": "application/vnd.claymore"
+        },
+        {
+            "Name": "vnd.cloanto.rp9",
+            "Template": "application/vnd.cloanto.rp9"
+        },
+        {
+            "Name": "vnd.clonk.c4group",
+            "Template": "application/vnd.clonk.c4group"
+        },
+        {
+            "Name": "vnd.cluetrust.cartomobile-config",
+            "Template": "application/vnd.cluetrust.cartomobile-config"
+        },
+        {
+            "Name": "vnd.cluetrust.cartomobile-config-pkg",
+            "Template": "application/vnd.cluetrust.cartomobile-config-pkg"
+        },
+        {
+            "Name": "vnd.cncf.helm.chart.content.v1.tar+gzip",
+            "Template": "application/vnd.cncf.helm.chart.content.v1.tar+gzip"
+        },
+        {
+            "Name": "vnd.cncf.helm.chart.provenance.v1.prov",
+            "Template": "application/vnd.cncf.helm.chart.provenance.v1.prov"
+        },
+        {
+            "Name": "vnd.cncf.helm.config.v1+json",
+            "Template": "application/vnd.cncf.helm.config.v1+json"
+        },
+        {
+            "Name": "vnd.coffeescript",
+            "Template": "application/vnd.coffeescript"
+        },
+        {
+            "Name": "vnd.collabio.xodocuments.document",
+            "Template": "application/vnd.collabio.xodocuments.document"
+        },
+        {
+            "Name": "vnd.collabio.xodocuments.document-template",
+            "Template": "application/vnd.collabio.xodocuments.document-template"
+        },
+        {
+            "Name": "vnd.collabio.xodocuments.presentation",
+            "Template": "application/vnd.collabio.xodocuments.presentation"
+        },
+        {
+            "Name": "vnd.collabio.xodocuments.presentation-template",
+            "Template": "application/vnd.collabio.xodocuments.presentation-template"
+        },
+        {
+            "Name": "vnd.collabio.xodocuments.spreadsheet",
+            "Template": "application/vnd.collabio.xodocuments.spreadsheet"
+        },
+        {
+            "Name": "vnd.collabio.xodocuments.spreadsheet-template",
+            "Template": "application/vnd.collabio.xodocuments.spreadsheet-template"
+        },
+        {
+            "Name": "vnd.collection.doc+json",
+            "Template": "application/vnd.collection.doc+json"
+        },
+        {
+            "Name": "vnd.collection+json",
+            "Template": "application/vnd.collection+json"
+        },
+        {
+            "Name": "vnd.collection.next+json",
+            "Template": "application/vnd.collection.next+json"
+        },
+        {
+            "Name": "vnd.comicbook-rar",
+            "Template": "application/vnd.comicbook-rar"
+        },
+        {
+            "Name": "vnd.comicbook+zip",
+            "Template": "application/vnd.comicbook+zip"
+        },
+        {
+            "Name": "vnd.commerce-battelle",
+            "Template": "application/vnd.commerce-battelle"
+        },
+        {
+            "Name": "vnd.commonspace",
+            "Template": "application/vnd.commonspace"
+        },
+        {
+            "Name": "vnd.coreos.ignition+json",
+            "Template": "application/vnd.coreos.ignition+json"
+        },
+        {
+            "Name": "vnd.cosmocaller",
+            "Template": "application/vnd.cosmocaller"
+        },
+        {
+            "Name": "vnd.contact.cmsg",
+            "Template": "application/vnd.contact.cmsg"
+        },
+        {
+            "Name": "vnd.crick.clicker",
+            "Template": "application/vnd.crick.clicker"
+        },
+        {
+            "Name": "vnd.crick.clicker.keyboard",
+            "Template": "application/vnd.crick.clicker.keyboard"
+        },
+        {
+            "Name": "vnd.crick.clicker.palette",
+            "Template": "application/vnd.crick.clicker.palette"
+        },
+        {
+            "Name": "vnd.crick.clicker.template",
+            "Template": "application/vnd.crick.clicker.template"
+        },
+        {
+            "Name": "vnd.crick.clicker.wordbank",
+            "Template": "application/vnd.crick.clicker.wordbank"
+        },
+        {
+            "Name": "vnd.criticaltools.wbs+xml",
+            "Template": "application/vnd.criticaltools.wbs+xml"
+        },
+        {
+            "Name": "vnd.cryptii.pipe+json",
+            "Template": "application/vnd.cryptii.pipe+json"
+        },
+        {
+            "Name": "vnd.crypto-shade-file",
+            "Template": "application/vnd.crypto-shade-file"
+        },
+        {
+            "Name": "vnd.cryptomator.encrypted",
+            "Template": "application/vnd.cryptomator.encrypted"
+        },
+        {
+            "Name": "vnd.cryptomator.vault",
+            "Template": "application/vnd.cryptomator.vault"
+        },
+        {
+            "Name": "vnd.ctc-posml",
+            "Template": "application/vnd.ctc-posml"
+        },
+        {
+            "Name": "vnd.ctct.ws+xml",
+            "Template": "application/vnd.ctct.ws+xml"
+        },
+        {
+            "Name": "vnd.cups-pdf",
+            "Template": "application/vnd.cups-pdf"
+        },
+        {
+            "Name": "vnd.cups-postscript",
+            "Template": "application/vnd.cups-postscript"
+        },
+        {
+            "Name": "vnd.cups-ppd",
+            "Template": "application/vnd.cups-ppd"
+        },
+        {
+            "Name": "vnd.cups-raster",
+            "Template": "application/vnd.cups-raster"
+        },
+        {
+            "Name": "vnd.cups-raw",
+            "Template": "application/vnd.cups-raw"
+        },
+        {
+            "Name": "vnd.curl",
+            "Template": "application/vnd.curl"
+        },
+        {
+            "Name": "vnd.cyan.dean.root+xml",
+            "Template": "application/vnd.cyan.dean.root+xml"
+        },
+        {
+            "Name": "vnd.cybank",
+            "Template": "application/vnd.cybank"
+        },
+        {
+            "Name": "vnd.cyclonedx+json",
+            "Template": "application/vnd.cyclonedx+json"
+        },
+        {
+            "Name": "vnd.cyclonedx+xml",
+            "Template": "application/vnd.cyclonedx+xml"
+        },
+        {
+            "Name": "vnd.d2l.coursepackage1p0+zip",
+            "Template": "application/vnd.d2l.coursepackage1p0+zip"
+        },
+        {
+            "Name": "vnd.d3m-dataset",
+            "Template": "application/vnd.d3m-dataset"
+        },
+        {
+            "Name": "vnd.d3m-problem",
+            "Template": "application/vnd.d3m-problem"
+        },
+        {
+            "Name": "vnd.dart",
+            "Template": "application/vnd.dart"
+        },
+        {
+            "Name": "vnd.data-vision.rdz",
+            "Template": "application/vnd.data-vision.rdz"
+        },
+        {
+            "Name": "vnd.datalog",
+            "Template": "application/vnd.datalog"
+        },
+        {
+            "Name": "vnd.datapackage+json",
+            "Template": "application/vnd.datapackage+json"
+        },
+        {
+            "Name": "vnd.dataresource+json",
+            "Template": "application/vnd.dataresource+json"
+        },
+        {
+            "Name": "vnd.dbf",
+            "Template": "application/vnd.dbf"
+        },
+        {
+            "Name": "vnd.debian.binary-package",
+            "Template": "application/vnd.debian.binary-package"
+        },
+        {
+            "Name": "vnd.dece.data",
+            "Template": "application/vnd.dece.data"
+        },
+        {
+            "Name": "vnd.dece.ttml+xml",
+            "Template": "application/vnd.dece.ttml+xml"
+        },
+        {
+            "Name": "vnd.dece.unspecified",
+            "Template": "application/vnd.dece.unspecified"
+        },
+        {
+            "Name": "vnd.dece.zip",
+            "Template": "application/vnd.dece.zip"
+        },
+        {
+            "Name": "vnd.denovo.fcselayout-link",
+            "Template": "application/vnd.denovo.fcselayout-link"
+        },
+        {
+            "Name": "vnd.desmume.movie",
+            "Template": "application/vnd.desmume.movie"
+        },
+        {
+            "Name": "vnd.dir-bi.plate-dl-nosuffix",
+            "Template": "application/vnd.dir-bi.plate-dl-nosuffix"
+        },
+        {
+            "Name": "vnd.dm.delegation+xml",
+            "Template": "application/vnd.dm.delegation+xml"
+        },
+        {
+            "Name": "vnd.dna",
+            "Template": "application/vnd.dna"
+        },
+        {
+            "Name": "vnd.document+json",
+            "Template": "application/vnd.document+json"
+        },
+        {
+            "Name": "vnd.dolby.mobile.1",
+            "Template": "application/vnd.dolby.mobile.1"
+        },
+        {
+            "Name": "vnd.dolby.mobile.2",
+            "Template": "application/vnd.dolby.mobile.2"
+        },
+        {
+            "Name": "vnd.doremir.scorecloud-binary-document",
+            "Template": "application/vnd.doremir.scorecloud-binary-document"
+        },
+        {
+            "Name": "vnd.dpgraph",
+            "Template": "application/vnd.dpgraph"
+        },
+        {
+            "Name": "vnd.dreamfactory",
+            "Template": "application/vnd.dreamfactory"
+        },
+        {
+            "Name": "vnd.drive+json",
+            "Template": "application/vnd.drive+json"
+        },
+        {
+            "Name": "vnd.dtg.local",
+            "Template": "application/vnd.dtg.local"
+        },
+        {
+            "Name": "vnd.dtg.local.flash",
+            "Template": "application/vnd.dtg.local.flash"
+        },
+        {
+            "Name": "vnd.dtg.local.html",
+            "Template": "application/vnd.dtg.local.html"
+        },
+        {
+            "Name": "vnd.dvb.ait",
+            "Template": "application/vnd.dvb.ait"
+        },
+        {
+            "Name": "vnd.dvb.dvbisl+xml",
+            "Template": "application/vnd.dvb.dvbisl+xml"
+        },
+        {
+            "Name": "vnd.dvb.dvbj",
+            "Template": "application/vnd.dvb.dvbj"
+        },
+        {
+            "Name": "vnd.dvb.esgcontainer",
+            "Template": "application/vnd.dvb.esgcontainer"
+        },
+        {
+            "Name": "vnd.dvb.ipdcdftnotifaccess",
+            "Template": "application/vnd.dvb.ipdcdftnotifaccess"
+        },
+        {
+            "Name": "vnd.dvb.ipdcesgaccess",
+            "Template": "application/vnd.dvb.ipdcesgaccess"
+        },
+        {
+            "Name": "vnd.dvb.ipdcesgaccess2",
+            "Template": "application/vnd.dvb.ipdcesgaccess2"
+        },
+        {
+            "Name": "vnd.dvb.ipdcesgpdd",
+            "Template": "application/vnd.dvb.ipdcesgpdd"
+        },
+        {
+            "Name": "vnd.dvb.ipdcroaming",
+            "Template": "application/vnd.dvb.ipdcroaming"
+        },
+        {
+            "Name": "vnd.dvb.iptv.alfec-base",
+            "Template": "application/vnd.dvb.iptv.alfec-base"
+        },
+        {
+            "Name": "vnd.dvb.iptv.alfec-enhancement",
+            "Template": "application/vnd.dvb.iptv.alfec-enhancement"
+        },
+        {
+            "Name": "vnd.dvb.notif-aggregate-root+xml",
+            "Template": "application/vnd.dvb.notif-aggregate-root+xml"
+        },
+        {
+            "Name": "vnd.dvb.notif-container+xml",
+            "Template": "application/vnd.dvb.notif-container+xml"
+        },
+        {
+            "Name": "vnd.dvb.notif-generic+xml",
+            "Template": "application/vnd.dvb.notif-generic+xml"
+        },
+        {
+            "Name": "vnd.dvb.notif-ia-msglist+xml",
+            "Template": "application/vnd.dvb.notif-ia-msglist+xml"
+        },
+        {
+            "Name": "vnd.dvb.notif-ia-registration-request+xml",
+            "Template": "application/vnd.dvb.notif-ia-registration-request+xml"
+        },
+        {
+            "Name": "vnd.dvb.notif-ia-registration-response+xml",
+            "Template": "application/vnd.dvb.notif-ia-registration-response+xml"
+        },
+        {
+            "Name": "vnd.dvb.notif-init+xml",
+            "Template": "application/vnd.dvb.notif-init+xml"
+        },
+        {
+            "Name": "vnd.dvb.pfr",
+            "Template": "application/vnd.dvb.pfr"
+        },
+        {
+            "Name": "vnd.dvb.service",
+            "Template": "application/vnd.dvb.service"
+        },
+        {
+            "Name": "vnd.dxr",
+            "Template": "application/vnd.dxr"
+        },
+        {
+            "Name": "vnd.dynageo",
+            "Template": "application/vnd.dynageo"
+        },
+        {
+            "Name": "vnd.dzr",
+            "Template": "application/vnd.dzr"
+        },
+        {
+            "Name": "vnd.easykaraoke.cdgdownload",
+            "Template": "application/vnd.easykaraoke.cdgdownload"
+        },
+        {
+            "Name": "vnd.ecip.rlp",
+            "Template": "application/vnd.ecip.rlp"
+        },
+        {
+            "Name": "vnd.ecdis-update",
+            "Template": "application/vnd.ecdis-update"
+        },
+        {
+            "Name": "vnd.eclipse.ditto+json",
+            "Template": "application/vnd.eclipse.ditto+json"
+        },
+        {
+            "Name": "vnd.ecowin.chart",
+            "Template": "application/vnd.ecowin.chart"
+        },
+        {
+            "Name": "vnd.ecowin.filerequest",
+            "Template": "application/vnd.ecowin.filerequest"
+        },
+        {
+            "Name": "vnd.ecowin.fileupdate",
+            "Template": "application/vnd.ecowin.fileupdate"
+        },
+        {
+            "Name": "vnd.ecowin.series",
+            "Template": "application/vnd.ecowin.series"
+        },
+        {
+            "Name": "vnd.ecowin.seriesrequest",
+            "Template": "application/vnd.ecowin.seriesrequest"
+        },
+        {
+            "Name": "vnd.ecowin.seriesupdate",
+            "Template": "application/vnd.ecowin.seriesupdate"
+        },
+        {
+            "Name": "vnd.efi.img",
+            "Template": "application/vnd.efi.img"
+        },
+        {
+            "Name": "vnd.efi.iso",
+            "Template": "application/vnd.efi.iso"
+        },
+        {
+            "Name": "vnd.eln+zip",
+            "Template": "application/vnd.eln+zip"
+        },
+        {
+            "Name": "vnd.emclient.accessrequest+xml",
+            "Template": "application/vnd.emclient.accessrequest+xml"
+        },
+        {
+            "Name": "vnd.enliven",
+            "Template": "application/vnd.enliven"
+        },
+        {
+            "Name": "vnd.enphase.envoy",
+            "Template": "application/vnd.enphase.envoy"
+        },
+        {
+            "Name": "vnd.eprints.data+xml",
+            "Template": "application/vnd.eprints.data+xml"
+        },
+        {
+            "Name": "vnd.epson.esf",
+            "Template": "application/vnd.epson.esf"
+        },
+        {
+            "Name": "vnd.epson.msf",
+            "Template": "application/vnd.epson.msf"
+        },
+        {
+            "Name": "vnd.epson.quickanime",
+            "Template": "application/vnd.epson.quickanime"
+        },
+        {
+            "Name": "vnd.epson.salt",
+            "Template": "application/vnd.epson.salt"
+        },
+        {
+            "Name": "vnd.epson.ssf",
+            "Template": "application/vnd.epson.ssf"
+        },
+        {
+            "Name": "vnd.ericsson.quickcall",
+            "Template": "application/vnd.ericsson.quickcall"
+        },
+        {
+            "Name": "vnd.espass-espass+zip",
+            "Template": "application/vnd.espass-espass+zip"
+        },
+        {
+            "Name": "vnd.eszigno3+xml",
+            "Template": "application/vnd.eszigno3+xml"
+        },
+        {
+            "Name": "vnd.etsi.aoc+xml",
+            "Template": "application/vnd.etsi.aoc+xml"
+        },
+        {
+            "Name": "vnd.etsi.asic-s+zip",
+            "Template": "application/vnd.etsi.asic-s+zip"
+        },
+        {
+            "Name": "vnd.etsi.asic-e+zip",
+            "Template": "application/vnd.etsi.asic-e+zip"
+        },
+        {
+            "Name": "vnd.etsi.cug+xml",
+            "Template": "application/vnd.etsi.cug+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvcommand+xml",
+            "Template": "application/vnd.etsi.iptvcommand+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvdiscovery+xml",
+            "Template": "application/vnd.etsi.iptvdiscovery+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvprofile+xml",
+            "Template": "application/vnd.etsi.iptvprofile+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvsad-bc+xml",
+            "Template": "application/vnd.etsi.iptvsad-bc+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvsad-cod+xml",
+            "Template": "application/vnd.etsi.iptvsad-cod+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvsad-npvr+xml",
+            "Template": "application/vnd.etsi.iptvsad-npvr+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvservice+xml",
+            "Template": "application/vnd.etsi.iptvservice+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvsync+xml",
+            "Template": "application/vnd.etsi.iptvsync+xml"
+        },
+        {
+            "Name": "vnd.etsi.iptvueprofile+xml",
+            "Template": "application/vnd.etsi.iptvueprofile+xml"
+        },
+        {
+            "Name": "vnd.etsi.mcid+xml",
+            "Template": "application/vnd.etsi.mcid+xml"
+        },
+        {
+            "Name": "vnd.etsi.mheg5",
+            "Template": "application/vnd.etsi.mheg5"
+        },
+        {
+            "Name": "vnd.etsi.overload-control-policy-dataset+xml",
+            "Template": "application/vnd.etsi.overload-control-policy-dataset+xml"
+        },
+        {
+            "Name": "vnd.etsi.pstn+xml",
+            "Template": "application/vnd.etsi.pstn+xml"
+        },
+        {
+            "Name": "vnd.etsi.sci+xml",
+            "Template": "application/vnd.etsi.sci+xml"
+        },
+        {
+            "Name": "vnd.etsi.simservs+xml",
+            "Template": "application/vnd.etsi.simservs+xml"
+        },
+        {
+            "Name": "vnd.etsi.timestamp-token",
+            "Template": "application/vnd.etsi.timestamp-token"
+        },
+        {
+            "Name": "vnd.etsi.tsl+xml",
+            "Template": "application/vnd.etsi.tsl+xml"
+        },
+        {
+            "Name": "vnd.etsi.tsl.der",
+            "Template": "application/vnd.etsi.tsl.der"
+        },
+        {
+            "Name": "vnd.eu.kasparian.car+json",
+            "Template": "application/vnd.eu.kasparian.car+json"
+        },
+        {
+            "Name": "vnd.eudora.data",
+            "Template": "application/vnd.eudora.data"
+        },
+        {
+            "Name": "vnd.evolv.ecig.profile",
+            "Template": "application/vnd.evolv.ecig.profile"
+        },
+        {
+            "Name": "vnd.evolv.ecig.settings",
+            "Template": "application/vnd.evolv.ecig.settings"
+        },
+        {
+            "Name": "vnd.evolv.ecig.theme",
+            "Template": "application/vnd.evolv.ecig.theme"
+        },
+        {
+            "Name": "vnd.exstream-empower+zip",
+            "Template": "application/vnd.exstream-empower+zip"
+        },
+        {
+            "Name": "vnd.exstream-package",
+            "Template": "application/vnd.exstream-package"
+        },
+        {
+            "Name": "vnd.ezpix-album",
+            "Template": "application/vnd.ezpix-album"
+        },
+        {
+            "Name": "vnd.ezpix-package",
+            "Template": "application/vnd.ezpix-package"
+        },
+        {
+            "Name": "vnd.f-secure.mobile",
+            "Template": "application/vnd.f-secure.mobile"
+        },
+        {
+            "Name": "vnd.fastcopy-disk-image",
+            "Template": "application/vnd.fastcopy-disk-image"
+        },
+        {
+            "Name": "vnd.familysearch.gedcom+zip",
+            "Template": "application/vnd.familysearch.gedcom+zip"
+        },
+        {
+            "Name": "vnd.fdsn.mseed",
+            "Template": "application/vnd.fdsn.mseed"
+        },
+        {
+            "Name": "vnd.fdsn.seed",
+            "Template": "application/vnd.fdsn.seed"
+        },
+        {
+            "Name": "vnd.ffsns",
+            "Template": "application/vnd.ffsns"
+        },
+        {
+            "Name": "vnd.ficlab.flb+zip",
+            "Template": "application/vnd.ficlab.flb+zip"
+        },
+        {
+            "Name": "vnd.filmit.zfc",
+            "Template": "application/vnd.filmit.zfc"
+        },
+        {
+            "Name": "vnd.fints",
+            "Template": "application/vnd.fints"
+        },
+        {
+            "Name": "vnd.firemonkeys.cloudcell",
+            "Template": "application/vnd.firemonkeys.cloudcell"
+        },
+        {
+            "Name": "vnd.FloGraphIt",
+            "Template": "application/vnd.FloGraphIt"
+        },
+        {
+            "Name": "vnd.fluxtime.clip",
+            "Template": "application/vnd.fluxtime.clip"
+        },
+        {
+            "Name": "vnd.font-fontforge-sfd",
+            "Template": "application/vnd.font-fontforge-sfd"
+        },
+        {
+            "Name": "vnd.framemaker",
+            "Template": "application/vnd.framemaker"
+        },
+        {
+            "Name": "vnd.frogans.fnc (OBSOLETE)",
+            "Template": "application/vnd.frogans.fnc"
+        },
+        {
+            "Name": "vnd.frogans.ltf (OBSOLETE)",
+            "Template": "application/vnd.frogans.ltf"
+        },
+        {
+            "Name": "vnd.fsc.weblaunch",
+            "Template": "application/vnd.fsc.weblaunch"
+        },
+        {
+            "Name": "vnd.fujifilm.fb.docuworks",
+            "Template": "application/vnd.fujifilm.fb.docuworks"
+        },
+        {
+            "Name": "vnd.fujifilm.fb.docuworks.binder",
+            "Template": "application/vnd.fujifilm.fb.docuworks.binder"
+        },
+        {
+            "Name": "vnd.fujifilm.fb.docuworks.container",
+            "Template": "application/vnd.fujifilm.fb.docuworks.container"
+        },
+        {
+            "Name": "vnd.fujifilm.fb.jfi+xml",
+            "Template": "application/vnd.fujifilm.fb.jfi+xml"
+        },
+        {
+            "Name": "vnd.fujitsu.oasys",
+            "Template": "application/vnd.fujitsu.oasys"
+        },
+        {
+            "Name": "vnd.fujitsu.oasys2",
+            "Template": "application/vnd.fujitsu.oasys2"
+        },
+        {
+            "Name": "vnd.fujitsu.oasys3",
+            "Template": "application/vnd.fujitsu.oasys3"
+        },
+        {
+            "Name": "vnd.fujitsu.oasysgp",
+            "Template": "application/vnd.fujitsu.oasysgp"
+        },
+        {
+            "Name": "vnd.fujitsu.oasysprs",
+            "Template": "application/vnd.fujitsu.oasysprs"
+        },
+        {
+            "Name": "vnd.fujixerox.ART4",
+            "Template": "application/vnd.fujixerox.ART4"
+        },
+        {
+            "Name": "vnd.fujixerox.ART-EX",
+            "Template": "application/vnd.fujixerox.ART-EX"
+        },
+        {
+            "Name": "vnd.fujixerox.ddd",
+            "Template": "application/vnd.fujixerox.ddd"
+        },
+        {
+            "Name": "vnd.fujixerox.docuworks",
+            "Template": "application/vnd.fujixerox.docuworks"
+        },
+        {
+            "Name": "vnd.fujixerox.docuworks.binder",
+            "Template": "application/vnd.fujixerox.docuworks.binder"
+        },
+        {
+            "Name": "vnd.fujixerox.docuworks.container",
+            "Template": "application/vnd.fujixerox.docuworks.container"
+        },
+        {
+            "Name": "vnd.fujixerox.HBPL",
+            "Template": "application/vnd.fujixerox.HBPL"
+        },
+        {
+            "Name": "vnd.fut-misnet",
+            "Template": "application/vnd.fut-misnet"
+        },
+        {
+            "Name": "vnd.futoin+cbor",
+            "Template": "application/vnd.futoin+cbor"
+        },
+        {
+            "Name": "vnd.futoin+json",
+            "Template": "application/vnd.futoin+json"
+        },
+        {
+            "Name": "vnd.fuzzysheet",
+            "Template": "application/vnd.fuzzysheet"
+        },
+        {
+            "Name": "vnd.genomatix.tuxedo",
+            "Template": "application/vnd.genomatix.tuxedo"
+        },
+        {
+            "Name": "vnd.genozip",
+            "Template": "application/vnd.genozip"
+        },
+        {
+            "Name": "vnd.gentics.grd+json",
+            "Template": "application/vnd.gentics.grd+json"
+        },
+        {
+            "Name": "vnd.gentoo.catmetadata+xml",
+            "Template": "application/vnd.gentoo.catmetadata+xml"
+        },
+        {
+            "Name": "vnd.gentoo.ebuild",
+            "Template": "application/vnd.gentoo.ebuild"
+        },
+        {
+            "Name": "vnd.gentoo.eclass",
+            "Template": "application/vnd.gentoo.eclass"
+        },
+        {
+            "Name": "vnd.gentoo.gpkg",
+            "Template": "application/vnd.gentoo.gpkg"
+        },
+        {
+            "Name": "vnd.gentoo.manifest",
+            "Template": "application/vnd.gentoo.manifest"
+        },
+        {
+            "Name": "vnd.gentoo.xpak",
+            "Template": "application/vnd.gentoo.xpak"
+        },
+        {
+            "Name": "vnd.gentoo.pkgmetadata+xml",
+            "Template": "application/vnd.gentoo.pkgmetadata+xml"
+        },
+        {
+            "Name": "vnd.geo+json (OBSOLETED by [RFC7946] in favor of application/geo+json)",
+            "Template": "application/vnd.geo+json"
+        },
+        {
+            "Name": "vnd.geocube+xml (OBSOLETED by request)",
+            "Template": "application/vnd.geocube+xml"
+        },
+        {
+            "Name": "vnd.geogebra.file",
+            "Template": "application/vnd.geogebra.file"
+        },
+        {
+            "Name": "vnd.geogebra.slides",
+            "Template": "application/vnd.geogebra.slides"
+        },
+        {
+            "Name": "vnd.geogebra.tool",
+            "Template": "application/vnd.geogebra.tool"
+        },
+        {
+            "Name": "vnd.geometry-explorer",
+            "Template": "application/vnd.geometry-explorer"
+        },
+        {
+            "Name": "vnd.geonext",
+            "Template": "application/vnd.geonext"
+        },
+        {
+            "Name": "vnd.geoplan",
+            "Template": "application/vnd.geoplan"
+        },
+        {
+            "Name": "vnd.geospace",
+            "Template": "application/vnd.geospace"
+        },
+        {
+            "Name": "vnd.gerber",
+            "Template": "application/vnd.gerber"
+        },
+        {
+            "Name": "vnd.globalplatform.card-content-mgt",
+            "Template": "application/vnd.globalplatform.card-content-mgt"
+        },
+        {
+            "Name": "vnd.globalplatform.card-content-mgt-response",
+            "Template": "application/vnd.globalplatform.card-content-mgt-response"
+        },
+        {
+            "Name": "vnd.gmx - DEPRECATED",
+            "Template": "application/vnd.gmx"
+        },
+        {
+            "Name": "vnd.gnu.taler.exchange+json",
+            "Template": "application/vnd.gnu.taler.exchange+json"
+        },
+        {
+            "Name": "vnd.gnu.taler.merchant+json",
+            "Template": "application/vnd.gnu.taler.merchant+json"
+        },
+        {
+            "Name": "vnd.google-earth.kml+xml",
+            "Template": "application/vnd.google-earth.kml+xml"
+        },
+        {
+            "Name": "vnd.google-earth.kmz",
+            "Template": "application/vnd.google-earth.kmz"
+        },
+        {
+            "Name": "vnd.gov.sk.e-form+xml",
+            "Template": "application/vnd.gov.sk.e-form+xml"
+        },
+        {
+            "Name": "vnd.gov.sk.e-form+zip",
+            "Template": "application/vnd.gov.sk.e-form+zip"
+        },
+        {
+            "Name": "vnd.gov.sk.xmldatacontainer+xml",
+            "Template": "application/vnd.gov.sk.xmldatacontainer+xml"
+        },
+        {
+            "Name": "vnd.gpxsee.map+xml",
+            "Template": "application/vnd.gpxsee.map+xml"
+        },
+        {
+            "Name": "vnd.grafeq",
+            "Template": "application/vnd.grafeq"
+        },
+        {
+            "Name": "vnd.gridmp",
+            "Template": "application/vnd.gridmp"
+        },
+        {
+            "Name": "vnd.groove-account",
+            "Template": "application/vnd.groove-account"
+        },
+        {
+            "Name": "vnd.groove-help",
+            "Template": "application/vnd.groove-help"
+        },
+        {
+            "Name": "vnd.groove-identity-message",
+            "Template": "application/vnd.groove-identity-message"
+        },
+        {
+            "Name": "vnd.groove-injector",
+            "Template": "application/vnd.groove-injector"
+        },
+        {
+            "Name": "vnd.groove-tool-message",
+            "Template": "application/vnd.groove-tool-message"
+        },
+        {
+            "Name": "vnd.groove-tool-template",
+            "Template": "application/vnd.groove-tool-template"
+        },
+        {
+            "Name": "vnd.groove-vcard",
+            "Template": "application/vnd.groove-vcard"
+        },
+        {
+            "Name": "vnd.hal+json",
+            "Template": "application/vnd.hal+json"
+        },
+        {
+            "Name": "vnd.hal+xml",
+            "Template": "application/vnd.hal+xml"
+        },
+        {
+            "Name": "vnd.HandHeld-Entertainment+xml",
+            "Template": "application/vnd.HandHeld-Entertainment+xml"
+        },
+        {
+            "Name": "vnd.hbci",
+            "Template": "application/vnd.hbci"
+        },
+        {
+            "Name": "vnd.hc+json",
+            "Template": "application/vnd.hc+json"
+        },
+        {
+            "Name": "vnd.hcl-bireports",
+            "Template": "application/vnd.hcl-bireports"
+        },
+        {
+            "Name": "vnd.hdt",
+            "Template": "application/vnd.hdt"
+        },
+        {
+            "Name": "vnd.heroku+json",
+            "Template": "application/vnd.heroku+json"
+        },
+        {
+            "Name": "vnd.hhe.lesson-player",
+            "Template": "application/vnd.hhe.lesson-player"
+        },
+        {
+            "Name": "vnd.hp-HPGL",
+            "Template": "application/vnd.hp-HPGL"
+        },
+        {
+            "Name": "vnd.hp-hpid",
+            "Template": "application/vnd.hp-hpid"
+        },
+        {
+            "Name": "vnd.hp-hps",
+            "Template": "application/vnd.hp-hps"
+        },
+        {
+            "Name": "vnd.hp-jlyt",
+            "Template": "application/vnd.hp-jlyt"
+        },
+        {
+            "Name": "vnd.hp-PCL",
+            "Template": "application/vnd.hp-PCL"
+        },
+        {
+            "Name": "vnd.hp-PCLXL",
+            "Template": "application/vnd.hp-PCLXL"
+        },
+        {
+            "Name": "vnd.hsl",
+            "Template": "application/vnd.hsl"
+        },
+        {
+            "Name": "vnd.httphone",
+            "Template": "application/vnd.httphone"
+        },
+        {
+            "Name": "vnd.hydrostatix.sof-data",
+            "Template": "application/vnd.hydrostatix.sof-data"
+        },
+        {
+            "Name": "vnd.hyper-item+json",
+            "Template": "application/vnd.hyper-item+json"
+        },
+        {
+            "Name": "vnd.hyper+json",
+            "Template": "application/vnd.hyper+json"
+        },
+        {
+            "Name": "vnd.hyperdrive+json",
+            "Template": "application/vnd.hyperdrive+json"
+        },
+        {
+            "Name": "vnd.hzn-3d-crossword",
+            "Template": "application/vnd.hzn-3d-crossword"
+        },
+        {
+            "Name": "vnd.ibm.afplinedata (OBSOLETED in favor of vnd.afpc.afplinedata)",
+            "Template": "application/vnd.ibm.afplinedata"
+        },
+        {
+            "Name": "vnd.ibm.electronic-media",
+            "Template": "application/vnd.ibm.electronic-media"
+        },
+        {
+            "Name": "vnd.ibm.MiniPay",
+            "Template": "application/vnd.ibm.MiniPay"
+        },
+        {
+            "Name": "vnd.ibm.modcap (OBSOLETED in favor of application/vnd.afpc.modca)",
+            "Template": "application/vnd.ibm.modcap"
+        },
+        {
+            "Name": "vnd.ibm.rights-management",
+            "Template": "application/vnd.ibm.rights-management"
+        },
+        {
+            "Name": "vnd.ibm.secure-container",
+            "Template": "application/vnd.ibm.secure-container"
+        },
+        {
+            "Name": "vnd.iccprofile",
+            "Template": "application/vnd.iccprofile"
+        },
+        {
+            "Name": "vnd.ieee.1905",
+            "Template": "application/vnd.ieee.1905"
+        },
+        {
+            "Name": "vnd.igloader",
+            "Template": "application/vnd.igloader"
+        },
+        {
+            "Name": "vnd.imagemeter.folder+zip",
+            "Template": "application/vnd.imagemeter.folder+zip"
+        },
+        {
+            "Name": "vnd.imagemeter.image+zip",
+            "Template": "application/vnd.imagemeter.image+zip"
+        },
+        {
+            "Name": "vnd.immervision-ivp",
+            "Template": "application/vnd.immervision-ivp"
+        },
+        {
+            "Name": "vnd.immervision-ivu",
+            "Template": "application/vnd.immervision-ivu"
+        },
+        {
+            "Name": "vnd.ims.imsccv1p1",
+            "Template": "application/vnd.ims.imsccv1p1"
+        },
+        {
+            "Name": "vnd.ims.imsccv1p2",
+            "Template": "application/vnd.ims.imsccv1p2"
+        },
+        {
+            "Name": "vnd.ims.imsccv1p3",
+            "Template": "application/vnd.ims.imsccv1p3"
+        },
+        {
+            "Name": "vnd.ims.lis.v2.result+json",
+            "Template": "application/vnd.ims.lis.v2.result+json"
+        },
+        {
+            "Name": "vnd.ims.lti.v2.toolconsumerprofile+json",
+            "Template": "application/vnd.ims.lti.v2.toolconsumerprofile+json"
+        },
+        {
+            "Name": "vnd.ims.lti.v2.toolproxy.id+json",
+            "Template": "application/vnd.ims.lti.v2.toolproxy.id+json"
+        },
+        {
+            "Name": "vnd.ims.lti.v2.toolproxy+json",
+            "Template": "application/vnd.ims.lti.v2.toolproxy+json"
+        },
+        {
+            "Name": "vnd.ims.lti.v2.toolsettings+json",
+            "Template": "application/vnd.ims.lti.v2.toolsettings+json"
+        },
+        {
+            "Name": "vnd.ims.lti.v2.toolsettings.simple+json",
+            "Template": "application/vnd.ims.lti.v2.toolsettings.simple+json"
+        },
+        {
+            "Name": "vnd.informedcontrol.rms+xml",
+            "Template": "application/vnd.informedcontrol.rms+xml"
+        },
+        {
+            "Name": "vnd.infotech.project",
+            "Template": "application/vnd.infotech.project"
+        },
+        {
+            "Name": "vnd.infotech.project+xml",
+            "Template": "application/vnd.infotech.project+xml"
+        },
+        {
+            "Name": "vnd.informix-visionary (OBSOLETED in favor of application/vnd.visionary)",
+            "Template": "application/vnd.informix-visionary"
+        },
+        {
+            "Name": "vnd.innopath.wamp.notification",
+            "Template": "application/vnd.innopath.wamp.notification"
+        },
+        {
+            "Name": "vnd.insors.igm",
+            "Template": "application/vnd.insors.igm"
+        },
+        {
+            "Name": "vnd.intercon.formnet",
+            "Template": "application/vnd.intercon.formnet"
+        },
+        {
+            "Name": "vnd.intergeo",
+            "Template": "application/vnd.intergeo"
+        },
+        {
+            "Name": "vnd.intertrust.digibox",
+            "Template": "application/vnd.intertrust.digibox"
+        },
+        {
+            "Name": "vnd.intertrust.nncp",
+            "Template": "application/vnd.intertrust.nncp"
+        },
+        {
+            "Name": "vnd.intu.qbo",
+            "Template": "application/vnd.intu.qbo"
+        },
+        {
+            "Name": "vnd.intu.qfx",
+            "Template": "application/vnd.intu.qfx"
+        },
+        {
+            "Name": "vnd.ipfs.ipns-record",
+            "Template": "application/vnd.ipfs.ipns-record"
+        },
+        {
+            "Name": "vnd.ipld.car",
+            "Template": "application/vnd.ipld.car"
+        },
+        {
+            "Name": "vnd.ipld.dag-cbor",
+            "Template": "application/vnd.ipld.dag-cbor"
+        },
+        {
+            "Name": "vnd.ipld.dag-json",
+            "Template": "application/vnd.ipld.dag-json"
+        },
+        {
+            "Name": "vnd.ipld.raw",
+            "Template": "application/vnd.ipld.raw"
+        },
+        {
+            "Name": "vnd.iptc.g2.catalogitem+xml",
+            "Template": "application/vnd.iptc.g2.catalogitem+xml"
+        },
+        {
+            "Name": "vnd.iptc.g2.conceptitem+xml",
+            "Template": "application/vnd.iptc.g2.conceptitem+xml"
+        },
+        {
+            "Name": "vnd.iptc.g2.knowledgeitem+xml",
+            "Template": "application/vnd.iptc.g2.knowledgeitem+xml"
+        },
+        {
+            "Name": "vnd.iptc.g2.newsitem+xml",
+            "Template": "application/vnd.iptc.g2.newsitem+xml"
+        },
+        {
+            "Name": "vnd.iptc.g2.newsmessage+xml",
+            "Template": "application/vnd.iptc.g2.newsmessage+xml"
+        },
+        {
+            "Name": "vnd.iptc.g2.packageitem+xml",
+            "Template": "application/vnd.iptc.g2.packageitem+xml"
+        },
+        {
+            "Name": "vnd.iptc.g2.planningitem+xml",
+            "Template": "application/vnd.iptc.g2.planningitem+xml"
+        },
+        {
+            "Name": "vnd.ipunplugged.rcprofile",
+            "Template": "application/vnd.ipunplugged.rcprofile"
+        },
+        {
+            "Name": "vnd.irepository.package+xml",
+            "Template": "application/vnd.irepository.package+xml"
+        },
+        {
+            "Name": "vnd.is-xpr",
+            "Template": "application/vnd.is-xpr"
+        },
+        {
+            "Name": "vnd.isac.fcs",
+            "Template": "application/vnd.isac.fcs"
+        },
+        {
+            "Name": "vnd.jam",
+            "Template": "application/vnd.jam"
+        },
+        {
+            "Name": "vnd.iso11783-10+zip",
+            "Template": "application/vnd.iso11783-10+zip"
+        },
+        {
+            "Name": "vnd.japannet-directory-service",
+            "Template": "application/vnd.japannet-directory-service"
+        },
+        {
+            "Name": "vnd.japannet-jpnstore-wakeup",
+            "Template": "application/vnd.japannet-jpnstore-wakeup"
+        },
+        {
+            "Name": "vnd.japannet-payment-wakeup",
+            "Template": "application/vnd.japannet-payment-wakeup"
+        },
+        {
+            "Name": "vnd.japannet-registration",
+            "Template": "application/vnd.japannet-registration"
+        },
+        {
+            "Name": "vnd.japannet-registration-wakeup",
+            "Template": "application/vnd.japannet-registration-wakeup"
+        },
+        {
+            "Name": "vnd.japannet-setstore-wakeup",
+            "Template": "application/vnd.japannet-setstore-wakeup"
+        },
+        {
+            "Name": "vnd.japannet-verification",
+            "Template": "application/vnd.japannet-verification"
+        },
+        {
+            "Name": "vnd.japannet-verification-wakeup",
+            "Template": "application/vnd.japannet-verification-wakeup"
+        },
+        {
+            "Name": "vnd.jcp.javame.midlet-rms",
+            "Template": "application/vnd.jcp.javame.midlet-rms"
+        },
+        {
+            "Name": "vnd.jisp",
+            "Template": "application/vnd.jisp"
+        },
+        {
+            "Name": "vnd.joost.joda-archive",
+            "Template": "application/vnd.joost.joda-archive"
+        },
+        {
+            "Name": "vnd.jsk.isdn-ngn",
+            "Template": "application/vnd.jsk.isdn-ngn"
+        },
+        {
+            "Name": "vnd.kahootz",
+            "Template": "application/vnd.kahootz"
+        },
+        {
+            "Name": "vnd.kde.karbon",
+            "Template": "application/vnd.kde.karbon"
+        },
+        {
+            "Name": "vnd.kde.kchart",
+            "Template": "application/vnd.kde.kchart"
+        },
+        {
+            "Name": "vnd.kde.kformula",
+            "Template": "application/vnd.kde.kformula"
+        },
+        {
+            "Name": "vnd.kde.kivio",
+            "Template": "application/vnd.kde.kivio"
+        },
+        {
+            "Name": "vnd.kde.kontour",
+            "Template": "application/vnd.kde.kontour"
+        },
+        {
+            "Name": "vnd.kde.kpresenter",
+            "Template": "application/vnd.kde.kpresenter"
+        },
+        {
+            "Name": "vnd.kde.kspread",
+            "Template": "application/vnd.kde.kspread"
+        },
+        {
+            "Name": "vnd.kde.kword",
+            "Template": "application/vnd.kde.kword"
+        },
+        {
+            "Name": "vnd.kenameaapp",
+            "Template": "application/vnd.kenameaapp"
+        },
+        {
+            "Name": "vnd.kidspiration",
+            "Template": "application/vnd.kidspiration"
+        },
+        {
+            "Name": "vnd.Kinar",
+            "Template": "application/vnd.Kinar"
+        },
+        {
+            "Name": "vnd.koan",
+            "Template": "application/vnd.koan"
+        },
+        {
+            "Name": "vnd.kodak-descriptor",
+            "Template": "application/vnd.kodak-descriptor"
+        },
+        {
+            "Name": "vnd.las",
+            "Template": "application/vnd.las"
+        },
+        {
+            "Name": "vnd.las.las+json",
+            "Template": "application/vnd.las.las+json"
+        },
+        {
+            "Name": "vnd.las.las+xml",
+            "Template": "application/vnd.las.las+xml"
+        },
+        {
+            "Name": "vnd.laszip",
+            "Template": "application/vnd.laszip"
+        },
+        {
+            "Name": "vnd.leap+json",
+            "Template": "application/vnd.leap+json"
+        },
+        {
+            "Name": "vnd.liberty-request+xml",
+            "Template": "application/vnd.liberty-request+xml"
+        },
+        {
+            "Name": "vnd.llamagraphics.life-balance.desktop",
+            "Template": "application/vnd.llamagraphics.life-balance.desktop"
+        },
+        {
+            "Name": "vnd.llamagraphics.life-balance.exchange+xml",
+            "Template": "application/vnd.llamagraphics.life-balance.exchange+xml"
+        },
+        {
+            "Name": "vnd.logipipe.circuit+zip",
+            "Template": "application/vnd.logipipe.circuit+zip"
+        },
+        {
+            "Name": "vnd.loom",
+            "Template": "application/vnd.loom"
+        },
+        {
+            "Name": "vnd.lotus-1-2-3",
+            "Template": "application/vnd.lotus-1-2-3"
+        },
+        {
+            "Name": "vnd.lotus-approach",
+            "Template": "application/vnd.lotus-approach"
+        },
+        {
+            "Name": "vnd.lotus-freelance",
+            "Template": "application/vnd.lotus-freelance"
+        },
+        {
+            "Name": "vnd.lotus-notes",
+            "Template": "application/vnd.lotus-notes"
+        },
+        {
+            "Name": "vnd.lotus-organizer",
+            "Template": "application/vnd.lotus-organizer"
+        },
+        {
+            "Name": "vnd.lotus-screencam",
+            "Template": "application/vnd.lotus-screencam"
+        },
+        {
+            "Name": "vnd.lotus-wordpro",
+            "Template": "application/vnd.lotus-wordpro"
+        },
+        {
+            "Name": "vnd.macports.portpkg",
+            "Template": "application/vnd.macports.portpkg"
+        },
+        {
+            "Name": "vnd.mapbox-vector-tile",
+            "Template": "application/vnd.mapbox-vector-tile"
+        },
+        {
+            "Name": "vnd.marlin.drm.actiontoken+xml",
+            "Template": "application/vnd.marlin.drm.actiontoken+xml"
+        },
+        {
+            "Name": "vnd.marlin.drm.conftoken+xml",
+            "Template": "application/vnd.marlin.drm.conftoken+xml"
+        },
+        {
+            "Name": "vnd.marlin.drm.license+xml",
+            "Template": "application/vnd.marlin.drm.license+xml"
+        },
+        {
+            "Name": "vnd.marlin.drm.mdcf",
+            "Template": "application/vnd.marlin.drm.mdcf"
+        },
+        {
+            "Name": "vnd.mason+json",
+            "Template": "application/vnd.mason+json"
+        },
+        {
+            "Name": "vnd.maxar.archive.3tz+zip",
+            "Template": "application/vnd.maxar.archive.3tz+zip"
+        },
+        {
+            "Name": "vnd.maxmind.maxmind-db",
+            "Template": "application/vnd.maxmind.maxmind-db"
+        },
+        {
+            "Name": "vnd.mcd",
+            "Template": "application/vnd.mcd"
+        },
+        {
+            "Name": "vnd.mdl",
+            "Template": "application/vnd.mdl"
+        },
+        {
+            "Name": "vnd.mdl-mbsdf",
+            "Template": "application/vnd.mdl-mbsdf"
+        },
+        {
+            "Name": "vnd.medcalcdata",
+            "Template": "application/vnd.medcalcdata"
+        },
+        {
+            "Name": "vnd.mediastation.cdkey",
+            "Template": "application/vnd.mediastation.cdkey"
+        },
+        {
+            "Name": "vnd.medicalholodeck.recordxr",
+            "Template": "application/vnd.medicalholodeck.recordxr"
+        },
+        {
+            "Name": "vnd.meridian-slingshot",
+            "Template": "application/vnd.meridian-slingshot"
+        },
+        {
+            "Name": "vnd.MFER",
+            "Template": "application/vnd.MFER"
+        },
+        {
+            "Name": "vnd.mfmp",
+            "Template": "application/vnd.mfmp"
+        },
+        {
+            "Name": "vnd.micro+json",
+            "Template": "application/vnd.micro+json"
+        },
+        {
+            "Name": "vnd.micrografx.flo",
+            "Template": "application/vnd.micrografx.flo"
+        },
+        {
+            "Name": "vnd.micrografx.igx",
+            "Template": "application/vnd.micrografx.igx"
+        },
+        {
+            "Name": "vnd.microsoft.portable-executable",
+            "Template": "application/vnd.microsoft.portable-executable"
+        },
+        {
+            "Name": "vnd.microsoft.windows.thumbnail-cache",
+            "Template": "application/vnd.microsoft.windows.thumbnail-cache"
+        },
+        {
+            "Name": "vnd.miele+json",
+            "Template": "application/vnd.miele+json"
+        },
+        {
+            "Name": "vnd.mif",
+            "Template": "application/vnd.mif"
+        },
+        {
+            "Name": "vnd.minisoft-hp3000-save",
+            "Template": "application/vnd.minisoft-hp3000-save"
+        },
+        {
+            "Name": "vnd.mitsubishi.misty-guard.trustweb",
+            "Template": "application/vnd.mitsubishi.misty-guard.trustweb"
+        },
+        {
+            "Name": "vnd.Mobius.DAF",
+            "Template": "application/vnd.Mobius.DAF"
+        },
+        {
+            "Name": "vnd.Mobius.DIS",
+            "Template": "application/vnd.Mobius.DIS"
+        },
+        {
+            "Name": "vnd.Mobius.MBK",
+            "Template": "application/vnd.Mobius.MBK"
+        },
+        {
+            "Name": "vnd.Mobius.MQY",
+            "Template": "application/vnd.Mobius.MQY"
+        },
+        {
+            "Name": "vnd.Mobius.MSL",
+            "Template": "application/vnd.Mobius.MSL"
+        },
+        {
+            "Name": "vnd.Mobius.PLC",
+            "Template": "application/vnd.Mobius.PLC"
+        },
+        {
+            "Name": "vnd.Mobius.TXF",
+            "Template": "application/vnd.Mobius.TXF"
+        },
+        {
+            "Name": "vnd.modl",
+            "Template": "application/vnd.modl"
+        },
+        {
+            "Name": "vnd.mophun.application",
+            "Template": "application/vnd.mophun.application"
+        },
+        {
+            "Name": "vnd.mophun.certificate",
+            "Template": "application/vnd.mophun.certificate"
+        },
+        {
+            "Name": "vnd.motorola.flexsuite",
+            "Template": "application/vnd.motorola.flexsuite"
+        },
+        {
+            "Name": "vnd.motorola.flexsuite.adsi",
+            "Template": "application/vnd.motorola.flexsuite.adsi"
+        },
+        {
+            "Name": "vnd.motorola.flexsuite.fis",
+            "Template": "application/vnd.motorola.flexsuite.fis"
+        },
+        {
+            "Name": "vnd.motorola.flexsuite.gotap",
+            "Template": "application/vnd.motorola.flexsuite.gotap"
+        },
+        {
+            "Name": "vnd.motorola.flexsuite.kmr",
+            "Template": "application/vnd.motorola.flexsuite.kmr"
+        },
+        {
+            "Name": "vnd.motorola.flexsuite.ttc",
+            "Template": "application/vnd.motorola.flexsuite.ttc"
+        },
+        {
+            "Name": "vnd.motorola.flexsuite.wem",
+            "Template": "application/vnd.motorola.flexsuite.wem"
+        },
+        {
+            "Name": "vnd.motorola.iprm",
+            "Template": "application/vnd.motorola.iprm"
+        },
+        {
+            "Name": "vnd.mozilla.xul+xml",
+            "Template": "application/vnd.mozilla.xul+xml"
+        },
+        {
+            "Name": "vnd.ms-artgalry",
+            "Template": "application/vnd.ms-artgalry"
+        },
+        {
+            "Name": "vnd.ms-asf",
+            "Template": "application/vnd.ms-asf"
+        },
+        {
+            "Name": "vnd.ms-cab-compressed",
+            "Template": "application/vnd.ms-cab-compressed"
+        },
+        {
+            "Name": "vnd.ms-3mfdocument",
+            "Template": "application/vnd.ms-3mfdocument"
+        },
+        {
+            "Name": "vnd.ms-excel",
+            "Template": "application/vnd.ms-excel"
+        },
+        {
+            "Name": "vnd.ms-excel.addin.macroEnabled.12",
+            "Template": "application/vnd.ms-excel.addin.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-excel.sheet.binary.macroEnabled.12",
+            "Template": "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-excel.sheet.macroEnabled.12",
+            "Template": "application/vnd.ms-excel.sheet.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-excel.template.macroEnabled.12",
+            "Template": "application/vnd.ms-excel.template.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-fontobject",
+            "Template": "application/vnd.ms-fontobject"
+        },
+        {
+            "Name": "vnd.ms-htmlhelp",
+            "Template": "application/vnd.ms-htmlhelp"
+        },
+        {
+            "Name": "vnd.ms-ims",
+            "Template": "application/vnd.ms-ims"
+        },
+        {
+            "Name": "vnd.ms-lrm",
+            "Template": "application/vnd.ms-lrm"
+        },
+        {
+            "Name": "vnd.ms-office.activeX+xml",
+            "Template": "application/vnd.ms-office.activeX+xml"
+        },
+        {
+            "Name": "vnd.ms-officetheme",
+            "Template": "application/vnd.ms-officetheme"
+        },
+        {
+            "Name": "vnd.ms-playready.initiator+xml",
+            "Template": "application/vnd.ms-playready.initiator+xml"
+        },
+        {
+            "Name": "vnd.ms-powerpoint",
+            "Template": "application/vnd.ms-powerpoint"
+        },
+        {
+            "Name": "vnd.ms-powerpoint.addin.macroEnabled.12",
+            "Template": "application/vnd.ms-powerpoint.addin.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-powerpoint.presentation.macroEnabled.12",
+            "Template": "application/vnd.ms-powerpoint.presentation.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-powerpoint.slide.macroEnabled.12",
+            "Template": "application/vnd.ms-powerpoint.slide.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-powerpoint.slideshow.macroEnabled.12",
+            "Template": "application/vnd.ms-powerpoint.slideshow.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-powerpoint.template.macroEnabled.12",
+            "Template": "application/vnd.ms-powerpoint.template.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-PrintDeviceCapabilities+xml",
+            "Template": "application/vnd.ms-PrintDeviceCapabilities+xml"
+        },
+        {
+            "Name": "vnd.ms-PrintSchemaTicket+xml",
+            "Template": "application/vnd.ms-PrintSchemaTicket+xml"
+        },
+        {
+            "Name": "vnd.ms-project",
+            "Template": "application/vnd.ms-project"
+        },
+        {
+            "Name": "vnd.ms-tnef",
+            "Template": "application/vnd.ms-tnef"
+        },
+        {
+            "Name": "vnd.ms-windows.devicepairing",
+            "Template": "application/vnd.ms-windows.devicepairing"
+        },
+        {
+            "Name": "vnd.ms-windows.nwprinting.oob",
+            "Template": "application/vnd.ms-windows.nwprinting.oob"
+        },
+        {
+            "Name": "vnd.ms-windows.printerpairing",
+            "Template": "application/vnd.ms-windows.printerpairing"
+        },
+        {
+            "Name": "vnd.ms-windows.wsd.oob",
+            "Template": "application/vnd.ms-windows.wsd.oob"
+        },
+        {
+            "Name": "vnd.ms-wmdrm.lic-chlg-req",
+            "Template": "application/vnd.ms-wmdrm.lic-chlg-req"
+        },
+        {
+            "Name": "vnd.ms-wmdrm.lic-resp",
+            "Template": "application/vnd.ms-wmdrm.lic-resp"
+        },
+        {
+            "Name": "vnd.ms-wmdrm.meter-chlg-req",
+            "Template": "application/vnd.ms-wmdrm.meter-chlg-req"
+        },
+        {
+            "Name": "vnd.ms-wmdrm.meter-resp",
+            "Template": "application/vnd.ms-wmdrm.meter-resp"
+        },
+        {
+            "Name": "vnd.ms-word.document.macroEnabled.12",
+            "Template": "application/vnd.ms-word.document.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-word.template.macroEnabled.12",
+            "Template": "application/vnd.ms-word.template.macroEnabled.12"
+        },
+        {
+            "Name": "vnd.ms-works",
+            "Template": "application/vnd.ms-works"
+        },
+        {
+            "Name": "vnd.ms-wpl",
+            "Template": "application/vnd.ms-wpl"
+        },
+        {
+            "Name": "vnd.ms-xpsdocument",
+            "Template": "application/vnd.ms-xpsdocument"
+        },
+        {
+            "Name": "vnd.msa-disk-image",
+            "Template": "application/vnd.msa-disk-image"
+        },
+        {
+            "Name": "vnd.mseq",
+            "Template": "application/vnd.mseq"
+        },
+        {
+            "Name": "vnd.msign",
+            "Template": "application/vnd.msign"
+        },
+        {
+            "Name": "vnd.multiad.creator",
+            "Template": "application/vnd.multiad.creator"
+        },
+        {
+            "Name": "vnd.multiad.creator.cif",
+            "Template": "application/vnd.multiad.creator.cif"
+        },
+        {
+            "Name": "vnd.musician",
+            "Template": "application/vnd.musician"
+        },
+        {
+            "Name": "vnd.music-niff",
+            "Template": "application/vnd.music-niff"
+        },
+        {
+            "Name": "vnd.muvee.style",
+            "Template": "application/vnd.muvee.style"
+        },
+        {
+            "Name": "vnd.mynfc",
+            "Template": "application/vnd.mynfc"
+        },
+        {
+            "Name": "vnd.nacamar.ybrid+json",
+            "Template": "application/vnd.nacamar.ybrid+json"
+        },
+        {
+            "Name": "vnd.ncd.control",
+            "Template": "application/vnd.ncd.control"
+        },
+        {
+            "Name": "vnd.ncd.reference",
+            "Template": "application/vnd.ncd.reference"
+        },
+        {
+            "Name": "vnd.nearst.inv+json",
+            "Template": "application/vnd.nearst.inv+json"
+        },
+        {
+            "Name": "vnd.nebumind.line",
+            "Template": "application/vnd.nebumind.line"
+        },
+        {
+            "Name": "vnd.nervana",
+            "Template": "application/vnd.nervana"
+        },
+        {
+            "Name": "vnd.netfpx",
+            "Template": "application/vnd.netfpx"
+        },
+        {
+            "Name": "vnd.neurolanguage.nlu",
+            "Template": "application/vnd.neurolanguage.nlu"
+        },
+        {
+            "Name": "vnd.nimn",
+            "Template": "application/vnd.nimn"
+        },
+        {
+            "Name": "vnd.nintendo.snes.rom",
+            "Template": "application/vnd.nintendo.snes.rom"
+        },
+        {
+            "Name": "vnd.nintendo.nitro.rom",
+            "Template": "application/vnd.nintendo.nitro.rom"
+        },
+        {
+            "Name": "vnd.nitf",
+            "Template": "application/vnd.nitf"
+        },
+        {
+            "Name": "vnd.noblenet-directory",
+            "Template": "application/vnd.noblenet-directory"
+        },
+        {
+            "Name": "vnd.noblenet-sealer",
+            "Template": "application/vnd.noblenet-sealer"
+        },
+        {
+            "Name": "vnd.noblenet-web",
+            "Template": "application/vnd.noblenet-web"
+        },
+        {
+            "Name": "vnd.nokia.catalogs",
+            "Template": "application/vnd.nokia.catalogs"
+        },
+        {
+            "Name": "vnd.nokia.conml+wbxml",
+            "Template": "application/vnd.nokia.conml+wbxml"
+        },
+        {
+            "Name": "vnd.nokia.conml+xml",
+            "Template": "application/vnd.nokia.conml+xml"
+        },
+        {
+            "Name": "vnd.nokia.iptv.config+xml",
+            "Template": "application/vnd.nokia.iptv.config+xml"
+        },
+        {
+            "Name": "vnd.nokia.iSDS-radio-presets",
+            "Template": "application/vnd.nokia.iSDS-radio-presets"
+        },
+        {
+            "Name": "vnd.nokia.landmark+wbxml",
+            "Template": "application/vnd.nokia.landmark+wbxml"
+        },
+        {
+            "Name": "vnd.nokia.landmark+xml",
+            "Template": "application/vnd.nokia.landmark+xml"
+        },
+        {
+            "Name": "vnd.nokia.landmarkcollection+xml",
+            "Template": "application/vnd.nokia.landmarkcollection+xml"
+        },
+        {
+            "Name": "vnd.nokia.ncd",
+            "Template": "application/vnd.nokia.ncd"
+        },
+        {
+            "Name": "vnd.nokia.n-gage.ac+xml",
+            "Template": "application/vnd.nokia.n-gage.ac+xml"
+        },
+        {
+            "Name": "vnd.nokia.n-gage.data",
+            "Template": "application/vnd.nokia.n-gage.data"
+        },
+        {
+            "Name": "vnd.nokia.n-gage.symbian.install (OBSOLETE; no replacement given)",
+            "Template": "application/vnd.nokia.n-gage.symbian.install"
+        },
+        {
+            "Name": "vnd.nokia.pcd+wbxml",
+            "Template": "application/vnd.nokia.pcd+wbxml"
+        },
+        {
+            "Name": "vnd.nokia.pcd+xml",
+            "Template": "application/vnd.nokia.pcd+xml"
+        },
+        {
+            "Name": "vnd.nokia.radio-preset",
+            "Template": "application/vnd.nokia.radio-preset"
+        },
+        {
+            "Name": "vnd.nokia.radio-presets",
+            "Template": "application/vnd.nokia.radio-presets"
+        },
+        {
+            "Name": "vnd.novadigm.EDM",
+            "Template": "application/vnd.novadigm.EDM"
+        },
+        {
+            "Name": "vnd.novadigm.EDX",
+            "Template": "application/vnd.novadigm.EDX"
+        },
+        {
+            "Name": "vnd.novadigm.EXT",
+            "Template": "application/vnd.novadigm.EXT"
+        },
+        {
+            "Name": "vnd.ntt-local.content-share",
+            "Template": "application/vnd.ntt-local.content-share"
+        },
+        {
+            "Name": "vnd.ntt-local.file-transfer",
+            "Template": "application/vnd.ntt-local.file-transfer"
+        },
+        {
+            "Name": "vnd.ntt-local.ogw_remote-access",
+            "Template": "application/vnd.ntt-local.ogw_remote-access"
+        },
+        {
+            "Name": "vnd.ntt-local.sip-ta_remote",
+            "Template": "application/vnd.ntt-local.sip-ta_remote"
+        },
+        {
+            "Name": "vnd.ntt-local.sip-ta_tcp_stream",
+            "Template": "application/vnd.ntt-local.sip-ta_tcp_stream"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.base",
+            "Template": "application/vnd.oasis.opendocument.base"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.chart",
+            "Template": "application/vnd.oasis.opendocument.chart"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.chart-template",
+            "Template": "application/vnd.oasis.opendocument.chart-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.database (OBSOLETED in favor of application/vnd.oasis.opendocument.base)",
+            "Template": "application/vnd.oasis.opendocument.database"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.formula",
+            "Template": "application/vnd.oasis.opendocument.formula"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.formula-template",
+            "Template": "application/vnd.oasis.opendocument.formula-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.graphics",
+            "Template": "application/vnd.oasis.opendocument.graphics"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.graphics-template",
+            "Template": "application/vnd.oasis.opendocument.graphics-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.image",
+            "Template": "application/vnd.oasis.opendocument.image"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.image-template",
+            "Template": "application/vnd.oasis.opendocument.image-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.presentation",
+            "Template": "application/vnd.oasis.opendocument.presentation"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.presentation-template",
+            "Template": "application/vnd.oasis.opendocument.presentation-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.spreadsheet",
+            "Template": "application/vnd.oasis.opendocument.spreadsheet"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.spreadsheet-template",
+            "Template": "application/vnd.oasis.opendocument.spreadsheet-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.text",
+            "Template": "application/vnd.oasis.opendocument.text"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.text-master",
+            "Template": "application/vnd.oasis.opendocument.text-master"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.text-master-template",
+            "Template": "application/vnd.oasis.opendocument.text-master-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.text-template",
+            "Template": "application/vnd.oasis.opendocument.text-template"
+        },
+        {
+            "Name": "vnd.oasis.opendocument.text-web",
+            "Template": "application/vnd.oasis.opendocument.text-web"
+        },
+        {
+            "Name": "vnd.obn",
+            "Template": "application/vnd.obn"
+        },
+        {
+            "Name": "vnd.ocf+cbor",
+            "Template": "application/vnd.ocf+cbor"
+        },
+        {
+            "Name": "vnd.oci.image.manifest.v1+json",
+            "Template": "application/vnd.oci.image.manifest.v1+json"
+        },
+        {
+            "Name": "vnd.oftn.l10n+json",
+            "Template": "application/vnd.oftn.l10n+json"
+        },
+        {
+            "Name": "vnd.oipf.contentaccessdownload+xml",
+            "Template": "application/vnd.oipf.contentaccessdownload+xml"
+        },
+        {
+            "Name": "vnd.oipf.contentaccessstreaming+xml",
+            "Template": "application/vnd.oipf.contentaccessstreaming+xml"
+        },
+        {
+            "Name": "vnd.oipf.cspg-hexbinary",
+            "Template": "application/vnd.oipf.cspg-hexbinary"
+        },
+        {
+            "Name": "vnd.oipf.dae.svg+xml",
+            "Template": "application/vnd.oipf.dae.svg+xml"
+        },
+        {
+            "Name": "vnd.oipf.dae.xhtml+xml",
+            "Template": "application/vnd.oipf.dae.xhtml+xml"
+        },
+        {
+            "Name": "vnd.oipf.mippvcontrolmessage+xml",
+            "Template": "application/vnd.oipf.mippvcontrolmessage+xml"
+        },
+        {
+            "Name": "vnd.oipf.pae.gem",
+            "Template": "application/vnd.oipf.pae.gem"
+        },
+        {
+            "Name": "vnd.oipf.spdiscovery+xml",
+            "Template": "application/vnd.oipf.spdiscovery+xml"
+        },
+        {
+            "Name": "vnd.oipf.spdlist+xml",
+            "Template": "application/vnd.oipf.spdlist+xml"
+        },
+        {
+            "Name": "vnd.oipf.ueprofile+xml",
+            "Template": "application/vnd.oipf.ueprofile+xml"
+        },
+        {
+            "Name": "vnd.oipf.userprofile+xml",
+            "Template": "application/vnd.oipf.userprofile+xml"
+        },
+        {
+            "Name": "vnd.olpc-sugar",
+            "Template": "application/vnd.olpc-sugar"
+        },
+        {
+            "Name": "vnd.oma.bcast.associated-procedure-parameter+xml",
+            "Template": "application/vnd.oma.bcast.associated-procedure-parameter+xml"
+        },
+        {
+            "Name": "vnd.oma.bcast.drm-trigger+xml",
+            "Template": "application/vnd.oma.bcast.drm-trigger+xml"
+        },
+        {
+            "Name": "vnd.oma.bcast.imd+xml",
+            "Template": "application/vnd.oma.bcast.imd+xml"
+        },
+        {
+            "Name": "vnd.oma.bcast.ltkm",
+            "Template": "application/vnd.oma.bcast.ltkm"
+        },
+        {
+            "Name": "vnd.oma.bcast.notification+xml",
+            "Template": "application/vnd.oma.bcast.notification+xml"
+        },
+        {
+            "Name": "vnd.oma.bcast.provisioningtrigger",
+            "Template": "application/vnd.oma.bcast.provisioningtrigger"
+        },
+        {
+            "Name": "vnd.oma.bcast.sgboot",
+            "Template": "application/vnd.oma.bcast.sgboot"
+        },
+        {
+            "Name": "vnd.oma.bcast.sgdd+xml",
+            "Template": "application/vnd.oma.bcast.sgdd+xml"
+        },
+        {
+            "Name": "vnd.oma.bcast.sgdu",
+            "Template": "application/vnd.oma.bcast.sgdu"
+        },
+        {
+            "Name": "vnd.oma.bcast.simple-symbol-container",
+            "Template": "application/vnd.oma.bcast.simple-symbol-container"
+        },
+        {
+            "Name": "vnd.oma.bcast.smartcard-trigger+xml",
+            "Template": "application/vnd.oma.bcast.smartcard-trigger+xml"
+        },
+        {
+            "Name": "vnd.oma.bcast.sprov+xml",
+            "Template": "application/vnd.oma.bcast.sprov+xml"
+        },
+        {
+            "Name": "vnd.oma.bcast.stkm",
+            "Template": "application/vnd.oma.bcast.stkm"
+        },
+        {
+            "Name": "vnd.oma.cab-address-book+xml",
+            "Template": "application/vnd.oma.cab-address-book+xml"
+        },
+        {
+            "Name": "vnd.oma.cab-feature-handler+xml",
+            "Template": "application/vnd.oma.cab-feature-handler+xml"
+        },
+        {
+            "Name": "vnd.oma.cab-pcc+xml",
+            "Template": "application/vnd.oma.cab-pcc+xml"
+        },
+        {
+            "Name": "vnd.oma.cab-subs-invite+xml",
+            "Template": "application/vnd.oma.cab-subs-invite+xml"
+        },
+        {
+            "Name": "vnd.oma.cab-user-prefs+xml",
+            "Template": "application/vnd.oma.cab-user-prefs+xml"
+        },
+        {
+            "Name": "vnd.oma.dcd",
+            "Template": "application/vnd.oma.dcd"
+        },
+        {
+            "Name": "vnd.oma.dcdc",
+            "Template": "application/vnd.oma.dcdc"
+        },
+        {
+            "Name": "vnd.oma.dd2+xml",
+            "Template": "application/vnd.oma.dd2+xml"
+        },
+        {
+            "Name": "vnd.oma.drm.risd+xml",
+            "Template": "application/vnd.oma.drm.risd+xml"
+        },
+        {
+            "Name": "vnd.oma.group-usage-list+xml",
+            "Template": "application/vnd.oma.group-usage-list+xml"
+        },
+        {
+            "Name": "vnd.oma.lwm2m+cbor",
+            "Template": "application/vnd.oma.lwm2m+cbor"
+        },
+        {
+            "Name": "vnd.oma.lwm2m+json",
+            "Template": "application/vnd.oma.lwm2m+json"
+        },
+        {
+            "Name": "vnd.oma.lwm2m+tlv",
+            "Template": "application/vnd.oma.lwm2m+tlv"
+        },
+        {
+            "Name": "vnd.oma.pal+xml",
+            "Template": "application/vnd.oma.pal+xml"
+        },
+        {
+            "Name": "vnd.oma.poc.detailed-progress-report+xml",
+            "Template": "application/vnd.oma.poc.detailed-progress-report+xml"
+        },
+        {
+            "Name": "vnd.oma.poc.final-report+xml",
+            "Template": "application/vnd.oma.poc.final-report+xml"
+        },
+        {
+            "Name": "vnd.oma.poc.groups+xml",
+            "Template": "application/vnd.oma.poc.groups+xml"
+        },
+        {
+            "Name": "vnd.oma.poc.invocation-descriptor+xml",
+            "Template": "application/vnd.oma.poc.invocation-descriptor+xml"
+        },
+        {
+            "Name": "vnd.oma.poc.optimized-progress-report+xml",
+            "Template": "application/vnd.oma.poc.optimized-progress-report+xml"
+        },
+        {
+            "Name": "vnd.oma.push",
+            "Template": "application/vnd.oma.push"
+        },
+        {
+            "Name": "vnd.oma.scidm.messages+xml",
+            "Template": "application/vnd.oma.scidm.messages+xml"
+        },
+        {
+            "Name": "vnd.oma.xcap-directory+xml",
+            "Template": "application/vnd.oma.xcap-directory+xml"
+        },
+        {
+            "Name": "vnd.omads-email+xml",
+            "Template": "application/vnd.omads-email+xml"
+        },
+        {
+            "Name": "vnd.omads-file+xml",
+            "Template": "application/vnd.omads-file+xml"
+        },
+        {
+            "Name": "vnd.omads-folder+xml",
+            "Template": "application/vnd.omads-folder+xml"
+        },
+        {
+            "Name": "vnd.omaloc-supl-init",
+            "Template": "application/vnd.omaloc-supl-init"
+        },
+        {
+            "Name": "vnd.oma-scws-config",
+            "Template": "application/vnd.oma-scws-config"
+        },
+        {
+            "Name": "vnd.oma-scws-http-request",
+            "Template": "application/vnd.oma-scws-http-request"
+        },
+        {
+            "Name": "vnd.oma-scws-http-response",
+            "Template": "application/vnd.oma-scws-http-response"
+        },
+        {
+            "Name": "vnd.onepager",
+            "Template": "application/vnd.onepager"
+        },
+        {
+            "Name": "vnd.onepagertamp",
+            "Template": "application/vnd.onepagertamp"
+        },
+        {
+            "Name": "vnd.onepagertamx",
+            "Template": "application/vnd.onepagertamx"
+        },
+        {
+            "Name": "vnd.onepagertat",
+            "Template": "application/vnd.onepagertat"
+        },
+        {
+            "Name": "vnd.onepagertatp",
+            "Template": "application/vnd.onepagertatp"
+        },
+        {
+            "Name": "vnd.onepagertatx",
+            "Template": "application/vnd.onepagertatx"
+        },
+        {
+            "Name": "vnd.onvif.metadata",
+            "Template": "application/vnd.onvif.metadata"
+        },
+        {
+            "Name": "vnd.openblox.game-binary",
+            "Template": "application/vnd.openblox.game-binary"
+        },
+        {
+            "Name": "vnd.openblox.game+xml",
+            "Template": "application/vnd.openblox.game+xml"
+        },
+        {
+            "Name": "vnd.openeye.oeb",
+            "Template": "application/vnd.openeye.oeb"
+        },
+        {
+            "Name": "vnd.openstreetmap.data+xml",
+            "Template": "application/vnd.openstreetmap.data+xml"
+        },
+        {
+            "Name": "vnd.opentimestamps.ots",
+            "Template": "application/vnd.opentimestamps.ots"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.custom-properties+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.custom-properties+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.customXmlProperties+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.customXmlProperties+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.drawing+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.drawing+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.drawingml.chart+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.drawingml.chart+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.drawingml.chartshapes+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.drawingml.diagramColors+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.drawingml.diagramColors+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.drawingml.diagramData+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.extended-properties+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.extended-properties+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.comments+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.comments+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.notesMaster+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.notesMaster+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.notesSlide+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.notesSlide+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.presentation",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.presentation.main+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.presProps+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.presProps+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.slide",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.slide"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.slide+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.slideLayout+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.slideLayout+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.slideMaster+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.slideshow",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.slideshow"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.slideUpdateInfo+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.tableStyles+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.tableStyles+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.tags+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.tags+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.template",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.template"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.template.main+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.template.main+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.presentationml.viewProps+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.presentationml.viewProps+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.comments+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.connections+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.styles+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.table+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.template",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.theme+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.theme+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.themeOverride+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.themeOverride+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.vmlDrawing",
+            "Template": "application/vnd.openxmlformats-officedocument.vmlDrawing"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.comments+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.footer+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.settings+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.styles+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.template",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml",
+            "Template": "application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-package.core-properties+xml",
+            "Template": "application/vnd.openxmlformats-package.core-properties+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-package.digital-signature-xmlsignature+xml",
+            "Template": "application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml"
+        },
+        {
+            "Name": "vnd.openxmlformats-package.relationships+xml",
+            "Template": "application/vnd.openxmlformats-package.relationships+xml"
+        },
+        {
+            "Name": "vnd.oracle.resource+json",
+            "Template": "application/vnd.oracle.resource+json"
+        },
+        {
+            "Name": "vnd.orange.indata",
+            "Template": "application/vnd.orange.indata"
+        },
+        {
+            "Name": "vnd.osa.netdeploy",
+            "Template": "application/vnd.osa.netdeploy"
+        },
+        {
+            "Name": "vnd.osgeo.mapguide.package",
+            "Template": "application/vnd.osgeo.mapguide.package"
+        },
+        {
+            "Name": "vnd.osgi.bundle",
+            "Template": "application/vnd.osgi.bundle"
+        },
+        {
+            "Name": "vnd.osgi.dp",
+            "Template": "application/vnd.osgi.dp"
+        },
+        {
+            "Name": "vnd.osgi.subsystem",
+            "Template": "application/vnd.osgi.subsystem"
+        },
+        {
+            "Name": "vnd.otps.ct-kip+xml",
+            "Template": "application/vnd.otps.ct-kip+xml"
+        },
+        {
+            "Name": "vnd.oxli.countgraph",
+            "Template": "application/vnd.oxli.countgraph"
+        },
+        {
+            "Name": "vnd.pagerduty+json",
+            "Template": "application/vnd.pagerduty+json"
+        },
+        {
+            "Name": "vnd.palm",
+            "Template": "application/vnd.palm"
+        },
+        {
+            "Name": "vnd.panoply",
+            "Template": "application/vnd.panoply"
+        },
+        {
+            "Name": "vnd.paos.xml",
+            "Template": "application/vnd.paos.xml"
+        },
+        {
+            "Name": "vnd.patentdive",
+            "Template": "application/vnd.patentdive"
+        },
+        {
+            "Name": "vnd.patientecommsdoc",
+            "Template": "application/vnd.patientecommsdoc"
+        },
+        {
+            "Name": "vnd.pawaafile",
+            "Template": "application/vnd.pawaafile"
+        },
+        {
+            "Name": "vnd.pcos",
+            "Template": "application/vnd.pcos"
+        },
+        {
+            "Name": "vnd.pg.format",
+            "Template": "application/vnd.pg.format"
+        },
+        {
+            "Name": "vnd.pg.osasli",
+            "Template": "application/vnd.pg.osasli"
+        },
+        {
+            "Name": "vnd.piaccess.application-licence",
+            "Template": "application/vnd.piaccess.application-licence"
+        },
+        {
+            "Name": "vnd.picsel",
+            "Template": "application/vnd.picsel"
+        },
+        {
+            "Name": "vnd.pmi.widget",
+            "Template": "application/vnd.pmi.widget"
+        },
+        {
+            "Name": "vnd.poc.group-advertisement+xml",
+            "Template": "application/vnd.poc.group-advertisement+xml"
+        },
+        {
+            "Name": "vnd.pocketlearn",
+            "Template": "application/vnd.pocketlearn"
+        },
+        {
+            "Name": "vnd.powerbuilder6",
+            "Template": "application/vnd.powerbuilder6"
+        },
+        {
+            "Name": "vnd.powerbuilder6-s",
+            "Template": "application/vnd.powerbuilder6-s"
+        },
+        {
+            "Name": "vnd.powerbuilder7",
+            "Template": "application/vnd.powerbuilder7"
+        },
+        {
+            "Name": "vnd.powerbuilder75",
+            "Template": "application/vnd.powerbuilder75"
+        },
+        {
+            "Name": "vnd.powerbuilder75-s",
+            "Template": "application/vnd.powerbuilder75-s"
+        },
+        {
+            "Name": "vnd.powerbuilder7-s",
+            "Template": "application/vnd.powerbuilder7-s"
+        },
+        {
+            "Name": "vnd.preminet",
+            "Template": "application/vnd.preminet"
+        },
+        {
+            "Name": "vnd.previewsystems.box",
+            "Template": "application/vnd.previewsystems.box"
+        },
+        {
+            "Name": "vnd.proteus.magazine",
+            "Template": "application/vnd.proteus.magazine"
+        },
+        {
+            "Name": "vnd.psfs",
+            "Template": "application/vnd.psfs"
+        },
+        {
+            "Name": "vnd.pt.mundusmundi",
+            "Template": "application/vnd.pt.mundusmundi"
+        },
+        {
+            "Name": "vnd.publishare-delta-tree",
+            "Template": "application/vnd.publishare-delta-tree"
+        },
+        {
+            "Name": "vnd.pvi.ptid1",
+            "Template": "application/vnd.pvi.ptid1"
+        },
+        {
+            "Name": "vnd.pwg-multiplexed",
+            "Template": "application/vnd.pwg-multiplexed"
+        },
+        {
+            "Name": "vnd.pwg-xhtml-print+xml",
+            "Template": "application/vnd.pwg-xhtml-print+xml"
+        },
+        {
+            "Name": "vnd.qualcomm.brew-app-res",
+            "Template": "application/vnd.qualcomm.brew-app-res"
+        },
+        {
+            "Name": "vnd.quarantainenet",
+            "Template": "application/vnd.quarantainenet"
+        },
+        {
+            "Name": "vnd.Quark.QuarkXPress",
+            "Template": "application/vnd.Quark.QuarkXPress"
+        },
+        {
+            "Name": "vnd.quobject-quoxdocument",
+            "Template": "application/vnd.quobject-quoxdocument"
+        },
+        {
+            "Name": "vnd.radisys.moml+xml",
+            "Template": "application/vnd.radisys.moml+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-audit-conf+xml",
+            "Template": "application/vnd.radisys.msml-audit-conf+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-audit-conn+xml",
+            "Template": "application/vnd.radisys.msml-audit-conn+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-audit-dialog+xml",
+            "Template": "application/vnd.radisys.msml-audit-dialog+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-audit-stream+xml",
+            "Template": "application/vnd.radisys.msml-audit-stream+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-audit+xml",
+            "Template": "application/vnd.radisys.msml-audit+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-conf+xml",
+            "Template": "application/vnd.radisys.msml-conf+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-dialog-base+xml",
+            "Template": "application/vnd.radisys.msml-dialog-base+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-dialog-fax-detect+xml",
+            "Template": "application/vnd.radisys.msml-dialog-fax-detect+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-dialog-fax-sendrecv+xml",
+            "Template": "application/vnd.radisys.msml-dialog-fax-sendrecv+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-dialog-group+xml",
+            "Template": "application/vnd.radisys.msml-dialog-group+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-dialog-speech+xml",
+            "Template": "application/vnd.radisys.msml-dialog-speech+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-dialog-transform+xml",
+            "Template": "application/vnd.radisys.msml-dialog-transform+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml-dialog+xml",
+            "Template": "application/vnd.radisys.msml-dialog+xml"
+        },
+        {
+            "Name": "vnd.radisys.msml+xml",
+            "Template": "application/vnd.radisys.msml+xml"
+        },
+        {
+            "Name": "vnd.rainstor.data",
+            "Template": "application/vnd.rainstor.data"
+        },
+        {
+            "Name": "vnd.rapid",
+            "Template": "application/vnd.rapid"
+        },
+        {
+            "Name": "vnd.rar",
+            "Template": "application/vnd.rar"
+        },
+        {
+            "Name": "vnd.realvnc.bed",
+            "Template": "application/vnd.realvnc.bed"
+        },
+        {
+            "Name": "vnd.recordare.musicxml",
+            "Template": "application/vnd.recordare.musicxml"
+        },
+        {
+            "Name": "vnd.recordare.musicxml+xml",
+            "Template": "application/vnd.recordare.musicxml+xml"
+        },
+        {
+            "Name": "vnd.RenLearn.rlprint",
+            "Template": "application/vnd.RenLearn.rlprint"
+        },
+        {
+            "Name": "vnd.resilient.logic",
+            "Template": "application/vnd.resilient.logic"
+        },
+        {
+            "Name": "vnd.restful+json",
+            "Template": "application/vnd.restful+json"
+        },
+        {
+            "Name": "vnd.rig.cryptonote",
+            "Template": "application/vnd.rig.cryptonote"
+        },
+        {
+            "Name": "vnd.route66.link66+xml",
+            "Template": "application/vnd.route66.link66+xml"
+        },
+        {
+            "Name": "vnd.rs-274x",
+            "Template": "application/vnd.rs-274x"
+        },
+        {
+            "Name": "vnd.ruckus.download",
+            "Template": "application/vnd.ruckus.download"
+        },
+        {
+            "Name": "vnd.s3sms",
+            "Template": "application/vnd.s3sms"
+        },
+        {
+            "Name": "vnd.sailingtracker.track",
+            "Template": "application/vnd.sailingtracker.track"
+        },
+        {
+            "Name": "vnd.sar",
+            "Template": "application/vnd.sar"
+        },
+        {
+            "Name": "vnd.sbm.cid",
+            "Template": "application/vnd.sbm.cid"
+        },
+        {
+            "Name": "vnd.sbm.mid2",
+            "Template": "application/vnd.sbm.mid2"
+        },
+        {
+            "Name": "vnd.scribus",
+            "Template": "application/vnd.scribus"
+        },
+        {
+            "Name": "vnd.sealed.3df",
+            "Template": "application/vnd.sealed.3df"
+        },
+        {
+            "Name": "vnd.sealed.csf",
+            "Template": "application/vnd.sealed.csf"
+        },
+        {
+            "Name": "vnd.sealed.doc",
+            "Template": "application/vnd.sealed.doc"
+        },
+        {
+            "Name": "vnd.sealed.eml",
+            "Template": "application/vnd.sealed.eml"
+        },
+        {
+            "Name": "vnd.sealed.mht",
+            "Template": "application/vnd.sealed.mht"
+        },
+        {
+            "Name": "vnd.sealed.net",
+            "Template": "application/vnd.sealed.net"
+        },
+        {
+            "Name": "vnd.sealed.ppt",
+            "Template": "application/vnd.sealed.ppt"
+        },
+        {
+            "Name": "vnd.sealed.tiff",
+            "Template": "application/vnd.sealed.tiff"
+        },
+        {
+            "Name": "vnd.sealed.xls",
+            "Template": "application/vnd.sealed.xls"
+        },
+        {
+            "Name": "vnd.sealedmedia.softseal.html",
+            "Template": "application/vnd.sealedmedia.softseal.html"
+        },
+        {
+            "Name": "vnd.sealedmedia.softseal.pdf",
+            "Template": "application/vnd.sealedmedia.softseal.pdf"
+        },
+        {
+            "Name": "vnd.seemail",
+            "Template": "application/vnd.seemail"
+        },
+        {
+            "Name": "vnd.seis+json",
+            "Template": "application/vnd.seis+json"
+        },
+        {
+            "Name": "vnd.sema",
+            "Template": "application/vnd.sema"
+        },
+        {
+            "Name": "vnd.semd",
+            "Template": "application/vnd.semd"
+        },
+        {
+            "Name": "vnd.semf",
+            "Template": "application/vnd.semf"
+        },
+        {
+            "Name": "vnd.shade-save-file",
+            "Template": "application/vnd.shade-save-file"
+        },
+        {
+            "Name": "vnd.shana.informed.formdata",
+            "Template": "application/vnd.shana.informed.formdata"
+        },
+        {
+            "Name": "vnd.shana.informed.formtemplate",
+            "Template": "application/vnd.shana.informed.formtemplate"
+        },
+        {
+            "Name": "vnd.shana.informed.interchange",
+            "Template": "application/vnd.shana.informed.interchange"
+        },
+        {
+            "Name": "vnd.shana.informed.package",
+            "Template": "application/vnd.shana.informed.package"
+        },
+        {
+            "Name": "vnd.shootproof+json",
+            "Template": "application/vnd.shootproof+json"
+        },
+        {
+            "Name": "vnd.shopkick+json",
+            "Template": "application/vnd.shopkick+json"
+        },
+        {
+            "Name": "vnd.shp",
+            "Template": "application/vnd.shp"
+        },
+        {
+            "Name": "vnd.shx",
+            "Template": "application/vnd.shx"
+        },
+        {
+            "Name": "vnd.sigrok.session",
+            "Template": "application/vnd.sigrok.session"
+        },
+        {
+            "Name": "vnd.SimTech-MindMapper",
+            "Template": "application/vnd.SimTech-MindMapper"
+        },
+        {
+            "Name": "vnd.siren+json",
+            "Template": "application/vnd.siren+json"
+        },
+        {
+            "Name": "vnd.smaf",
+            "Template": "application/vnd.smaf"
+        },
+        {
+            "Name": "vnd.smart.notebook",
+            "Template": "application/vnd.smart.notebook"
+        },
+        {
+            "Name": "vnd.smart.teacher",
+            "Template": "application/vnd.smart.teacher"
+        },
+        {
+            "Name": "vnd.smintio.portals.archive",
+            "Template": "application/vnd.smintio.portals.archive"
+        },
+        {
+            "Name": "vnd.snesdev-page-table",
+            "Template": "application/vnd.snesdev-page-table"
+        },
+        {
+            "Name": "vnd.software602.filler.form+xml",
+            "Template": "application/vnd.software602.filler.form+xml"
+        },
+        {
+            "Name": "vnd.software602.filler.form-xml-zip",
+            "Template": "application/vnd.software602.filler.form-xml-zip"
+        },
+        {
+            "Name": "vnd.solent.sdkm+xml",
+            "Template": "application/vnd.solent.sdkm+xml"
+        },
+        {
+            "Name": "vnd.spotfire.dxp",
+            "Template": "application/vnd.spotfire.dxp"
+        },
+        {
+            "Name": "vnd.spotfire.sfs",
+            "Template": "application/vnd.spotfire.sfs"
+        },
+        {
+            "Name": "vnd.sqlite3",
+            "Template": "application/vnd.sqlite3"
+        },
+        {
+            "Name": "vnd.sss-cod",
+            "Template": "application/vnd.sss-cod"
+        },
+        {
+            "Name": "vnd.sss-dtf",
+            "Template": "application/vnd.sss-dtf"
+        },
+        {
+            "Name": "vnd.sss-ntf",
+            "Template": "application/vnd.sss-ntf"
+        },
+        {
+            "Name": "vnd.stepmania.package",
+            "Template": "application/vnd.stepmania.package"
+        },
+        {
+            "Name": "vnd.stepmania.stepchart",
+            "Template": "application/vnd.stepmania.stepchart"
+        },
+        {
+            "Name": "vnd.street-stream",
+            "Template": "application/vnd.street-stream"
+        },
+        {
+            "Name": "vnd.sun.wadl+xml",
+            "Template": "application/vnd.sun.wadl+xml"
+        },
+        {
+            "Name": "vnd.sus-calendar",
+            "Template": "application/vnd.sus-calendar"
+        },
+        {
+            "Name": "vnd.svd",
+            "Template": "application/vnd.svd"
+        },
+        {
+            "Name": "vnd.swiftview-ics",
+            "Template": "application/vnd.swiftview-ics"
+        },
+        {
+            "Name": "vnd.sybyl.mol2",
+            "Template": "application/vnd.sybyl.mol2"
+        },
+        {
+            "Name": "vnd.sycle+xml",
+            "Template": "application/vnd.sycle+xml"
+        },
+        {
+            "Name": "vnd.syft+json",
+            "Template": "application/vnd.syft+json"
+        },
+        {
+            "Name": "vnd.syncml.dm.notification",
+            "Template": "application/vnd.syncml.dm.notification"
+        },
+        {
+            "Name": "vnd.syncml.dmddf+xml",
+            "Template": "application/vnd.syncml.dmddf+xml"
+        },
+        {
+            "Name": "vnd.syncml.dmtnds+wbxml",
+            "Template": "application/vnd.syncml.dmtnds+wbxml"
+        },
+        {
+            "Name": "vnd.syncml.dmtnds+xml",
+            "Template": "application/vnd.syncml.dmtnds+xml"
+        },
+        {
+            "Name": "vnd.syncml.dmddf+wbxml",
+            "Template": "application/vnd.syncml.dmddf+wbxml"
+        },
+        {
+            "Name": "vnd.syncml.dm+wbxml",
+            "Template": "application/vnd.syncml.dm+wbxml"
+        },
+        {
+            "Name": "vnd.syncml.dm+xml",
+            "Template": "application/vnd.syncml.dm+xml"
+        },
+        {
+            "Name": "vnd.syncml.ds.notification",
+            "Template": "application/vnd.syncml.ds.notification"
+        },
+        {
+            "Name": "vnd.syncml+xml",
+            "Template": "application/vnd.syncml+xml"
+        },
+        {
+            "Name": "vnd.tableschema+json",
+            "Template": "application/vnd.tableschema+json"
+        },
+        {
+            "Name": "vnd.tao.intent-module-archive",
+            "Template": "application/vnd.tao.intent-module-archive"
+        },
+        {
+            "Name": "vnd.tcpdump.pcap",
+            "Template": "application/vnd.tcpdump.pcap"
+        },
+        {
+            "Name": "vnd.think-cell.ppttc+json",
+            "Template": "application/vnd.think-cell.ppttc+json"
+        },
+        {
+            "Name": "vnd.tml",
+            "Template": "application/vnd.tml"
+        },
+        {
+            "Name": "vnd.tmd.mediaflex.api+xml",
+            "Template": "application/vnd.tmd.mediaflex.api+xml"
+        },
+        {
+            "Name": "vnd.tmobile-livetv",
+            "Template": "application/vnd.tmobile-livetv"
+        },
+        {
+            "Name": "vnd.tri.onesource",
+            "Template": "application/vnd.tri.onesource"
+        },
+        {
+            "Name": "vnd.trid.tpt",
+            "Template": "application/vnd.trid.tpt"
+        },
+        {
+            "Name": "vnd.triscape.mxs",
+            "Template": "application/vnd.triscape.mxs"
+        },
+        {
+            "Name": "vnd.trueapp",
+            "Template": "application/vnd.trueapp"
+        },
+        {
+            "Name": "vnd.truedoc",
+            "Template": "application/vnd.truedoc"
+        },
+        {
+            "Name": "vnd.ubisoft.webplayer",
+            "Template": "application/vnd.ubisoft.webplayer"
+        },
+        {
+            "Name": "vnd.ufdl",
+            "Template": "application/vnd.ufdl"
+        },
+        {
+            "Name": "vnd.uiq.theme",
+            "Template": "application/vnd.uiq.theme"
+        },
+        {
+            "Name": "vnd.umajin",
+            "Template": "application/vnd.umajin"
+        },
+        {
+            "Name": "vnd.unity",
+            "Template": "application/vnd.unity"
+        },
+        {
+            "Name": "vnd.uoml+xml",
+            "Template": "application/vnd.uoml+xml"
+        },
+        {
+            "Name": "vnd.uplanet.alert",
+            "Template": "application/vnd.uplanet.alert"
+        },
+        {
+            "Name": "vnd.uplanet.alert-wbxml",
+            "Template": "application/vnd.uplanet.alert-wbxml"
+        },
+        {
+            "Name": "vnd.uplanet.bearer-choice",
+            "Template": "application/vnd.uplanet.bearer-choice"
+        },
+        {
+            "Name": "vnd.uplanet.bearer-choice-wbxml",
+            "Template": "application/vnd.uplanet.bearer-choice-wbxml"
+        },
+        {
+            "Name": "vnd.uplanet.cacheop",
+            "Template": "application/vnd.uplanet.cacheop"
+        },
+        {
+            "Name": "vnd.uplanet.cacheop-wbxml",
+            "Template": "application/vnd.uplanet.cacheop-wbxml"
+        },
+        {
+            "Name": "vnd.uplanet.channel",
+            "Template": "application/vnd.uplanet.channel"
+        },
+        {
+            "Name": "vnd.uplanet.channel-wbxml",
+            "Template": "application/vnd.uplanet.channel-wbxml"
+        },
+        {
+            "Name": "vnd.uplanet.list",
+            "Template": "application/vnd.uplanet.list"
+        },
+        {
+            "Name": "vnd.uplanet.listcmd",
+            "Template": "application/vnd.uplanet.listcmd"
+        },
+        {
+            "Name": "vnd.uplanet.listcmd-wbxml",
+            "Template": "application/vnd.uplanet.listcmd-wbxml"
+        },
+        {
+            "Name": "vnd.uplanet.list-wbxml",
+            "Template": "application/vnd.uplanet.list-wbxml"
+        },
+        {
+            "Name": "vnd.uri-map",
+            "Template": "application/vnd.uri-map"
+        },
+        {
+            "Name": "vnd.uplanet.signal",
+            "Template": "application/vnd.uplanet.signal"
+        },
+        {
+            "Name": "vnd.valve.source.material",
+            "Template": "application/vnd.valve.source.material"
+        },
+        {
+            "Name": "vnd.vcx",
+            "Template": "application/vnd.vcx"
+        },
+        {
+            "Name": "vnd.vd-study",
+            "Template": "application/vnd.vd-study"
+        },
+        {
+            "Name": "vnd.vectorworks",
+            "Template": "application/vnd.vectorworks"
+        },
+        {
+            "Name": "vnd.vel+json",
+            "Template": "application/vnd.vel+json"
+        },
+        {
+            "Name": "vnd.verimatrix.vcas",
+            "Template": "application/vnd.verimatrix.vcas"
+        },
+        {
+            "Name": "vnd.veritone.aion+json",
+            "Template": "application/vnd.veritone.aion+json"
+        },
+        {
+            "Name": "vnd.veryant.thin",
+            "Template": "application/vnd.veryant.thin"
+        },
+        {
+            "Name": "vnd.ves.encrypted",
+            "Template": "application/vnd.ves.encrypted"
+        },
+        {
+            "Name": "vnd.vidsoft.vidconference",
+            "Template": "application/vnd.vidsoft.vidconference"
+        },
+        {
+            "Name": "vnd.visio",
+            "Template": "application/vnd.visio"
+        },
+        {
+            "Name": "vnd.visionary",
+            "Template": "application/vnd.visionary"
+        },
+        {
+            "Name": "vnd.vividence.scriptfile",
+            "Template": "application/vnd.vividence.scriptfile"
+        },
+        {
+            "Name": "vnd.vsf",
+            "Template": "application/vnd.vsf"
+        },
+        {
+            "Name": "vnd.wap.sic",
+            "Template": "application/vnd.wap.sic"
+        },
+        {
+            "Name": "vnd.wap.slc",
+            "Template": "application/vnd.wap.slc"
+        },
+        {
+            "Name": "vnd.wap.wbxml",
+            "Template": "application/vnd.wap.wbxml"
+        },
+        {
+            "Name": "vnd.wap.wmlc",
+            "Template": "application/vnd.wap.wmlc"
+        },
+        {
+            "Name": "vnd.wap.wmlscriptc",
+            "Template": "application/vnd.wap.wmlscriptc"
+        },
+        {
+            "Name": "vnd.wasmflow.wafl",
+            "Template": "application/vnd.wasmflow.wafl"
+        },
+        {
+            "Name": "vnd.webturbo",
+            "Template": "application/vnd.webturbo"
+        },
+        {
+            "Name": "vnd.wfa.dpp",
+            "Template": "application/vnd.wfa.dpp"
+        },
+        {
+            "Name": "vnd.wfa.p2p",
+            "Template": "application/vnd.wfa.p2p"
+        },
+        {
+            "Name": "vnd.wfa.wsc",
+            "Template": "application/vnd.wfa.wsc"
+        },
+        {
+            "Name": "vnd.windows.devicepairing",
+            "Template": "application/vnd.windows.devicepairing"
+        },
+        {
+            "Name": "vnd.wmc",
+            "Template": "application/vnd.wmc"
+        },
+        {
+            "Name": "vnd.wmf.bootstrap",
+            "Template": "application/vnd.wmf.bootstrap"
+        },
+        {
+            "Name": "vnd.wolfram.mathematica",
+            "Template": "application/vnd.wolfram.mathematica"
+        },
+        {
+            "Name": "vnd.wolfram.mathematica.package",
+            "Template": "application/vnd.wolfram.mathematica.package"
+        },
+        {
+            "Name": "vnd.wolfram.player",
+            "Template": "application/vnd.wolfram.player"
+        },
+        {
+            "Name": "vnd.wordlift",
+            "Template": "application/vnd.wordlift"
+        },
+        {
+            "Name": "vnd.wordperfect",
+            "Template": "application/vnd.wordperfect"
+        },
+        {
+            "Name": "vnd.wqd",
+            "Template": "application/vnd.wqd"
+        },
+        {
+            "Name": "vnd.wrq-hp3000-labelled",
+            "Template": "application/vnd.wrq-hp3000-labelled"
+        },
+        {
+            "Name": "vnd.wt.stf",
+            "Template": "application/vnd.wt.stf"
+        },
+        {
+            "Name": "vnd.wv.csp+xml",
+            "Template": "application/vnd.wv.csp+xml"
+        },
+        {
+            "Name": "vnd.wv.csp+wbxml",
+            "Template": "application/vnd.wv.csp+wbxml"
+        },
+        {
+            "Name": "vnd.wv.ssp+xml",
+            "Template": "application/vnd.wv.ssp+xml"
+        },
+        {
+            "Name": "vnd.xacml+json",
+            "Template": "application/vnd.xacml+json"
+        },
+        {
+            "Name": "vnd.xara",
+            "Template": "application/vnd.xara"
+        },
+        {
+            "Name": "vnd.xfdl",
+            "Template": "application/vnd.xfdl"
+        },
+        {
+            "Name": "vnd.xfdl.webform",
+            "Template": "application/vnd.xfdl.webform"
+        },
+        {
+            "Name": "vnd.xmi+xml",
+            "Template": "application/vnd.xmi+xml"
+        },
+        {
+            "Name": "vnd.xmpie.cpkg",
+            "Template": "application/vnd.xmpie.cpkg"
+        },
+        {
+            "Name": "vnd.xmpie.dpkg",
+            "Template": "application/vnd.xmpie.dpkg"
+        },
+        {
+            "Name": "vnd.xmpie.plan",
+            "Template": "application/vnd.xmpie.plan"
+        },
+        {
+            "Name": "vnd.xmpie.ppkg",
+            "Template": "application/vnd.xmpie.ppkg"
+        },
+        {
+            "Name": "vnd.xmpie.xlim",
+            "Template": "application/vnd.xmpie.xlim"
+        },
+        {
+            "Name": "vnd.yamaha.hv-dic",
+            "Template": "application/vnd.yamaha.hv-dic"
+        },
+        {
+            "Name": "vnd.yamaha.hv-script",
+            "Template": "application/vnd.yamaha.hv-script"
+        },
+        {
+            "Name": "vnd.yamaha.hv-voice",
+            "Template": "application/vnd.yamaha.hv-voice"
+        },
+        {
+            "Name": "vnd.yamaha.openscoreformat.osfpvg+xml",
+            "Template": "application/vnd.yamaha.openscoreformat.osfpvg+xml"
+        },
+        {
+            "Name": "vnd.yamaha.openscoreformat",
+            "Template": "application/vnd.yamaha.openscoreformat"
+        },
+        {
+            "Name": "vnd.yamaha.remote-setup",
+            "Template": "application/vnd.yamaha.remote-setup"
+        },
+        {
+            "Name": "vnd.yamaha.smaf-audio",
+            "Template": "application/vnd.yamaha.smaf-audio"
+        },
+        {
+            "Name": "vnd.yamaha.smaf-phrase",
+            "Template": "application/vnd.yamaha.smaf-phrase"
+        },
+        {
+            "Name": "vnd.yamaha.through-ngn",
+            "Template": "application/vnd.yamaha.through-ngn"
+        },
+        {
+            "Name": "vnd.yamaha.tunnel-udpencap",
+            "Template": "application/vnd.yamaha.tunnel-udpencap"
+        },
+        {
+            "Name": "vnd.yaoweme",
+            "Template": "application/vnd.yaoweme"
+        },
+        {
+            "Name": "vnd.yellowriver-custom-menu",
+            "Template": "application/vnd.yellowriver-custom-menu"
+        },
+        {
+            "Name": "vnd.youtube.yt (OBSOLETED in favor of video/vnd.youtube.yt)",
+            "Template": "application/vnd.youtube.yt"
+        },
+        {
+            "Name": "vnd.zul",
+            "Template": "application/vnd.zul"
+        },
+        {
+            "Name": "vnd.zzazz.deck+xml",
+            "Template": "application/vnd.zzazz.deck+xml"
+        },
+        {
+            "Name": "voicexml+xml",
+            "Template": "application/voicexml+xml"
+        },
+        {
+            "Name": "voucher-cms+json",
+            "Template": "application/voucher-cms+json"
+        },
+        {
+            "Name": "vq-rtcpxr",
+            "Template": "application/vq-rtcpxr"
+        },
+        {
+            "Name": "wasm",
+            "Template": "application/wasm"
+        },
+        {
+            "Name": "watcherinfo+xml",
+            "Template": "application/watcherinfo+xml"
+        },
+        {
+            "Name": "webpush-options+json",
+            "Template": "application/webpush-options+json"
+        },
+        {
+            "Name": "whoispp-query",
+            "Template": "application/whoispp-query"
+        },
+        {
+            "Name": "whoispp-response",
+            "Template": "application/whoispp-response"
+        },
+        {
+            "Name": "widget",
+            "Template": "application/widget"
+        },
+        {
+            "Name": "wita",
+            "Template": "application/wita"
+        },
+        {
+            "Name": "wordperfect5.1",
+            "Template": "application/wordperfect5.1"
+        },
+        {
+            "Name": "wsdl+xml",
+            "Template": "application/wsdl+xml"
+        },
+        {
+            "Name": "wspolicy+xml",
+            "Template": "application/wspolicy+xml"
+        },
+        {
+            "Name": "x-pki-message",
+            "Template": "application/x-pki-message"
+        },
+        {
+            "Name": "x-www-form-urlencoded",
+            "Template": "application/x-www-form-urlencoded"
+        },
+        {
+            "Name": "x-x509-ca-cert",
+            "Template": "application/x-x509-ca-cert"
+        },
+        {
+            "Name": "x-x509-ca-ra-cert",
+            "Template": "application/x-x509-ca-ra-cert"
+        },
+        {
+            "Name": "x-x509-next-ca-cert",
+            "Template": "application/x-x509-next-ca-cert"
+        },
+        {
+            "Name": "x400-bp",
+            "Template": "application/x400-bp"
+        },
+        {
+            "Name": "xacml+xml",
+            "Template": "application/xacml+xml"
+        },
+        {
+            "Name": "xcap-att+xml",
+            "Template": "application/xcap-att+xml"
+        },
+        {
+            "Name": "xcap-caps+xml",
+            "Template": "application/xcap-caps+xml"
+        },
+        {
+            "Name": "xcap-diff+xml",
+            "Template": "application/xcap-diff+xml"
+        },
+        {
+            "Name": "xcap-el+xml",
+            "Template": "application/xcap-el+xml"
+        },
+        {
+            "Name": "xcap-error+xml",
+            "Template": "application/xcap-error+xml"
+        },
+        {
+            "Name": "xcap-ns+xml",
+            "Template": "application/xcap-ns+xml"
+        },
+        {
+            "Name": "xcon-conference-info-diff+xml",
+            "Template": "application/xcon-conference-info-diff+xml"
+        },
+        {
+            "Name": "xcon-conference-info+xml",
+            "Template": "application/xcon-conference-info+xml"
+        },
+        {
+            "Name": "xenc+xml",
+            "Template": "application/xenc+xml"
+        },
+        {
+            "Name": "xfdf",
+            "Template": "application/xfdf"
+        },
+        {
+            "Name": "xhtml+xml",
+            "Template": "application/xhtml+xml"
+        },
+        {
+            "Name": "xliff+xml",
+            "Template": "application/xliff+xml"
+        },
+        {
+            "Name": "xml",
+            "Template": "application/xml"
+        },
+        {
+            "Name": "xml-dtd",
+            "Template": "application/xml-dtd"
+        },
+        {
+            "Name": "xml-external-parsed-entity",
+            "Template": "application/xml-external-parsed-entity"
+        },
+        {
+            "Name": "xml-patch+xml",
+            "Template": "application/xml-patch+xml"
+        },
+        {
+            "Name": "xmpp+xml",
+            "Template": "application/xmpp+xml"
+        },
+        {
+            "Name": "xop+xml",
+            "Template": "application/xop+xml"
+        },
+        {
+            "Name": "xslt+xml",
+            "Template": "application/xslt+xml"
+        },
+        {
+            "Name": "xv+xml",
+            "Template": "application/xv+xml"
+        },
+        {
+            "Name": "yang",
+            "Template": "application/yang"
+        },
+        {
+            "Name": "yang-data+cbor",
+            "Template": "application/yang-data+cbor"
+        },
+        {
+            "Name": "yang-data+json",
+            "Template": "application/yang-data+json"
+        },
+        {
+            "Name": "yang-data+xml",
+            "Template": "application/yang-data+xml"
+        },
+        {
+            "Name": "yang-patch+json",
+            "Template": "application/yang-patch+json"
+        },
+        {
+            "Name": "yang-patch+xml",
+            "Template": "application/yang-patch+xml"
+        },
+        {
+            "Name": "yin+xml",
+            "Template": "application/yin+xml"
+        },
+        {
+            "Name": "zip",
+            "Template": "application/zip"
+        },
+        {
+            "Name": "zlib",
+            "Template": "application/zlib"
+        },
+        {
+            "Name": "zstd",
+            "Template": "application/zstd"
+        }
+    ]
+}

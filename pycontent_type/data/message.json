@@ -1,0 +1,104 @@
+{
+    "message": [
+        {
+            "Name": "bhttp",
+            "Template": "message/bhttp"
+        },
+        {
+            "Name": "CPIM",
+            "Template": "message/CPIM"
+        },
+        {
+            "Name": "delivery-status",
+            "Template": "message/delivery-status"
+        },
+        {
+            "Name": "disposition-notification",
+            "Template": "message/disposition-notification"
+        },
+        {
+            "Name": "example",
+            "Template": "message/example"
+        },
+        {
+            "Name": "external-body",
+            "Template": ""
+        },
+        {
+            "Name": "feedback-report",
+            "Template": "message/feedback-report"
+        },
+        {
+            "Name": "global",
+            "Template": "message/global"
+        },
+        {
+            "Name": "global-delivery-status",
+            "Template": "message/global-delivery-status"
+        },
+        {
+            "Name": "global-disposition-notification",
+            "Template": "message/global-disposition-notification"
+        },
+        {
+            "Name": "global-headers",
+            "Template": "message/global-headers"
+        },
+        {
+            "Name": "http",
+            "Template": "message/http"
+        },
+        {
+            "Name": "imdn+xml",
+            "Template": "message/imdn+xml"
+        },
+        {
+            "Name": "mls",
+            "Template": "message/mls"
+        },
+        {
+            "Name": "news (OBSOLETED by [RFC5537])",
+            "Template": "message/news"
+        },
+        {
+            "Name": "ohttp-req",
+            "Template": "message/ohttp-req"
+        },
+        {
+            "Name": "ohttp-res",
+            "Template": "message/ohttp-res"
+        },
+        {
+            "Name": "partial",
+            "Template": ""
+        },
+        {
+            "Name": "rfc822",
+            "Template": ""
+        },
+        {
+            "Name": "s-http (OBSOLETE)",
+            "Template": "message/s-http"
+        },
+        {
+            "Name": "sip",
+            "Template": "message/sip"
+        },
+        {
+            "Name": "sipfrag",
+            "Template": "message/sipfrag"
+        },
+        {
+            "Name": "tracking-status",
+            "Template": "message/tracking-status"
+        },
+        {
+            "Name": "vnd.si.simp (OBSOLETED by request)",
+            "Template": "message/vnd.si.simp"
+        },
+        {
+            "Name": "vnd.wfa.wsc",
+            "Template": "message/vnd.wfa.wsc"
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "image": [
+        {
+            "Name": "aces",
+            "Template": "image/aces"
+        },
+        {
+            "Name": "apng",
+            "Template": "image/apng"
+        },
+        {
+            "Name": "avci",
+            "Template": "image/avci"
+        },
+        {
+            "Name": "avcs",
+            "Template": "image/avcs"
+        },
+        {
+            "Name": "avif",
+            "Template": "image/avif"
+        },
+        {
+            "Name": "bmp",
+            "Template": "image/bmp"
+        },
+        {
+            "Name": "cgm",
+            "Template": "image/cgm"
+        },
+        {
+            "Name": "dicom-rle",
+            "Template": "image/dicom-rle"
+        },
+        {
+            "Name": "dpx",
+            "Template": "image/dpx"
+        },
+        {
+            "Name": "emf",
+            "Template": "image/emf"
+        },
+        {
+            "Name": "example",
+            "Template": "image/example"
+        },
+        {
+            "Name": "fits",
+            "Template": "image/fits"
+        },
+        {
+            "Name": "g3fax",
+            "Template": "image/g3fax"
+        },
+        {
+            "Name": "gif",
+            "Template": ""
+        },
+        {
+            "Name": "heic",
+            "Template": "image/heic"
+        },
+        {
+            "Name": "heic-sequence",
+            "Template": "image/heic-sequence"
+        },
+        {
+            "Name": "heif",
+            "Template": "image/heif"
+        },
+        {
+            "Name": "heif-sequence",
+            "Template": "image/heif-sequence"
+        },
+        {
+            "Name": "hej2k",
+            "Template": "image/hej2k"
+        },
+        {
+            "Name": "hsj2",
+            "Template": "image/hsj2"
+        },
+        {
+            "Name": "ief",
+            "Template": ""
+        },
+        {
+            "Name": "jls",
+            "Template": "image/jls"
+        },
+        {
+            "Name": "jp2",
+            "Template": "image/jp2"
+        },
+        {
+            "Name": "jpeg",
+            "Template": ""
+        },
+        {
+            "Name": "jph",
+            "Template": "image/jph"
+        },
+        {
+            "Name": "jphc",
+            "Template": "image/jphc"
+        },
+        {
+            "Name": "jpm",
+            "Template": "image/jpm"
+        },
+        {
+            "Name": "jpx",
+            "Template": "image/jpx"
+        },
+        {
+            "Name": "jxr",
+            "Template": "image/jxr"
+        },
+        {
+            "Name": "jxrA",
+            "Template": "image/jxrA"
+        },
+        {
+            "Name": "jxrS",
+            "Template": "image/jxrS"
+        },
+        {
+            "Name": "jxs",
+            "Template": "image/jxs"
+        },
+        {
+            "Name": "jxsc",
+            "Template": "image/jxsc"
+        },
+        {
+            "Name": "jxsi",
+            "Template": "image/jxsi"
+        },
+        {
+            "Name": "jxss",
+            "Template": "image/jxss"
+        },
+        {
+            "Name": "ktx",
+            "Template": "image/ktx"
+        },
+        {
+            "Name": "ktx2",
+            "Template": "image/ktx2"
+        },
+        {
+            "Name": "naplps",
+            "Template": "image/naplps"
+        },
+        {
+            "Name": "png",
+            "Template": "image/png"
+        },
+        {
+            "Name": "prs.btif",
+            "Template": "image/prs.btif"
+        },
+        {
+            "Name": "prs.pti",
+            "Template": "image/prs.pti"
+        },
+        {
+            "Name": "pwg-raster",
+            "Template": "image/pwg-raster"
+        },
+        {
+            "Name": "svg+xml",
+            "Template": "image/svg+xml"
+        },
+        {
+            "Name": "t38",
+            "Template": "image/t38"
+        },
+        {
+            "Name": "tiff",
+            "Template": "image/tiff"
+        },
+        {
+            "Name": "tiff-fx",
+            "Template": "image/tiff-fx"
+        },
+        {
+            "Name": "vnd.adobe.photoshop",
+            "Template": "image/vnd.adobe.photoshop"
+        },
+        {
+            "Name": "vnd.airzip.accelerator.azv",
+            "Template": "image/vnd.airzip.accelerator.azv"
+        },
+        {
+            "Name": "vnd.cns.inf2",
+            "Template": "image/vnd.cns.inf2"
+        },
+        {
+            "Name": "vnd.dece.graphic",
+            "Template": "image/vnd.dece.graphic"
+        },
+        {
+            "Name": "vnd.djvu",
+            "Template": "image/vnd.djvu"
+        },
+        {
+            "Name": "vnd.dwg",
+            "Template": "image/vnd.dwg"
+        },
+        {
+            "Name": "vnd.dxf",
+            "Template": "image/vnd.dxf"
+        },
+        {
+            "Name": "vnd.dvb.subtitle",
+            "Template": "image/vnd.dvb.subtitle"
+        },
+        {
+            "Name": "vnd.fastbidsheet",
+            "Template": "image/vnd.fastbidsheet"
+        },
+        {
+            "Name": "vnd.fpx",
+            "Template": "image/vnd.fpx"
+        },
+        {
+            "Name": "vnd.fst",
+            "Template": "image/vnd.fst"
+        },
+        {
+            "Name": "vnd.fujixerox.edmics-mmr",
+            "Template": "image/vnd.fujixerox.edmics-mmr"
+        },
+        {
+            "Name": "vnd.fujixerox.edmics-rlc",
+            "Template": "image/vnd.fujixerox.edmics-rlc"
+        },
+        {
+            "Name": "vnd.globalgraphics.pgb",
+            "Template": "image/vnd.globalgraphics.pgb"
+        },
+        {
+            "Name": "vnd.microsoft.icon",
+            "Template": "image/vnd.microsoft.icon"
+        },
+        {
+            "Name": "vnd.mix",
+            "Template": "image/vnd.mix"
+        },
+        {
+            "Name": "vnd.ms-modi",
+            "Template": "image/vnd.ms-modi"
+        },
+        {
+            "Name": "vnd.mozilla.apng",
+            "Template": "image/vnd.mozilla.apng"
+        },
+        {
+            "Name": "vnd.net-fpx",
+            "Template": "image/vnd.net-fpx"
+        },
+        {
+            "Name": "vnd.pco.b16",
+            "Template": "image/vnd.pco.b16"
+        },
+        {
+            "Name": "vnd.radiance",
+            "Template": "image/vnd.radiance"
+        },
+        {
+            "Name": "vnd.sealed.png",
+            "Template": "image/vnd.sealed.png"
+        },
+        {
+            "Name": "vnd.sealedmedia.softseal.gif",
+            "Template": "image/vnd.sealedmedia.softseal.gif"
+        },
+        {
+            "Name": "vnd.sealedmedia.softseal.jpg",
+            "Template": "image/vnd.sealedmedia.softseal.jpg"
+        },
+        {
+            "Name": "vnd.svf",
+            "Template": "image/vnd.svf"
+        },
+        {
+            "Name": "vnd.tencent.tap",
+            "Template": "image/vnd.tencent.tap"
+        },
+        {
+            "Name": "vnd.valve.source.texture",
+            "Template": "image/vnd.valve.source.texture"
+        },
+        {
+            "Name": "vnd.wap.wbmp",
+            "Template": "image/vnd.wap.wbmp"
+        },
+        {
+            "Name": "vnd.xiff",
+            "Template": "image/vnd.xiff"
+        },
+        {
+            "Name": "vnd.zbrush.pcx",
+            "Template": "image/vnd.zbrush.pcx"
+        },
+        {
+            "Name": "webp",
+            "Template": "image/webp"
+        },
+        {
+            "Name": "wmf",
+            "Template": "image/wmf"
+        },
+        {
+            "Name": "x-emf - DEPRECATED in favor of image/emf",
+            "Template": "image/emf"
+        },
+        {
+            "Name": "x-wmf - DEPRECATED in favor of image/wmf",
+            "Template": "image/wmf"
+        }
+    ]
+}

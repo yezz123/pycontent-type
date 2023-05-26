@@ -1,0 +1,168 @@
+{
+    "model": [
+        {
+            "Name": "3mf",
+            "Template": "model/3mf"
+        },
+        {
+            "Name": "e57",
+            "Template": "model/e57"
+        },
+        {
+            "Name": "example",
+            "Template": "model/example"
+        },
+        {
+            "Name": "gltf-binary",
+            "Template": "model/gltf-binary"
+        },
+        {
+            "Name": "gltf+json",
+            "Template": "model/gltf+json"
+        },
+        {
+            "Name": "JT",
+            "Template": "model/JT"
+        },
+        {
+            "Name": "iges",
+            "Template": "model/iges"
+        },
+        {
+            "Name": "mesh",
+            "Template": ""
+        },
+        {
+            "Name": "mtl",
+            "Template": "model/mtl"
+        },
+        {
+            "Name": "obj",
+            "Template": "model/obj"
+        },
+        {
+            "Name": "prc",
+            "Template": "model/prc"
+        },
+        {
+            "Name": "step",
+            "Template": "model/step"
+        },
+        {
+            "Name": "step+xml",
+            "Template": "model/step+xml"
+        },
+        {
+            "Name": "step+zip",
+            "Template": "model/step+zip"
+        },
+        {
+            "Name": "step-xml+zip",
+            "Template": "model/step-xml+zip"
+        },
+        {
+            "Name": "stl",
+            "Template": "model/stl"
+        },
+        {
+            "Name": "u3d",
+            "Template": "model/u3d"
+        },
+        {
+            "Name": "vnd.bary",
+            "Template": "model/vnd.bary"
+        },
+        {
+            "Name": "vnd.cld",
+            "Template": "model/vnd.cld"
+        },
+        {
+            "Name": "vnd.collada+xml",
+            "Template": "model/vnd.collada+xml"
+        },
+        {
+            "Name": "vnd.dwf",
+            "Template": "model/vnd.dwf"
+        },
+        {
+            "Name": "vnd.flatland.3dml",
+            "Template": "model/vnd.flatland.3dml"
+        },
+        {
+            "Name": "vnd.gdl",
+            "Template": "model/vnd.gdl"
+        },
+        {
+            "Name": "vnd.gs-gdl",
+            "Template": "model/vnd.gs-gdl"
+        },
+        {
+            "Name": "vnd.gtw",
+            "Template": "model/vnd.gtw"
+        },
+        {
+            "Name": "vnd.moml+xml",
+            "Template": "model/vnd.moml+xml"
+        },
+        {
+            "Name": "vnd.mts",
+            "Template": "model/vnd.mts"
+        },
+        {
+            "Name": "vnd.opengex",
+            "Template": "model/vnd.opengex"
+        },
+        {
+            "Name": "vnd.parasolid.transmit.binary",
+            "Template": "model/vnd.parasolid.transmit.binary"
+        },
+        {
+            "Name": "vnd.parasolid.transmit.text",
+            "Template": "model/vnd.parasolid.transmit.text"
+        },
+        {
+            "Name": "vnd.pytha.pyox",
+            "Template": "model/vnd.pytha.pyox"
+        },
+        {
+            "Name": "vnd.rosette.annotated-data-model",
+            "Template": "model/vnd.rosette.annotated-data-model"
+        },
+        {
+            "Name": "vnd.sap.vds",
+            "Template": "model/vnd.sap.vds"
+        },
+        {
+            "Name": "vnd.usda",
+            "Template": "model/vnd.usda"
+        },
+        {
+            "Name": "vnd.usdz+zip",
+            "Template": "model/vnd.usdz+zip"
+        },
+        {
+            "Name": "vnd.valve.source.compiled-map",
+            "Template": "model/vnd.valve.source.compiled-map"
+        },
+        {
+            "Name": "vnd.vtu",
+            "Template": "model/vnd.vtu"
+        },
+        {
+            "Name": "vrml",
+            "Template": ""
+        },
+        {
+            "Name": "x3d-vrml",
+            "Template": "model/x3d-vrml"
+        },
+        {
+            "Name": "x3d+fastinfoset",
+            "Template": "model/x3d+fastinfoset"
+        },
+        {
+            "Name": "x3d+xml",
+            "Template": "model/x3d+xml"
+        }
+    ]
+}

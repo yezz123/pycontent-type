@@ -1,0 +1,636 @@
+{
+    "audio": [
+        {
+            "Name": "1d-interleaved-parityfec",
+            "Template": "audio/1d-interleaved-parityfec"
+        },
+        {
+            "Name": "32kadpcm",
+            "Template": "audio/32kadpcm"
+        },
+        {
+            "Name": "3gpp",
+            "Template": "audio/3gpp"
+        },
+        {
+            "Name": "3gpp2",
+            "Template": "audio/3gpp2"
+        },
+        {
+            "Name": "aac",
+            "Template": "audio/aac"
+        },
+        {
+            "Name": "ac3",
+            "Template": "audio/ac3"
+        },
+        {
+            "Name": "AMR",
+            "Template": "audio/AMR"
+        },
+        {
+            "Name": "AMR-WB",
+            "Template": "audio/AMR-WB"
+        },
+        {
+            "Name": "amr-wb+",
+            "Template": "audio/amr-wb+"
+        },
+        {
+            "Name": "aptx",
+            "Template": "audio/aptx"
+        },
+        {
+            "Name": "asc",
+            "Template": "audio/asc"
+        },
+        {
+            "Name": "ATRAC-ADVANCED-LOSSLESS",
+            "Template": "audio/ATRAC-ADVANCED-LOSSLESS"
+        },
+        {
+            "Name": "ATRAC-X",
+            "Template": "audio/ATRAC-X"
+        },
+        {
+            "Name": "ATRAC3",
+            "Template": "audio/ATRAC3"
+        },
+        {
+            "Name": "basic",
+            "Template": "audio/basic"
+        },
+        {
+            "Name": "BV16",
+            "Template": "audio/BV16"
+        },
+        {
+            "Name": "BV32",
+            "Template": "audio/BV32"
+        },
+        {
+            "Name": "clearmode",
+            "Template": "audio/clearmode"
+        },
+        {
+            "Name": "CN",
+            "Template": "audio/CN"
+        },
+        {
+            "Name": "DAT12",
+            "Template": "audio/DAT12"
+        },
+        {
+            "Name": "dls",
+            "Template": "audio/dls"
+        },
+        {
+            "Name": "dsr-es201108",
+            "Template": "audio/dsr-es201108"
+        },
+        {
+            "Name": "dsr-es202050",
+            "Template": "audio/dsr-es202050"
+        },
+        {
+            "Name": "dsr-es202211",
+            "Template": "audio/dsr-es202211"
+        },
+        {
+            "Name": "dsr-es202212",
+            "Template": "audio/dsr-es202212"
+        },
+        {
+            "Name": "DV",
+            "Template": "audio/DV"
+        },
+        {
+            "Name": "DVI4",
+            "Template": "audio/DVI4"
+        },
+        {
+            "Name": "eac3",
+            "Template": "audio/eac3"
+        },
+        {
+            "Name": "encaprtp",
+            "Template": "audio/encaprtp"
+        },
+        {
+            "Name": "EVRC",
+            "Template": "audio/EVRC"
+        },
+        {
+            "Name": "EVRC-QCP",
+            "Template": "audio/EVRC-QCP"
+        },
+        {
+            "Name": "EVRC0",
+            "Template": "audio/EVRC0"
+        },
+        {
+            "Name": "EVRC1",
+            "Template": "audio/EVRC1"
+        },
+        {
+            "Name": "EVRCB",
+            "Template": "audio/EVRCB"
+        },
+        {
+            "Name": "EVRCB0",
+            "Template": "audio/EVRCB0"
+        },
+        {
+            "Name": "EVRCB1",
+            "Template": "audio/EVRCB1"
+        },
+        {
+            "Name": "EVRCNW",
+            "Template": "audio/EVRCNW"
+        },
+        {
+            "Name": "EVRCNW0",
+            "Template": "audio/EVRCNW0"
+        },
+        {
+            "Name": "EVRCNW1",
+            "Template": "audio/EVRCNW1"
+        },
+        {
+            "Name": "EVRCWB",
+            "Template": "audio/EVRCWB"
+        },
+        {
+            "Name": "EVRCWB0",
+            "Template": "audio/EVRCWB0"
+        },
+        {
+            "Name": "EVRCWB1",
+            "Template": "audio/EVRCWB1"
+        },
+        {
+            "Name": "EVS",
+            "Template": "audio/EVS"
+        },
+        {
+            "Name": "example",
+            "Template": "audio/example"
+        },
+        {
+            "Name": "flexfec",
+            "Template": "audio/flexfec"
+        },
+        {
+            "Name": "fwdred",
+            "Template": "audio/fwdred"
+        },
+        {
+            "Name": "G711-0",
+            "Template": "audio/G711-0"
+        },
+        {
+            "Name": "G719",
+            "Template": "audio/G719"
+        },
+        {
+            "Name": "G7221",
+            "Template": "audio/G7221"
+        },
+        {
+            "Name": "G722",
+            "Template": "audio/G722"
+        },
+        {
+            "Name": "G723",
+            "Template": "audio/G723"
+        },
+        {
+            "Name": "G726-16",
+            "Template": "audio/G726-16"
+        },
+        {
+            "Name": "G726-24",
+            "Template": "audio/G726-24"
+        },
+        {
+            "Name": "G726-32",
+            "Template": "audio/G726-32"
+        },
+        {
+            "Name": "G726-40",
+            "Template": "audio/G726-40"
+        },
+        {
+            "Name": "G728",
+            "Template": "audio/G728"
+        },
+        {
+            "Name": "G729",
+            "Template": "audio/G729"
+        },
+        {
+            "Name": "G7291",
+            "Template": "audio/G7291"
+        },
+        {
+            "Name": "G729D",
+            "Template": "audio/G729D"
+        },
+        {
+            "Name": "G729E",
+            "Template": "audio/G729E"
+        },
+        {
+            "Name": "GSM",
+            "Template": "audio/GSM"
+        },
+        {
+            "Name": "GSM-EFR",
+            "Template": "audio/GSM-EFR"
+        },
+        {
+            "Name": "GSM-HR-08",
+            "Template": "audio/GSM-HR-08"
+        },
+        {
+            "Name": "iLBC",
+            "Template": "audio/iLBC"
+        },
+        {
+            "Name": "ip-mr_v2.5",
+            "Template": "audio/ip-mr_v2.5"
+        },
+        {
+            "Name": "L8",
+            "Template": "audio/L8"
+        },
+        {
+            "Name": "L16",
+            "Template": "audio/L16"
+        },
+        {
+            "Name": "L20",
+            "Template": "audio/L20"
+        },
+        {
+            "Name": "L24",
+            "Template": "audio/L24"
+        },
+        {
+            "Name": "LPC",
+            "Template": "audio/LPC"
+        },
+        {
+            "Name": "MELP",
+            "Template": "audio/MELP"
+        },
+        {
+            "Name": "MELP600",
+            "Template": "audio/MELP600"
+        },
+        {
+            "Name": "MELP1200",
+            "Template": "audio/MELP1200"
+        },
+        {
+            "Name": "MELP2400",
+            "Template": "audio/MELP2400"
+        },
+        {
+            "Name": "mhas",
+            "Template": "audio/mhas"
+        },
+        {
+            "Name": "mobile-xmf",
+            "Template": "audio/mobile-xmf"
+        },
+        {
+            "Name": "MPA",
+            "Template": "audio/MPA"
+        },
+        {
+            "Name": "mp4",
+            "Template": "audio/mp4"
+        },
+        {
+            "Name": "MP4A-LATM",
+            "Template": "audio/MP4A-LATM"
+        },
+        {
+            "Name": "mpa-robust",
+            "Template": "audio/mpa-robust"
+        },
+        {
+            "Name": "mpeg",
+            "Template": "audio/mpeg"
+        },
+        {
+            "Name": "mpeg4-generic",
+            "Template": "audio/mpeg4-generic"
+        },
+        {
+            "Name": "ogg",
+            "Template": "audio/ogg"
+        },
+        {
+            "Name": "opus",
+            "Template": "audio/opus"
+        },
+        {
+            "Name": "parityfec",
+            "Template": "audio/parityfec"
+        },
+        {
+            "Name": "PCMA",
+            "Template": "audio/PCMA"
+        },
+        {
+            "Name": "PCMA-WB",
+            "Template": "audio/PCMA-WB"
+        },
+        {
+            "Name": "PCMU",
+            "Template": "audio/PCMU"
+        },
+        {
+            "Name": "PCMU-WB",
+            "Template": "audio/PCMU-WB"
+        },
+        {
+            "Name": "prs.sid",
+            "Template": "audio/prs.sid"
+        },
+        {
+            "Name": "QCELP",
+            "Template": "audio/QCELP"
+        },
+        {
+            "Name": "raptorfec",
+            "Template": "audio/raptorfec"
+        },
+        {
+            "Name": "RED",
+            "Template": "audio/RED"
+        },
+        {
+            "Name": "rtp-enc-aescm128",
+            "Template": "audio/rtp-enc-aescm128"
+        },
+        {
+            "Name": "rtploopback",
+            "Template": "audio/rtploopback"
+        },
+        {
+            "Name": "rtp-midi",
+            "Template": "audio/rtp-midi"
+        },
+        {
+            "Name": "rtx",
+            "Template": "audio/rtx"
+        },
+        {
+            "Name": "scip",
+            "Template": "audio/scip"
+        },
+        {
+            "Name": "SMV",
+            "Template": "audio/SMV"
+        },
+        {
+            "Name": "SMV0",
+            "Template": "audio/SMV0"
+        },
+        {
+            "Name": "SMV-QCP",
+            "Template": "audio/SMV-QCP"
+        },
+        {
+            "Name": "sofa",
+            "Template": "audio/sofa"
+        },
+        {
+            "Name": "sp-midi",
+            "Template": "audio/sp-midi"
+        },
+        {
+            "Name": "speex",
+            "Template": "audio/speex"
+        },
+        {
+            "Name": "t140c",
+            "Template": "audio/t140c"
+        },
+        {
+            "Name": "t38",
+            "Template": "audio/t38"
+        },
+        {
+            "Name": "telephone-event",
+            "Template": "audio/telephone-event"
+        },
+        {
+            "Name": "TETRA_ACELP",
+            "Template": "audio/TETRA_ACELP"
+        },
+        {
+            "Name": "TETRA_ACELP_BB",
+            "Template": "audio/TETRA_ACELP_BB"
+        },
+        {
+            "Name": "tone",
+            "Template": "audio/tone"
+        },
+        {
+            "Name": "TSVCIS",
+            "Template": "audio/TSVCIS"
+        },
+        {
+            "Name": "UEMCLIP",
+            "Template": "audio/UEMCLIP"
+        },
+        {
+            "Name": "ulpfec",
+            "Template": "audio/ulpfec"
+        },
+        {
+            "Name": "usac",
+            "Template": "audio/usac"
+        },
+        {
+            "Name": "VDVI",
+            "Template": "audio/VDVI"
+        },
+        {
+            "Name": "VMR-WB",
+            "Template": "audio/VMR-WB"
+        },
+        {
+            "Name": "vnd.3gpp.iufp",
+            "Template": "audio/vnd.3gpp.iufp"
+        },
+        {
+            "Name": "vnd.4SB",
+            "Template": "audio/vnd.4SB"
+        },
+        {
+            "Name": "vnd.audiokoz",
+            "Template": "audio/vnd.audiokoz"
+        },
+        {
+            "Name": "vnd.CELP",
+            "Template": "audio/vnd.CELP"
+        },
+        {
+            "Name": "vnd.cisco.nse",
+            "Template": "audio/vnd.cisco.nse"
+        },
+        {
+            "Name": "vnd.cmles.radio-events",
+            "Template": "audio/vnd.cmles.radio-events"
+        },
+        {
+            "Name": "vnd.cns.anp1",
+            "Template": "audio/vnd.cns.anp1"
+        },
+        {
+            "Name": "vnd.cns.inf1",
+            "Template": "audio/vnd.cns.inf1"
+        },
+        {
+            "Name": "vnd.dece.audio",
+            "Template": "audio/vnd.dece.audio"
+        },
+        {
+            "Name": "vnd.digital-winds",
+            "Template": "audio/vnd.digital-winds"
+        },
+        {
+            "Name": "vnd.dlna.adts",
+            "Template": "audio/vnd.dlna.adts"
+        },
+        {
+            "Name": "vnd.dolby.heaac.1",
+            "Template": "audio/vnd.dolby.heaac.1"
+        },
+        {
+            "Name": "vnd.dolby.heaac.2",
+            "Template": "audio/vnd.dolby.heaac.2"
+        },
+        {
+            "Name": "vnd.dolby.mlp",
+            "Template": "audio/vnd.dolby.mlp"
+        },
+        {
+            "Name": "vnd.dolby.mps",
+            "Template": "audio/vnd.dolby.mps"
+        },
+        {
+            "Name": "vnd.dolby.pl2",
+            "Template": "audio/vnd.dolby.pl2"
+        },
+        {
+            "Name": "vnd.dolby.pl2x",
+            "Template": "audio/vnd.dolby.pl2x"
+        },
+        {
+            "Name": "vnd.dolby.pl2z",
+            "Template": "audio/vnd.dolby.pl2z"
+        },
+        {
+            "Name": "vnd.dolby.pulse.1",
+            "Template": "audio/vnd.dolby.pulse.1"
+        },
+        {
+            "Name": "vnd.dra",
+            "Template": "audio/vnd.dra"
+        },
+        {
+            "Name": "vnd.dts",
+            "Template": "audio/vnd.dts"
+        },
+        {
+            "Name": "vnd.dts.hd",
+            "Template": "audio/vnd.dts.hd"
+        },
+        {
+            "Name": "vnd.dts.uhd",
+            "Template": "audio/vnd.dts.uhd"
+        },
+        {
+            "Name": "vnd.dvb.file",
+            "Template": "audio/vnd.dvb.file"
+        },
+        {
+            "Name": "vnd.everad.plj",
+            "Template": "audio/vnd.everad.plj"
+        },
+        {
+            "Name": "vnd.hns.audio",
+            "Template": "audio/vnd.hns.audio"
+        },
+        {
+            "Name": "vnd.lucent.voice",
+            "Template": "audio/vnd.lucent.voice"
+        },
+        {
+            "Name": "vnd.ms-playready.media.pya",
+            "Template": "audio/vnd.ms-playready.media.pya"
+        },
+        {
+            "Name": "vnd.nokia.mobile-xmf",
+            "Template": "audio/vnd.nokia.mobile-xmf"
+        },
+        {
+            "Name": "vnd.nortel.vbk",
+            "Template": "audio/vnd.nortel.vbk"
+        },
+        {
+            "Name": "vnd.nuera.ecelp4800",
+            "Template": "audio/vnd.nuera.ecelp4800"
+        },
+        {
+            "Name": "vnd.nuera.ecelp7470",
+            "Template": "audio/vnd.nuera.ecelp7470"
+        },
+        {
+            "Name": "vnd.nuera.ecelp9600",
+            "Template": "audio/vnd.nuera.ecelp9600"
+        },
+        {
+            "Name": "vnd.octel.sbc",
+            "Template": "audio/vnd.octel.sbc"
+        },
+        {
+            "Name": "vnd.presonus.multitrack",
+            "Template": "audio/vnd.presonus.multitrack"
+        },
+        {
+            "Name": "vnd.qcelp - DEPRECATED in favor of audio/qcelp",
+            "Template": "audio/vnd.qcelp"
+        },
+        {
+            "Name": "vnd.rhetorex.32kadpcm",
+            "Template": "audio/vnd.rhetorex.32kadpcm"
+        },
+        {
+            "Name": "vnd.rip",
+            "Template": "audio/vnd.rip"
+        },
+        {
+            "Name": "vnd.sealedmedia.softseal.mpeg",
+            "Template": "audio/vnd.sealedmedia.softseal.mpeg"
+        },
+        {
+            "Name": "vnd.vmx.cvsd",
+            "Template": "audio/vnd.vmx.cvsd"
+        },
+        {
+            "Name": "vorbis",
+            "Template": "audio/vorbis"
+        },
+        {
+            "Name": "vorbis-config",
+            "Template": "audio/vorbis-config"
+        }
+    ]
+}

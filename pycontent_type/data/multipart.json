@@ -1,0 +1,72 @@
+{
+    "multipart": [
+        {
+            "Name": "alternative",
+            "Template": ""
+        },
+        {
+            "Name": "appledouble",
+            "Template": "multipart/appledouble"
+        },
+        {
+            "Name": "byteranges",
+            "Template": "multipart/byteranges"
+        },
+        {
+            "Name": "digest",
+            "Template": ""
+        },
+        {
+            "Name": "encrypted",
+            "Template": "multipart/encrypted"
+        },
+        {
+            "Name": "example",
+            "Template": "multipart/example"
+        },
+        {
+            "Name": "form-data",
+            "Template": "multipart/form-data"
+        },
+        {
+            "Name": "header-set",
+            "Template": "multipart/header-set"
+        },
+        {
+            "Name": "mixed",
+            "Template": ""
+        },
+        {
+            "Name": "multilingual",
+            "Template": "multipart/multilingual"
+        },
+        {
+            "Name": "parallel",
+            "Template": ""
+        },
+        {
+            "Name": "related",
+            "Template": "multipart/related"
+        },
+        {
+            "Name": "report",
+            "Template": "multipart/report"
+        },
+        {
+            "Name": "signed",
+            "Template": "multipart/signed"
+        },
+        {
+            "Name": "vnd.bint.med-plus",
+            "Template": "multipart/vnd.bint.med-plus"
+        },
+        {
+            "Name": "voice-message",
+            "Template": "multipart/voice-message"
+        },
+        {
+            "Name": "x-mixed-replace",
+            "Template": "multipart/x-mixed-replace"
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "video": [
+        {
+            "Name": "1d-interleaved-parityfec",
+            "Template": "video/1d-interleaved-parityfec"
+        },
+        {
+            "Name": "3gpp",
+            "Template": "video/3gpp"
+        },
+        {
+            "Name": "3gpp2",
+            "Template": "video/3gpp2"
+        },
+        {
+            "Name": "3gpp-tt",
+            "Template": "video/3gpp-tt"
+        },
+        {
+            "Name": "AV1",
+            "Template": "video/AV1"
+        },
+        {
+            "Name": "BMPEG",
+            "Template": "video/BMPEG"
+        },
+        {
+            "Name": "BT656",
+            "Template": "video/BT656"
+        },
+        {
+            "Name": "CelB",
+            "Template": "video/CelB"
+        },
+        {
+            "Name": "DV",
+            "Template": "video/DV"
+        },
+        {
+            "Name": "encaprtp",
+            "Template": "video/encaprtp"
+        },
+        {
+            "Name": "example",
+            "Template": "video/example"
+        },
+        {
+            "Name": "FFV1",
+            "Template": "video/FFV1"
+        },
+        {
+            "Name": "flexfec",
+            "Template": "video/flexfec"
+        },
+        {
+            "Name": "H261",
+            "Template": "video/H261"
+        },
+        {
+            "Name": "H263",
+            "Template": "video/H263"
+        },
+        {
+            "Name": "H263-1998",
+            "Template": "video/H263-1998"
+        },
+        {
+            "Name": "H263-2000",
+            "Template": "video/H263-2000"
+        },
+        {
+            "Name": "H264",
+            "Template": "video/H264"
+        },
+        {
+            "Name": "H264-RCDO",
+            "Template": "video/H264-RCDO"
+        },
+        {
+            "Name": "H264-SVC",
+            "Template": "video/H264-SVC"
+        },
+        {
+            "Name": "H265",
+            "Template": "video/H265"
+        },
+        {
+            "Name": "H266",
+            "Template": "video/H266"
+        },
+        {
+            "Name": "iso.segment",
+            "Template": "video/iso.segment"
+        },
+        {
+            "Name": "JPEG",
+            "Template": "video/JPEG"
+        },
+        {
+            "Name": "jpeg2000",
+            "Template": "video/jpeg2000"
+        },
+        {
+            "Name": "jxsv",
+            "Template": "video/jxsv"
+        },
+        {
+            "Name": "mj2",
+            "Template": "video/mj2"
+        },
+        {
+            "Name": "MP1S",
+            "Template": "video/MP1S"
+        },
+        {
+            "Name": "MP2P",
+            "Template": "video/MP2P"
+        },
+        {
+            "Name": "MP2T",
+            "Template": "video/MP2T"
+        },
+        {
+            "Name": "mp4",
+            "Template": "video/mp4"
+        },
+        {
+            "Name": "MP4V-ES",
+            "Template": "video/MP4V-ES"
+        },
+        {
+            "Name": "MPV",
+            "Template": "video/MPV"
+        },
+        {
+            "Name": "mpeg",
+            "Template": ""
+        },
+        {
+            "Name": "mpeg4-generic",
+            "Template": "video/mpeg4-generic"
+        },
+        {
+            "Name": "nv",
+            "Template": "video/nv"
+        },
+        {
+            "Name": "ogg",
+            "Template": "video/ogg"
+        },
+        {
+            "Name": "parityfec",
+            "Template": "video/parityfec"
+        },
+        {
+            "Name": "pointer",
+            "Template": "video/pointer"
+        },
+        {
+            "Name": "quicktime",
+            "Template": "video/quicktime"
+        },
+        {
+            "Name": "raptorfec",
+            "Template": "video/raptorfec"
+        },
+        {
+            "Name": "raw",
+            "Template": "video/raw"
+        },
+        {
+            "Name": "rtp-enc-aescm128",
+            "Template": "video/rtp-enc-aescm128"
+        },
+        {
+            "Name": "rtploopback",
+            "Template": "video/rtploopback"
+        },
+        {
+            "Name": "rtx",
+            "Template": "video/rtx"
+        },
+        {
+            "Name": "scip",
+            "Template": "video/scip"
+        },
+        {
+            "Name": "smpte291",
+            "Template": "video/smpte291"
+        },
+        {
+            "Name": "SMPTE292M",
+            "Template": "video/SMPTE292M"
+        },
+        {
+            "Name": "ulpfec",
+            "Template": "video/ulpfec"
+        },
+        {
+            "Name": "vc1",
+            "Template": "video/vc1"
+        },
+        {
+            "Name": "vc2",
+            "Template": "video/vc2"
+        },
+        {
+            "Name": "vnd.CCTV",
+            "Template": "video/vnd.CCTV"
+        },
+        {
+            "Name": "vnd.dece.hd",
+            "Template": "video/vnd.dece.hd"
+        },
+        {
+            "Name": "vnd.dece.mobile",
+            "Template": "video/vnd.dece.mobile"
+        },
+        {
+            "Name": "vnd.dece.mp4",
+            "Template": "video/vnd.dece.mp4"
+        },
+        {
+            "Name": "vnd.dece.pd",
+            "Template": "video/vnd.dece.pd"
+        },
+        {
+            "Name": "vnd.dece.sd",
+            "Template": "video/vnd.dece.sd"
+        },
+        {
+            "Name": "vnd.dece.video",
+            "Template": "video/vnd.dece.video"
+        },
+        {
+            "Name": "vnd.directv.mpeg",
+            "Template": "video/vnd.directv.mpeg"
+        },
+        {
+            "Name": "vnd.directv.mpeg-tts",
+            "Template": "video/vnd.directv.mpeg-tts"
+        },
+        {
+            "Name": "vnd.dlna.mpeg-tts",
+            "Template": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+            "Name": "vnd.dvb.file",
+            "Template": "video/vnd.dvb.file"
+        },
+        {
+            "Name": "vnd.fvt",
+            "Template": "video/vnd.fvt"
+        },
+        {
+            "Name": "vnd.hns.video",
+            "Template": "video/vnd.hns.video"
+        },
+        {
+            "Name": "vnd.iptvforum.1dparityfec-1010",
+            "Template": "video/vnd.iptvforum.1dparityfec-1010"
+        },
+        {
+            "Name": "vnd.iptvforum.1dparityfec-2005",
+            "Template": "video/vnd.iptvforum.1dparityfec-2005"
+        },
+        {
+            "Name": "vnd.iptvforum.2dparityfec-1010",
+            "Template": "video/vnd.iptvforum.2dparityfec-1010"
+        },
+        {
+            "Name": "vnd.iptvforum.2dparityfec-2005",
+            "Template": "video/vnd.iptvforum.2dparityfec-2005"
+        },
+        {
+            "Name": "vnd.iptvforum.ttsavc",
+            "Template": "video/vnd.iptvforum.ttsavc"
+        },
+        {
+            "Name": "vnd.iptvforum.ttsmpeg2",
+            "Template": "video/vnd.iptvforum.ttsmpeg2"
+        },
+        {
+            "Name": "vnd.motorola.video",
+            "Template": "video/vnd.motorola.video"
+        },
+        {
+            "Name": "vnd.motorola.videop",
+            "Template": "video/vnd.motorola.videop"
+        },
+        {
+            "Name": "vnd.mpegurl",
+            "Template": "video/vnd.mpegurl"
+        },
+        {
+            "Name": "vnd.ms-playready.media.pyv",
+            "Template": "video/vnd.ms-playready.media.pyv"
+        },
+        {
+            "Name": "vnd.nokia.interleaved-multimedia",
+            "Template": "video/vnd.nokia.interleaved-multimedia"
+        },
+        {
+            "Name": "vnd.nokia.mp4vr",
+            "Template": "video/vnd.nokia.mp4vr"
+        },
+        {
+            "Name": "vnd.nokia.videovoip",
+            "Template": "video/vnd.nokia.videovoip"
+        },
+        {
+            "Name": "vnd.objectvideo",
+            "Template": "video/vnd.objectvideo"
+        },
+        {
+            "Name": "vnd.radgamettools.bink",
+            "Template": "video/vnd.radgamettools.bink"
+        },
+        {
+            "Name": "vnd.radgamettools.smacker",
+            "Template": "video/vnd.radgamettools.smacker"
+        },
+        {
+            "Name": "vnd.sealed.mpeg1",
+            "Template": "video/vnd.sealed.mpeg1"
+        },
+        {
+            "Name": "vnd.sealed.mpeg4",
+            "Template": "video/vnd.sealed.mpeg4"
+        },
+        {
+            "Name": "vnd.sealed.swf",
+            "Template": "video/vnd.sealed.swf"
+        },
+        {
+            "Name": "vnd.sealedmedia.softseal.mov",
+            "Template": "video/vnd.sealedmedia.softseal.mov"
+        },
+        {
+            "Name": "vnd.uvvu.mp4",
+            "Template": "video/vnd.uvvu.mp4"
+        },
+        {
+            "Name": "vnd.youtube.yt",
+            "Template": "video/vnd.youtube.yt"
+        },
+        {
+            "Name": "vnd.vivo",
+            "Template": "video/vnd.vivo"
+        },
+        {
+            "Name": "VP8",
+            "Template": "video/VP8"
+        },
+        {
+            "Name": "VP9",
+            "Template": "video/VP9"
+        }
+    ]
+}

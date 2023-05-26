@@ -1,0 +1,376 @@
+{
+    "text": [
+        {
+            "Name": "1d-interleaved-parityfec",
+            "Template": "text/1d-interleaved-parityfec"
+        },
+        {
+            "Name": "cache-manifest",
+            "Template": "text/cache-manifest"
+        },
+        {
+            "Name": "calendar",
+            "Template": "text/calendar"
+        },
+        {
+            "Name": "cql",
+            "Template": "text/cql"
+        },
+        {
+            "Name": "cql-expression",
+            "Template": "text/cql-expression"
+        },
+        {
+            "Name": "cql-identifier",
+            "Template": "text/cql-identifier"
+        },
+        {
+            "Name": "css",
+            "Template": "text/css"
+        },
+        {
+            "Name": "csv",
+            "Template": "text/csv"
+        },
+        {
+            "Name": "csv-schema",
+            "Template": "text/csv-schema"
+        },
+        {
+            "Name": "directory - DEPRECATED by RFC6350",
+            "Template": "text/directory"
+        },
+        {
+            "Name": "dns",
+            "Template": "text/dns"
+        },
+        {
+            "Name": "ecmascript (OBSOLETED in favor of text/javascript)",
+            "Template": "text/ecmascript"
+        },
+        {
+            "Name": "encaprtp",
+            "Template": "text/encaprtp"
+        },
+        {
+            "Name": "enriched",
+            "Template": ""
+        },
+        {
+            "Name": "example",
+            "Template": "text/example"
+        },
+        {
+            "Name": "fhirpath",
+            "Template": "text/fhirpath"
+        },
+        {
+            "Name": "flexfec",
+            "Template": "text/flexfec"
+        },
+        {
+            "Name": "fwdred",
+            "Template": "text/fwdred"
+        },
+        {
+            "Name": "gff3",
+            "Template": "text/gff3"
+        },
+        {
+            "Name": "grammar-ref-list",
+            "Template": "text/grammar-ref-list"
+        },
+        {
+            "Name": "hl7v2",
+            "Template": "text/hl7v2"
+        },
+        {
+            "Name": "html",
+            "Template": "text/html"
+        },
+        {
+            "Name": "javascript",
+            "Template": "text/javascript"
+        },
+        {
+            "Name": "jcr-cnd",
+            "Template": "text/jcr-cnd"
+        },
+        {
+            "Name": "markdown",
+            "Template": "text/markdown"
+        },
+        {
+            "Name": "mizar",
+            "Template": "text/mizar"
+        },
+        {
+            "Name": "n3",
+            "Template": "text/n3"
+        },
+        {
+            "Name": "parameters",
+            "Template": "text/parameters"
+        },
+        {
+            "Name": "parityfec",
+            "Template": "text/parityfec"
+        },
+        {
+            "Name": "plain",
+            "Template": ""
+        },
+        {
+            "Name": "provenance-notation",
+            "Template": "text/provenance-notation"
+        },
+        {
+            "Name": "prs.fallenstein.rst",
+            "Template": "text/prs.fallenstein.rst"
+        },
+        {
+            "Name": "prs.lines.tag",
+            "Template": "text/prs.lines.tag"
+        },
+        {
+            "Name": "prs.prop.logic",
+            "Template": "text/prs.prop.logic"
+        },
+        {
+            "Name": "raptorfec",
+            "Template": "text/raptorfec"
+        },
+        {
+            "Name": "RED",
+            "Template": "text/RED"
+        },
+        {
+            "Name": "rfc822-headers",
+            "Template": "text/rfc822-headers"
+        },
+        {
+            "Name": "richtext",
+            "Template": ""
+        },
+        {
+            "Name": "rtf",
+            "Template": "text/rtf"
+        },
+        {
+            "Name": "rtp-enc-aescm128",
+            "Template": "text/rtp-enc-aescm128"
+        },
+        {
+            "Name": "rtploopback",
+            "Template": "text/rtploopback"
+        },
+        {
+            "Name": "rtx",
+            "Template": "text/rtx"
+        },
+        {
+            "Name": "SGML",
+            "Template": "text/SGML"
+        },
+        {
+            "Name": "shaclc",
+            "Template": "text/shaclc"
+        },
+        {
+            "Name": "shex",
+            "Template": "text/shex"
+        },
+        {
+            "Name": "spdx",
+            "Template": "text/spdx"
+        },
+        {
+            "Name": "strings",
+            "Template": "text/strings"
+        },
+        {
+            "Name": "t140",
+            "Template": "text/t140"
+        },
+        {
+            "Name": "tab-separated-values",
+            "Template": "text/tab-separated-values"
+        },
+        {
+            "Name": "troff",
+            "Template": "text/troff"
+        },
+        {
+            "Name": "turtle",
+            "Template": "text/turtle"
+        },
+        {
+            "Name": "ulpfec",
+            "Template": "text/ulpfec"
+        },
+        {
+            "Name": "uri-list",
+            "Template": "text/uri-list"
+        },
+        {
+            "Name": "vcard",
+            "Template": "text/vcard"
+        },
+        {
+            "Name": "vnd.a",
+            "Template": "text/vnd.a"
+        },
+        {
+            "Name": "vnd.abc",
+            "Template": "text/vnd.abc"
+        },
+        {
+            "Name": "vnd.ascii-art",
+            "Template": "text/vnd.ascii-art"
+        },
+        {
+            "Name": "vnd.curl",
+            "Template": "text/vnd.curl"
+        },
+        {
+            "Name": "vnd.debian.copyright",
+            "Template": "text/vnd.debian.copyright"
+        },
+        {
+            "Name": "vnd.DMClientScript",
+            "Template": "text/vnd.DMClientScript"
+        },
+        {
+            "Name": "vnd.dvb.subtitle",
+            "Template": "text/vnd.dvb.subtitle"
+        },
+        {
+            "Name": "vnd.esmertec.theme-descriptor",
+            "Template": "text/vnd.esmertec.theme-descriptor"
+        },
+        {
+            "Name": "vnd.exchangeable",
+            "Template": "text/vnd.exchangeable"
+        },
+        {
+            "Name": "vnd.familysearch.gedcom",
+            "Template": "text/vnd.familysearch.gedcom"
+        },
+        {
+            "Name": "vnd.ficlab.flt",
+            "Template": "text/vnd.ficlab.flt"
+        },
+        {
+            "Name": "vnd.fly",
+            "Template": "text/vnd.fly"
+        },
+        {
+            "Name": "vnd.fmi.flexstor",
+            "Template": "text/vnd.fmi.flexstor"
+        },
+        {
+            "Name": "vnd.gml",
+            "Template": "text/vnd.gml"
+        },
+        {
+            "Name": "vnd.graphviz",
+            "Template": "text/vnd.graphviz"
+        },
+        {
+            "Name": "vnd.hans",
+            "Template": "text/vnd.hans"
+        },
+        {
+            "Name": "vnd.hgl",
+            "Template": "text/vnd.hgl"
+        },
+        {
+            "Name": "vnd.in3d.3dml",
+            "Template": "text/vnd.in3d.3dml"
+        },
+        {
+            "Name": "vnd.in3d.spot",
+            "Template": "text/vnd.in3d.spot"
+        },
+        {
+            "Name": "vnd.IPTC.NewsML",
+            "Template": "text/vnd.IPTC.NewsML"
+        },
+        {
+            "Name": "vnd.IPTC.NITF",
+            "Template": "text/vnd.IPTC.NITF"
+        },
+        {
+            "Name": "vnd.latex-z",
+            "Template": "text/vnd.latex-z"
+        },
+        {
+            "Name": "vnd.motorola.reflex",
+            "Template": "text/vnd.motorola.reflex"
+        },
+        {
+            "Name": "vnd.ms-mediapackage",
+            "Template": "text/vnd.ms-mediapackage"
+        },
+        {
+            "Name": "vnd.net2phone.commcenter.command",
+            "Template": "text/vnd.net2phone.commcenter.command"
+        },
+        {
+            "Name": "vnd.radisys.msml-basic-layout",
+            "Template": "text/vnd.radisys.msml-basic-layout"
+        },
+        {
+            "Name": "vnd.senx.warpscript",
+            "Template": "text/vnd.senx.warpscript"
+        },
+        {
+            "Name": "vnd.si.uricatalogue (OBSOLETED by request)",
+            "Template": "text/vnd.si.uricatalogue"
+        },
+        {
+            "Name": "vnd.sun.j2me.app-descriptor",
+            "Template": "text/vnd.sun.j2me.app-descriptor"
+        },
+        {
+            "Name": "vnd.sosi",
+            "Template": "text/vnd.sosi"
+        },
+        {
+            "Name": "vnd.trolltech.linguist",
+            "Template": "text/vnd.trolltech.linguist"
+        },
+        {
+            "Name": "vnd.wap.si",
+            "Template": "text/vnd.wap.si"
+        },
+        {
+            "Name": "vnd.wap.sl",
+            "Template": "text/vnd.wap.sl"
+        },
+        {
+            "Name": "vnd.wap.wml",
+            "Template": "text/vnd.wap.wml"
+        },
+        {
+            "Name": "vnd.wap.wmlscript",
+            "Template": "text/vnd.wap.wmlscript"
+        },
+        {
+            "Name": "vtt",
+            "Template": "text/vtt"
+        },
+        {
+            "Name": "wgsl",
+            "Template": "text/wgsl"
+        },
+        {
+            "Name": "xml",
+            "Template": "text/xml"
+        },
+        {
+            "Name": "xml-external-parsed-entity",
+            "Template": "text/xml-external-parsed-entity"
+        }
+    ]
+}
