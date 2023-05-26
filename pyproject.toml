@@ -40,6 +40,7 @@ classifiers = [
 
 dependencies = [
     "typing-extensions >=3.7.4,<4.7.0",
+    "setuptools",
 ]
 
 dynamic = ["version"]
@@ -48,8 +49,7 @@ dynamic = ["version"]
 allow-direct-references = true
 
 [project.urls]
-Homepage = "https://github.com/yezz123/authx"
-Documentation = "https://authx.yezz.me/"
+Homepage = "https://github.com/yezz123/pycontent_type"
 Funding = 'https://github.com/sponsors/yezz123'
 
 [project.optional-dependencies]
